@@ -1,0 +1,2665 @@
+SaleDate,Item,Quantity,Price,Category,TotalSales,source_file
+2003-02-24,S10_1678,30,95.7,Motorcycles,2871.0,sales_data_sample.csv
+2003-05-07,S10_1678,34,81.35,Motorcycles,2765.8999999999996,sales_data_sample.csv
+2003-07-01,S10_1678,41,94.74,Motorcycles,3884.3399999999997,sales_data_sample.csv
+2003-08-25,S10_1678,45,83.26,Motorcycles,3746.7000000000003,sales_data_sample.csv
+2003-10-10,S10_1678,49,100.0,Motorcycles,4900.0,sales_data_sample.csv
+2003-10-28,S10_1678,36,96.66,Motorcycles,3479.7599999999998,sales_data_sample.csv
+2003-11-11,S10_1678,29,86.13,Motorcycles,2497.77,sales_data_sample.csv
+2003-11-18,S10_1678,48,100.0,Motorcycles,4800.0,sales_data_sample.csv
+2003-12-01,S10_1678,22,98.57,Motorcycles,2168.54,sales_data_sample.csv
+2004-01-15,S10_1678,41,100.0,Motorcycles,4100.0,sales_data_sample.csv
+2004-02-20,S10_1678,37,100.0,Motorcycles,3700.0,sales_data_sample.csv
+2004-04-05,S10_1678,23,100.0,Motorcycles,2300.0,sales_data_sample.csv
+2004-05-18,S10_1678,28,100.0,Motorcycles,2800.0,sales_data_sample.csv
+2004-06-28,S10_1678,34,100.0,Motorcycles,3400.0,sales_data_sample.csv
+2004-07-23,S10_1678,45,92.83,Motorcycles,4177.35,sales_data_sample.csv
+2004-08-27,S10_1678,36,100.0,Motorcycles,3600.0,sales_data_sample.csv
+2004-09-30,S10_1678,23,100.0,Motorcycles,2300.0,sales_data_sample.csv
+2004-10-15,S10_1678,41,100.0,Motorcycles,4100.0,sales_data_sample.csv
+2004-11-02,S10_1678,46,94.74,Motorcycles,4358.04,sales_data_sample.csv
+2004-11-15,S10_1678,42,100.0,Motorcycles,4200.0,sales_data_sample.csv
+2004-11-24,S10_1678,41,100.0,Motorcycles,4100.0,sales_data_sample.csv
+2004-12-17,S10_1678,20,72.55,Motorcycles,1451.0,sales_data_sample.csv
+2005-02-03,S10_1678,21,34.91,Motorcycles,733.1099999999999,sales_data_sample.csv
+2005-03-03,S10_1678,42,76.36,Motorcycles,3207.12,sales_data_sample.csv
+2005-04-08,S10_1678,24,100.0,Motorcycles,2400.0,sales_data_sample.csv
+2003-01-29,S10_1949,26,100.0,Classic Cars,2600.0,sales_data_sample.csv
+2003-03-24,S10_1949,29,100.0,Classic Cars,2900.0,sales_data_sample.csv
+2003-05-28,S10_1949,38,100.0,Classic Cars,3800.0,sales_data_sample.csv
+2003-07-24,S10_1949,37,100.0,Classic Cars,3700.0,sales_data_sample.csv
+2003-09-19,S10_1949,45,100.0,Classic Cars,4500.0,sales_data_sample.csv
+2003-10-20,S10_1949,21,100.0,Classic Cars,2100.0,sales_data_sample.csv
+2003-11-06,S10_1949,34,100.0,Classic Cars,3400.0,sales_data_sample.csv
+2003-11-13,S10_1949,23,100.0,Classic Cars,2300.0,sales_data_sample.csv
+2003-11-25,S10_1949,42,100.0,Classic Cars,4200.0,sales_data_sample.csv
+2003-12-05,S10_1949,47,100.0,Classic Cars,4700.0,sales_data_sample.csv
+2004-01-29,S10_1949,35,100.0,Classic Cars,3500.0,sales_data_sample.csv
+2004-03-10,S10_1949,29,100.0,Classic Cars,2900.0,sales_data_sample.csv
+2004-05-04,S10_1949,34,100.0,Classic Cars,3400.0,sales_data_sample.csv
+2004-06-15,S10_1949,32,100.0,Classic Cars,3200.0,sales_data_sample.csv
+2004-07-19,S10_1949,21,100.0,Classic Cars,2100.0,sales_data_sample.csv
+2004-08-17,S10_1949,34,100.0,Classic Cars,3400.0,sales_data_sample.csv
+2004-09-08,S10_1949,37,100.0,Classic Cars,3700.0,sales_data_sample.csv
+2004-10-11,S10_1949,47,100.0,Classic Cars,4700.0,sales_data_sample.csv
+2004-10-21,S10_1949,48,100.0,Classic Cars,4800.0,sales_data_sample.csv
+2004-11-04,S10_1949,40,100.0,Classic Cars,4000.0,sales_data_sample.csv
+2004-11-18,S10_1949,26,100.0,Classic Cars,2600.0,sales_data_sample.csv
+2004-11-29,S10_1949,30,100.0,Classic Cars,3000.0,sales_data_sample.csv
+2004-12-10,S10_1949,32,100.0,Classic Cars,3200.0,sales_data_sample.csv
+2005-01-20,S10_1949,41,100.0,Classic Cars,4100.0,sales_data_sample.csv
+2005-02-17,S10_1949,36,100.0,Classic Cars,3600.0,sales_data_sample.csv
+2005-03-09,S10_1949,24,100.0,Classic Cars,2400.0,sales_data_sample.csv
+2005-05-01,S10_1949,23,100.0,Classic Cars,2300.0,sales_data_sample.csv
+2003-02-24,S10_2016,39,99.91,Motorcycles,3896.49,sales_data_sample.csv
+2003-04-29,S10_2016,29,96.34,Motorcycles,2793.86,sales_data_sample.csv
+2003-07-01,S10_2016,27,100.0,Motorcycles,2700.0,sales_data_sample.csv
+2003-08-25,S10_2016,37,100.0,Motorcycles,3700.0,sales_data_sample.csv
+2003-10-10,S10_2016,37,100.0,Motorcycles,3700.0,sales_data_sample.csv
+2003-10-28,S10_2016,27,100.0,Motorcycles,2700.0,sales_data_sample.csv
+2003-11-11,S10_2016,42,100.0,Motorcycles,4200.0,sales_data_sample.csv
+2003-11-18,S10_2016,38,96.34,Motorcycles,3660.92,sales_data_sample.csv
+2003-12-01,S10_2016,24,100.0,Motorcycles,2400.0,sales_data_sample.csv
+2004-01-12,S10_2016,23,100.0,Motorcycles,2300.0,sales_data_sample.csv
+2004-02-20,S10_2016,47,100.0,Motorcycles,4700.0,sales_data_sample.csv
+2004-04-03,S10_2016,22,100.0,Motorcycles,2200.0,sales_data_sample.csv
+2004-05-18,S10_2016,44,100.0,Motorcycles,4400.0,sales_data_sample.csv
+2004-06-28,S10_2016,40,100.0,Motorcycles,4000.0,sales_data_sample.csv
+2004-07-23,S10_2016,22,100.0,Motorcycles,2200.0,sales_data_sample.csv
+2004-08-27,S10_2016,47,100.0,Motorcycles,4700.0,sales_data_sample.csv
+2004-09-27,S10_2016,39,96.34,Motorcycles,3757.26,sales_data_sample.csv
+2004-10-15,S10_2016,34,100.0,Motorcycles,3400.0,sales_data_sample.csv
+2004-11-02,S10_2016,45,100.0,Motorcycles,4500.0,sales_data_sample.csv
+2004-11-15,S10_2016,20,100.0,Motorcycles,2000.0,sales_data_sample.csv
+2004-11-23,S10_2016,40,68.92,Motorcycles,2756.8,sales_data_sample.csv
+2004-12-17,S10_2016,26,51.15,Motorcycles,1329.8999999999999,sales_data_sample.csv
+2005-02-02,S10_2016,39,100.0,Motorcycles,3900.0,sales_data_sample.csv
+2005-03-03,S10_2016,50,44.51,Motorcycles,2225.5,sales_data_sample.csv
+2005-04-07,S10_2016,45,100.0,Motorcycles,4500.0,sales_data_sample.csv
+2003-02-24,S10_4698,27,100.0,Motorcycles,2700.0,sales_data_sample.csv
+2003-04-29,S10_4698,46,100.0,Motorcycles,4600.0,sales_data_sample.csv
+2003-07-01,S10_4698,31,100.0,Motorcycles,3100.0,sales_data_sample.csv
+2003-08-25,S10_4698,33,100.0,Motorcycles,3300.0,sales_data_sample.csv
+2003-10-10,S10_4698,22,100.0,Motorcycles,2200.0,sales_data_sample.csv
+2003-10-28,S10_4698,20,100.0,Motorcycles,2000.0,sales_data_sample.csv
+2003-11-11,S10_4698,41,100.0,Motorcycles,4100.0,sales_data_sample.csv
+2003-11-18,S10_4698,45,100.0,Motorcycles,4500.0,sales_data_sample.csv
+2003-12-01,S10_4698,49,100.0,Motorcycles,4900.0,sales_data_sample.csv
+2004-01-12,S10_4698,34,100.0,Motorcycles,3400.0,sales_data_sample.csv
+2004-02-20,S10_4698,49,100.0,Motorcycles,4900.0,sales_data_sample.csv
+2004-04-05,S10_4698,39,100.0,Motorcycles,3900.0,sales_data_sample.csv
+2004-05-18,S10_4698,43,100.0,Motorcycles,4300.0,sales_data_sample.csv
+2004-06-28,S10_4698,41,100.0,Motorcycles,4100.0,sales_data_sample.csv
+2004-07-23,S10_4698,36,100.0,Motorcycles,3600.0,sales_data_sample.csv
+2004-08-27,S10_4698,27,100.0,Motorcycles,2700.0,sales_data_sample.csv
+2004-09-30,S10_4698,29,100.0,Motorcycles,2900.0,sales_data_sample.csv
+2004-10-15,S10_4698,20,100.0,Motorcycles,2000.0,sales_data_sample.csv
+2004-11-02,S10_4698,37,100.0,Motorcycles,3700.0,sales_data_sample.csv
+2004-11-15,S10_4698,26,100.0,Motorcycles,2600.0,sales_data_sample.csv
+2004-11-23,S10_4698,39,76.67,Motorcycles,2990.13,sales_data_sample.csv
+2005-01-05,S10_4698,22,100.0,Motorcycles,2200.0,sales_data_sample.csv
+2005-02-02,S10_4698,22,100.0,Motorcycles,2200.0,sales_data_sample.csv
+2005-03-03,S10_4698,21,86.77,Motorcycles,1822.1699999999998,sales_data_sample.csv
+2005-04-08,S10_4698,66,100.0,Motorcycles,6600.0,sales_data_sample.csv
+2003-02-11,S10_4757,50,100.0,Classic Cars,5000.0,sales_data_sample.csv
+2003-04-28,S10_4757,46,100.0,Classic Cars,4600.0,sales_data_sample.csv
+2003-06-12,S10_4757,33,100.0,Classic Cars,3300.0,sales_data_sample.csv
+2003-08-10,S10_4757,49,100.0,Classic Cars,4900.0,sales_data_sample.csv
+2003-10-06,S10_4757,32,100.0,Classic Cars,3200.0,sales_data_sample.csv
+2003-11-08,S10_4757,24,100.0,Classic Cars,2400.0,sales_data_sample.csv
+2003-11-14,S10_4757,26,100.0,Classic Cars,2600.0,sales_data_sample.csv
+2003-11-26,S10_4757,45,100.0,Classic Cars,4500.0,sales_data_sample.csv
+2004-01-09,S10_4757,39,100.0,Classic Cars,3900.0,sales_data_sample.csv
+2004-02-19,S10_4757,49,100.0,Classic Cars,4900.0,sales_data_sample.csv
+2004-06-17,S10_4757,27,100.0,Classic Cars,2700.0,sales_data_sample.csv
+2004-07-21,S10_4757,30,100.0,Classic Cars,3000.0,sales_data_sample.csv
+2004-08-20,S10_4757,25,100.0,Classic Cars,2500.0,sales_data_sample.csv
+2004-09-10,S10_4757,24,100.0,Classic Cars,2400.0,sales_data_sample.csv
+2004-10-14,S10_4757,22,100.0,Classic Cars,2200.0,sales_data_sample.csv
+2004-11-01,S10_4757,33,100.0,Classic Cars,3300.0,sales_data_sample.csv
+2004-11-05,S10_4757,47,64.93,Classic Cars,3051.7100000000005,sales_data_sample.csv
+2004-11-21,S10_4757,25,48.05,Classic Cars,1201.25,sales_data_sample.csv
+2004-12-02,S10_4757,26,75.47,Classic Cars,1962.22,sales_data_sample.csv
+2004-12-15,S10_4757,48,54.68,Classic Cars,2624.64,sales_data_sample.csv
+2005-01-31,S10_4757,39,100.0,Classic Cars,3900.0,sales_data_sample.csv
+2005-02-23,S10_4757,34,100.0,Classic Cars,3400.0,sales_data_sample.csv
+2005-03-17,S10_4757,32,100.0,Classic Cars,3200.0,sales_data_sample.csv
+2005-04-01,S10_4757,64,100.0,Classic Cars,6400.0,sales_data_sample.csv
+2003-01-29,S10_4962,42,100.0,Classic Cars,4200.0,sales_data_sample.csv
+2003-04-01,S10_4962,31,100.0,Classic Cars,3100.0,sales_data_sample.csv
+2003-05-28,S10_4962,22,100.0,Classic Cars,2200.0,sales_data_sample.csv
+2003-07-24,S10_4962,26,100.0,Classic Cars,2600.0,sales_data_sample.csv
+2003-09-19,S10_4962,20,100.0,Classic Cars,2000.0,sales_data_sample.csv
+2003-10-21,S10_4962,21,100.0,Classic Cars,2100.0,sales_data_sample.csv
+2003-11-06,S10_4962,33,100.0,Classic Cars,3300.0,sales_data_sample.csv
+2003-11-13,S10_4962,28,100.0,Classic Cars,2800.0,sales_data_sample.csv
+2003-11-25,S10_4962,26,100.0,Classic Cars,2600.0,sales_data_sample.csv
+2003-12-09,S10_4962,31,100.0,Classic Cars,3100.0,sales_data_sample.csv
+2004-02-04,S10_4962,48,100.0,Classic Cars,4800.0,sales_data_sample.csv
+2004-03-11,S10_4962,50,100.0,Classic Cars,5000.0,sales_data_sample.csv
+2004-05-04,S10_4962,28,100.0,Classic Cars,2800.0,sales_data_sample.csv
+2004-06-15,S10_4962,26,100.0,Classic Cars,2600.0,sales_data_sample.csv
+2004-07-19,S10_4962,32,100.0,Classic Cars,3200.0,sales_data_sample.csv
+2004-08-19,S10_4962,44,100.0,Classic Cars,4400.0,sales_data_sample.csv
+2004-09-08,S10_4962,30,100.0,Classic Cars,3000.0,sales_data_sample.csv
+2004-10-13,S10_4962,38,100.0,Classic Cars,3800.0,sales_data_sample.csv
+2004-10-22,S10_4962,40,100.0,Classic Cars,4000.0,sales_data_sample.csv
+2004-11-04,S10_4962,46,61.99,Classic Cars,2851.54,sales_data_sample.csv
+2004-11-29,S10_4962,27,100.0,Classic Cars,2700.0,sales_data_sample.csv
+2004-12-10,S10_4962,43,100.0,Classic Cars,4300.0,sales_data_sample.csv
+2005-01-20,S10_4962,35,65.63,Classic Cars,2297.0499999999997,sales_data_sample.csv
+2005-02-17,S10_4962,37,100.0,Classic Cars,3700.0,sales_data_sample.csv
+2005-03-09,S10_4962,37,46.9,Classic Cars,1735.3,sales_data_sample.csv
+2005-05-01,S10_4962,27,100.0,Classic Cars,2700.0,sales_data_sample.csv
+2003-03-03,S12_1099,33,100.0,Classic Cars,3300.0,sales_data_sample.csv
+2003-05-08,S12_1099,42,100.0,Classic Cars,4200.0,sales_data_sample.csv
+2003-07-02,S12_1099,42,100.0,Classic Cars,4200.0,sales_data_sample.csv
+2003-09-05,S12_1099,48,100.0,Classic Cars,4800.0,sales_data_sample.csv
+2003-10-10,S12_1099,41,100.0,Classic Cars,4100.0,sales_data_sample.csv
+2003-11-04,S12_1099,30,100.0,Classic Cars,3000.0,sales_data_sample.csv
+2003-11-12,S12_1099,27,100.0,Classic Cars,2700.0,sales_data_sample.csv
+2003-11-20,S12_1099,21,100.0,Classic Cars,2100.0,sales_data_sample.csv
+2003-12-02,S12_1099,20,100.0,Classic Cars,2000.0,sales_data_sample.csv
+2004-01-15,S12_1099,41,100.0,Classic Cars,4100.0,sales_data_sample.csv
+2004-02-22,S12_1099,27,100.0,Classic Cars,2700.0,sales_data_sample.csv
+2004-04-09,S12_1099,28,100.0,Classic Cars,2800.0,sales_data_sample.csv
+2004-07-06,S12_1099,44,100.0,Classic Cars,4400.0,sales_data_sample.csv
+2004-08-02,S12_1099,50,100.0,Classic Cars,5000.0,sales_data_sample.csv
+2004-08-30,S12_1099,21,100.0,Classic Cars,2100.0,sales_data_sample.csv
+2003-10-04,S12_1099,33,100.0,Classic Cars,3300.0,sales_data_sample.csv
+2004-10-16,S12_1099,33,100.0,Classic Cars,3300.0,sales_data_sample.csv
+2004-11-03,S12_1099,31,100.0,Classic Cars,3100.0,sales_data_sample.csv
+2004-11-15,S12_1099,41,71.47,Classic Cars,2930.27,sales_data_sample.csv
+2004-11-24,S12_1099,45,79.65,Classic Cars,3584.2500000000005,sales_data_sample.csv
+2005-01-06,S12_1099,33,85.39,Classic Cars,2817.87,sales_data_sample.csv
+2005-02-03,S12_1099,45,76.0,Classic Cars,3420.0,sales_data_sample.csv
+2005-03-03,S12_1099,26,99.04,Classic Cars,2575.04,sales_data_sample.csv
+2005-05-17,S12_1099,12,100.0,Classic Cars,1200.0,sales_data_sample.csv
+2003-02-11,S12_1108,41,100.0,Classic Cars,4100.0,sales_data_sample.csv
+2003-04-16,S12_1108,33,100.0,Classic Cars,3300.0,sales_data_sample.csv
+2003-06-03,S12_1108,46,100.0,Classic Cars,4600.0,sales_data_sample.csv
+2003-08-08,S12_1108,33,100.0,Classic Cars,3300.0,sales_data_sample.csv
+2003-09-28,S12_1108,20,100.0,Classic Cars,2000.0,sales_data_sample.csv
+2003-10-22,S12_1108,44,100.0,Classic Cars,4400.0,sales_data_sample.csv
+2003-11-06,S12_1108,33,100.0,Classic Cars,3300.0,sales_data_sample.csv
+2003-11-14,S12_1108,21,100.0,Classic Cars,2100.0,sales_data_sample.csv
+2003-11-26,S12_1108,47,100.0,Classic Cars,4700.0,sales_data_sample.csv
+2004-01-02,S12_1108,46,100.0,Classic Cars,4600.0,sales_data_sample.csv
+2004-02-12,S12_1108,32,100.0,Classic Cars,3200.0,sales_data_sample.csv
+2004-03-19,S12_1108,42,100.0,Classic Cars,4200.0,sales_data_sample.csv
+2004-05-05,S12_1108,44,100.0,Classic Cars,4400.0,sales_data_sample.csv
+2004-07-20,S12_1108,35,100.0,Classic Cars,3500.0,sales_data_sample.csv
+2004-08-20,S12_1108,41,100.0,Classic Cars,4100.0,sales_data_sample.csv
+2004-09-09,S12_1108,46,100.0,Classic Cars,4600.0,sales_data_sample.csv
+2004-10-14,S12_1108,31,100.0,Classic Cars,3100.0,sales_data_sample.csv
+2004-10-22,S12_1108,38,100.0,Classic Cars,3800.0,sales_data_sample.csv
+2004-11-05,S12_1108,42,64.0,Classic Cars,2688.0,sales_data_sample.csv
+2004-11-20,S12_1108,33,57.22,Classic Cars,1888.26,sales_data_sample.csv
+2004-11-01,S12_1108,48,52.36,Classic Cars,2513.2799999999997,sales_data_sample.csv
+2004-12-15,S12_1108,42,100.0,Classic Cars,4200.0,sales_data_sample.csv
+2005-01-23,S12_1108,32,100.0,Classic Cars,3200.0,sales_data_sample.csv
+2005-02-17,S12_1108,34,100.0,Classic Cars,3400.0,sales_data_sample.csv
+2005-03-17,S12_1108,33,69.12,Classic Cars,2280.96,sales_data_sample.csv
+2005-05-05,S12_1108,36,100.0,Classic Cars,3600.0,sales_data_sample.csv
+2003-01-29,S12_1666,27,100.0,Trucks and Buses,2700.0,sales_data_sample.csv
+2003-03-26,S12_1666,21,100.0,Trucks and Buses,2100.0,sales_data_sample.csv
+2003-05-28,S12_1666,21,100.0,Trucks and Buses,2100.0,sales_data_sample.csv
+2003-07-24,S12_1666,38,100.0,Trucks and Buses,3800.0,sales_data_sample.csv
+2003-09-19,S12_1666,30,100.0,Trucks and Buses,3000.0,sales_data_sample.csv
+2003-10-21,S12_1666,49,100.0,Trucks and Buses,4900.0,sales_data_sample.csv
+2003-11-06,S12_1666,43,100.0,Trucks and Buses,4300.0,sales_data_sample.csv
+2003-11-13,S12_1666,41,100.0,Trucks and Buses,4100.0,sales_data_sample.csv
+2003-11-25,S12_1666,38,100.0,Trucks and Buses,3800.0,sales_data_sample.csv
+2003-12-05,S12_1666,28,100.0,Trucks and Buses,2800.0,sales_data_sample.csv
+2004-02-02,S12_1666,43,100.0,Trucks and Buses,4300.0,sales_data_sample.csv
+2004-03-11,S12_1666,25,100.0,Trucks and Buses,2500.0,sales_data_sample.csv
+2004-05-04,S12_1666,38,100.0,Trucks and Buses,3800.0,sales_data_sample.csv
+2004-06-15,S12_1666,41,100.0,Trucks and Buses,4100.0,sales_data_sample.csv
+2004-07-19,S12_1666,28,100.0,Trucks and Buses,2800.0,sales_data_sample.csv
+2004-08-19,S12_1666,25,100.0,Trucks and Buses,2500.0,sales_data_sample.csv
+2004-09-08,S12_1666,41,100.0,Trucks and Buses,4100.0,sales_data_sample.csv
+2004-10-11,S12_1666,39,100.0,Trucks and Buses,3900.0,sales_data_sample.csv
+2004-10-22,S12_1666,21,100.0,Trucks and Buses,2100.0,sales_data_sample.csv
+2004-11-04,S12_1666,27,100.0,Trucks and Buses,2700.0,sales_data_sample.csv
+2004-11-18,S12_1666,33,99.21,Trucks and Buses,3273.93,sales_data_sample.csv
+2004-11-29,S12_1666,29,100.0,Trucks and Buses,2900.0,sales_data_sample.csv
+2004-12-10,S12_1666,49,100.0,Trucks and Buses,4900.0,sales_data_sample.csv
+2005-01-20,S12_1666,49,100.0,Trucks and Buses,4900.0,sales_data_sample.csv
+2005-02-17,S12_1666,20,100.0,Trucks and Buses,2000.0,sales_data_sample.csv
+2005-03-09,S12_1666,39,63.2,Trucks and Buses,2464.8,sales_data_sample.csv
+2005-05-01,S12_1666,40,100.0,Trucks and Buses,4000.0,sales_data_sample.csv
+2003-02-24,S12_2823,21,100.0,Motorcycles,2100.0,sales_data_sample.csv
+2003-05-07,S12_2823,50,100.0,Motorcycles,5000.0,sales_data_sample.csv
+2003-07-01,S12_2823,20,100.0,Motorcycles,2000.0,sales_data_sample.csv
+2003-08-25,S12_2823,49,100.0,Motorcycles,4900.0,sales_data_sample.csv
+2003-10-10,S12_2823,38,100.0,Motorcycles,3800.0,sales_data_sample.csv
+2003-11-04,S12_2823,35,100.0,Motorcycles,3500.0,sales_data_sample.csv
+2003-11-11,S12_2823,40,100.0,Motorcycles,4000.0,sales_data_sample.csv
+2003-11-18,S12_2823,28,100.0,Motorcycles,2800.0,sales_data_sample.csv
+2003-12-01,S12_2823,25,100.0,Motorcycles,2500.0,sales_data_sample.csv
+2004-01-15,S12_2823,36,100.0,Motorcycles,3600.0,sales_data_sample.csv
+2004-02-21,S12_2823,43,100.0,Motorcycles,4300.0,sales_data_sample.csv
+2004-04-05,S12_2823,32,100.0,Motorcycles,3200.0,sales_data_sample.csv
+2004-05-18,S12_2823,46,100.0,Motorcycles,4600.0,sales_data_sample.csv
+2004-06-28,S12_2823,48,100.0,Motorcycles,4800.0,sales_data_sample.csv
+2004-08-02,S12_2823,43,100.0,Motorcycles,4300.0,sales_data_sample.csv
+2004-08-27,S12_2823,49,100.0,Motorcycles,4900.0,sales_data_sample.csv
+2004-09-30,S12_2823,24,100.0,Motorcycles,2400.0,sales_data_sample.csv
+2004-10-15,S12_2823,26,100.0,Motorcycles,2600.0,sales_data_sample.csv
+2004-11-03,S12_2823,30,100.0,Motorcycles,3000.0,sales_data_sample.csv
+2004-11-15,S12_2823,24,100.0,Motorcycles,2400.0,sales_data_sample.csv
+2004-11-24,S12_2823,55,100.0,Motorcycles,5500.0,sales_data_sample.csv
+2005-01-05,S12_2823,22,100.0,Motorcycles,2200.0,sales_data_sample.csv
+2005-02-03,S12_2823,49,78.92,Motorcycles,3867.08,sales_data_sample.csv
+2005-03-03,S12_2823,44,100.0,Motorcycles,4400.0,sales_data_sample.csv
+2005-04-08,S12_2823,66,100.0,Motorcycles,6600.0,sales_data_sample.csv
+2003-01-31,S12_3148,34,100.0,Classic Cars,3400.0,sales_data_sample.csv
+2003-04-16,S12_3148,43,100.0,Classic Cars,4300.0,sales_data_sample.csv
+2003-06-03,S12_3148,46,100.0,Classic Cars,4600.0,sales_data_sample.csv
+2003-08-08,S12_3148,33,100.0,Classic Cars,3300.0,sales_data_sample.csv
+2003-09-28,S12_3148,42,100.0,Classic Cars,4200.0,sales_data_sample.csv
+2003-10-22,S12_3148,34,100.0,Classic Cars,3400.0,sales_data_sample.csv
+2003-11-06,S12_3148,47,100.0,Classic Cars,4700.0,sales_data_sample.csv
+2003-11-14,S12_3148,33,100.0,Classic Cars,3300.0,sales_data_sample.csv
+2003-11-26,S12_3148,24,100.0,Classic Cars,2400.0,sales_data_sample.csv
+2004-01-02,S12_3148,26,100.0,Classic Cars,2600.0,sales_data_sample.csv
+2004-02-12,S12_3148,30,100.0,Classic Cars,3000.0,sales_data_sample.csv
+2004-03-15,S12_3148,43,100.0,Classic Cars,4300.0,sales_data_sample.csv
+2004-05-05,S12_3148,25,100.0,Classic Cars,2500.0,sales_data_sample.csv
+2004-07-20,S12_3148,27,100.0,Classic Cars,2700.0,sales_data_sample.csv
+2004-08-20,S12_3148,27,100.0,Classic Cars,2700.0,sales_data_sample.csv
+2004-09-09,S12_3148,24,100.0,Classic Cars,2400.0,sales_data_sample.csv
+2004-10-14,S12_3148,34,100.0,Classic Cars,3400.0,sales_data_sample.csv
+2004-10-22,S12_3148,46,100.0,Classic Cars,4600.0,sales_data_sample.csv
+2004-11-05,S12_3148,27,54.33,Classic Cars,1466.9099999999999,sales_data_sample.csv
+2004-11-20,S12_3148,33,100.0,Classic Cars,3300.0,sales_data_sample.csv
+2004-11-01,S12_3148,47,100.0,Classic Cars,4700.0,sales_data_sample.csv
+2004-12-10,S12_3148,49,55.34,Classic Cars,2711.6600000000003,sales_data_sample.csv
+2005-01-26,S12_3148,40,100.0,Classic Cars,4000.0,sales_data_sample.csv
+2005-02-17,S12_3148,37,100.0,Classic Cars,3700.0,sales_data_sample.csv
+2005-05-05,S12_3148,47,100.0,Classic Cars,4700.0,sales_data_sample.csv
+2003-03-03,S12_3380,45,100.0,Classic Cars,4500.0,sales_data_sample.csv
+2003-05-08,S12_3380,37,99.82,Classic Cars,3693.3399999999997,sales_data_sample.csv
+2003-07-02,S12_3380,48,100.0,Classic Cars,4800.0,sales_data_sample.csv
+2003-09-05,S12_3380,31,100.0,Classic Cars,3100.0,sales_data_sample.csv
+2003-10-11,S12_3380,46,100.0,Classic Cars,4600.0,sales_data_sample.csv
+2003-11-04,S12_3380,47,100.0,Classic Cars,4700.0,sales_data_sample.csv
+2003-11-12,S12_3380,28,100.0,Classic Cars,2800.0,sales_data_sample.csv
+2003-11-20,S12_3380,40,100.0,Classic Cars,4000.0,sales_data_sample.csv
+2003-12-02,S12_3380,20,100.0,Classic Cars,2000.0,sales_data_sample.csv
+2004-01-16,S12_3380,39,100.0,Classic Cars,3900.0,sales_data_sample.csv
+2004-02-22,S12_3380,25,99.82,Classic Cars,2495.5,sales_data_sample.csv
+2004-04-09,S12_3380,29,100.0,Classic Cars,2900.0,sales_data_sample.csv
+2004-07-06,S12_3380,22,100.0,Classic Cars,2200.0,sales_data_sample.csv
+2004-08-02,S12_3380,47,100.0,Classic Cars,4700.0,sales_data_sample.csv
+2004-08-30,S12_3380,45,100.0,Classic Cars,4500.0,sales_data_sample.csv
+2003-10-04,S12_3380,29,100.0,Classic Cars,2900.0,sales_data_sample.csv
+2004-10-16,S12_3380,24,100.0,Classic Cars,2400.0,sales_data_sample.csv
+2004-11-03,S12_3380,35,100.0,Classic Cars,3500.0,sales_data_sample.csv
+2004-11-15,S12_3380,46,83.63,Classic Cars,3846.9799999999996,sales_data_sample.csv
+2004-11-24,S12_3380,44,95.93,Classic Cars,4220.92,sales_data_sample.csv
+2005-01-06,S12_3380,34,96.73,Classic Cars,3288.82,sales_data_sample.csv
+2005-02-08,S12_3380,35,100.0,Classic Cars,3500.0,sales_data_sample.csv
+2005-03-03,S12_3380,25,72.38,Classic Cars,1809.5,sales_data_sample.csv
+2005-05-17,S12_3380,10,100.0,Classic Cars,1000.0,sales_data_sample.csv
+2003-02-11,S12_3891,29,100.0,Classic Cars,2900.0,sales_data_sample.csv
+2003-04-16,S12_3891,39,100.0,Classic Cars,3900.0,sales_data_sample.csv
+2003-06-03,S12_3891,42,100.0,Classic Cars,4200.0,sales_data_sample.csv
+2003-08-08,S12_3891,46,100.0,Classic Cars,4600.0,sales_data_sample.csv
+2003-09-28,S12_3891,49,100.0,Classic Cars,4900.0,sales_data_sample.csv
+2003-10-22,S12_3891,27,100.0,Classic Cars,2700.0,sales_data_sample.csv
+2003-11-06,S12_3891,50,100.0,Classic Cars,5000.0,sales_data_sample.csv
+2003-11-14,S12_3891,43,100.0,Classic Cars,4300.0,sales_data_sample.csv
+2003-11-26,S12_3891,38,100.0,Classic Cars,3800.0,sales_data_sample.csv
+2004-01-02,S12_3891,20,100.0,Classic Cars,2000.0,sales_data_sample.csv
+2004-02-12,S12_3891,27,100.0,Classic Cars,2700.0,sales_data_sample.csv
+2004-03-19,S12_3891,49,100.0,Classic Cars,4900.0,sales_data_sample.csv
+2004-05-05,S12_3891,27,100.0,Classic Cars,2700.0,sales_data_sample.csv
+2004-07-20,S12_3891,39,100.0,Classic Cars,3900.0,sales_data_sample.csv
+2004-08-20,S12_3891,24,100.0,Classic Cars,2400.0,sales_data_sample.csv
+2004-09-09,S12_3891,45,100.0,Classic Cars,4500.0,sales_data_sample.csv
+2004-10-14,S12_3891,20,100.0,Classic Cars,2000.0,sales_data_sample.csv
+2004-10-22,S12_3891,36,100.0,Classic Cars,3600.0,sales_data_sample.csv
+2004-11-05,S12_3891,24,100.0,Classic Cars,2400.0,sales_data_sample.csv
+2004-11-20,S12_3891,49,63.38,Classic Cars,3105.6200000000003,sales_data_sample.csv
+2004-12-01,S12_3891,26,100.0,Classic Cars,2600.0,sales_data_sample.csv
+2004-12-15,S12_3891,49,62.09,Classic Cars,3042.4100000000003,sales_data_sample.csv
+2005-01-26,S12_3891,34,100.0,Classic Cars,3400.0,sales_data_sample.csv
+2005-02-17,S12_3891,34,95.35,Classic Cars,3241.8999999999996,sales_data_sample.csv
+2005-03-23,S12_3891,33,100.0,Classic Cars,3300.0,sales_data_sample.csv
+2005-05-05,S12_3891,22,100.0,Classic Cars,2200.0,sales_data_sample.csv
+2003-03-03,S12_3990,39,89.38,Classic Cars,3485.8199999999997,sales_data_sample.csv
+2003-05-08,S12_3990,32,63.84,Classic Cars,2042.88,sales_data_sample.csv
+2003-07-02,S12_3990,24,75.01,Classic Cars,1800.2400000000002,sales_data_sample.csv
+2003-09-05,S12_3990,21,63.84,Classic Cars,1340.64,sales_data_sample.csv
+2003-10-10,S12_3990,24,73.42,Classic Cars,1762.08,sales_data_sample.csv
+2003-11-04,S12_3990,36,63.84,Classic Cars,2298.2400000000002,sales_data_sample.csv
+2003-11-12,S12_3990,20,81.4,Classic Cars,1628.0,sales_data_sample.csv
+2003-11-20,S12_3990,30,64.64,Classic Cars,1939.2,sales_data_sample.csv
+2003-12-02,S12_3990,44,82.99,Classic Cars,3651.56,sales_data_sample.csv
+2004-01-15,S12_3990,28,92.57,Classic Cars,2591.96,sales_data_sample.csv
+2004-02-22,S12_3990,37,77.41,Classic Cars,2864.17,sales_data_sample.csv
+2004-04-09,S12_3990,20,74.21,Classic Cars,1484.1999999999998,sales_data_sample.csv
+2004-07-06,S12_3990,35,76.61,Classic Cars,2681.35,sales_data_sample.csv
+2004-08-02,S12_3990,38,83.79,Classic Cars,3184.0200000000004,sales_data_sample.csv
+2004-08-30,S12_3990,41,69.43,Classic Cars,2846.63,sales_data_sample.csv
+2003-10-04,S12_3990,22,76.61,Classic Cars,1685.42,sales_data_sample.csv
+2004-10-16,S12_3990,49,81.4,Classic Cars,3988.6000000000004,sales_data_sample.csv
+2004-11-03,S12_3990,38,73.42,Classic Cars,2789.96,sales_data_sample.csv
+2004-11-15,S12_3990,33,100.0,Classic Cars,3300.0,sales_data_sample.csv
+2004-11-24,S12_3990,36,93.56,Classic Cars,3368.16,sales_data_sample.csv
+2005-01-06,S12_3990,34,81.62,Classic Cars,2775.08,sales_data_sample.csv
+2005-02-09,S12_3990,24,67.83,Classic Cars,1627.92,sales_data_sample.csv
+2005-03-03,S12_3990,36,70.26,Classic Cars,2529.36,sales_data_sample.csv
+2005-05-17,S12_3990,34,90.17,Classic Cars,3065.78,sales_data_sample.csv
+2003-01-31,S12_4473,41,100.0,Trucks and Buses,4100.0,sales_data_sample.csv
+2003-04-04,S12_4473,46,100.0,Trucks and Buses,4600.0,sales_data_sample.csv
+2003-06-03,S12_4473,24,100.0,Trucks and Buses,2400.0,sales_data_sample.csv
+2003-08-01,S12_4473,21,100.0,Trucks and Buses,2100.0,sales_data_sample.csv
+2003-09-21,S12_4473,24,100.0,Trucks and Buses,2400.0,sales_data_sample.csv
+2003-10-22,S12_4473,48,100.0,Trucks and Buses,4800.0,sales_data_sample.csv
+2003-11-06,S12_4473,26,100.0,Trucks and Buses,2600.0,sales_data_sample.csv
+2003-11-14,S12_4473,37,100.0,Trucks and Buses,3700.0,sales_data_sample.csv
+2003-11-25,S12_4473,49,100.0,Trucks and Buses,4900.0,sales_data_sample.csv
+2003-12-09,S12_4473,34,99.54,Trucks and Buses,3384.36,sales_data_sample.csv
+2004-02-10,S12_4473,48,100.0,Trucks and Buses,4800.0,sales_data_sample.csv
+2004-03-11,S12_4473,36,100.0,Trucks and Buses,3600.0,sales_data_sample.csv
+2004-05-05,S12_4473,46,100.0,Trucks and Buses,4600.0,sales_data_sample.csv
+2004-06-15,S12_4473,46,100.0,Trucks and Buses,4600.0,sales_data_sample.csv
+2004-07-20,S12_4473,31,97.17,Trucks and Buses,3012.27,sales_data_sample.csv
+2004-08-19,S12_4473,41,100.0,Trucks and Buses,4100.0,sales_data_sample.csv
+2004-09-08,S12_4473,21,100.0,Trucks and Buses,2100.0,sales_data_sample.csv
+2004-10-13,S12_4473,38,100.0,Trucks and Buses,3800.0,sales_data_sample.csv
+2004-10-22,S12_4473,45,100.0,Trucks and Buses,4500.0,sales_data_sample.csv
+2004-11-05,S12_4473,26,58.38,Trucks and Buses,1517.88,sales_data_sample.csv
+2004-11-20,S12_4473,38,100.0,Trucks and Buses,3800.0,sales_data_sample.csv
+2004-12-01,S12_4473,48,100.0,Trucks and Buses,4800.0,sales_data_sample.csv
+2004-12-10,S12_4473,42,64.16,Trucks and Buses,2694.72,sales_data_sample.csv
+2005-01-23,S12_4473,49,35.71,Trucks and Buses,1749.79,sales_data_sample.csv
+2005-02-17,S12_4473,32,66.58,Trucks and Buses,2130.56,sales_data_sample.csv
+2005-05-03,S12_4473,54,100.0,Trucks and Buses,5400.0,sales_data_sample.csv
+2003-03-03,S12_4675,36,100.0,Classic Cars,3600.0,sales_data_sample.csv
+2003-05-08,S12_4675,20,100.0,Classic Cars,2000.0,sales_data_sample.csv
+2003-07-02,S12_4675,29,97.89,Classic Cars,2838.81,sales_data_sample.csv
+2003-09-05,S12_4675,33,97.89,Classic Cars,3230.37,sales_data_sample.csv
+2003-10-11,S12_4675,50,100.0,Classic Cars,5000.0,sales_data_sample.csv
+2003-11-04,S12_4675,41,100.0,Classic Cars,4100.0,sales_data_sample.csv
+2003-11-12,S12_4675,36,100.0,Classic Cars,3600.0,sales_data_sample.csv
+2003-11-20,S12_4675,27,100.0,Classic Cars,2700.0,sales_data_sample.csv
+2003-12-02,S12_4675,47,100.0,Classic Cars,4700.0,sales_data_sample.csv
+2004-01-16,S12_4675,33,100.0,Classic Cars,3300.0,sales_data_sample.csv
+2004-02-22,S12_4675,21,100.0,Classic Cars,2100.0,sales_data_sample.csv
+2004-04-12,S12_4675,21,93.28,Classic Cars,1958.88,sales_data_sample.csv
+2004-07-06,S12_4675,40,100.0,Classic Cars,4000.0,sales_data_sample.csv
+2004-08-04,S12_4675,28,100.0,Classic Cars,2800.0,sales_data_sample.csv
+2004-08-30,S12_4675,23,100.0,Classic Cars,2300.0,sales_data_sample.csv
+2003-10-04,S12_4675,23,100.0,Classic Cars,2300.0,sales_data_sample.csv
+2004-10-16,S12_4675,25,100.0,Classic Cars,2500.0,sales_data_sample.csv
+2004-11-04,S12_4675,24,100.0,Classic Cars,2400.0,sales_data_sample.csv
+2004-11-15,S12_4675,39,64.74,Classic Cars,2524.8599999999997,sales_data_sample.csv
+2004-11-24,S12_4675,55,75.2,Classic Cars,4136.0,sales_data_sample.csv
+2005-01-06,S12_4675,46,88.45,Classic Cars,4068.7000000000003,sales_data_sample.csv
+2005-02-09,S12_4675,50,100.0,Classic Cars,5000.0,sales_data_sample.csv
+2005-03-03,S12_4675,47,100.0,Classic Cars,4700.0,sales_data_sample.csv
+2005-04-14,S12_4675,97,93.28,Classic Cars,9048.16,sales_data_sample.csv
+2005-05-17,S12_4675,32,100.0,Classic Cars,3200.0,sales_data_sample.csv
+2003-01-29,S18_1097,35,100.0,Trucks and Buses,3500.0,sales_data_sample.csv
+2003-03-26,S18_1097,49,100.0,Trucks and Buses,4900.0,sales_data_sample.csv
+2003-05-28,S18_1097,38,100.0,Trucks and Buses,3800.0,sales_data_sample.csv
+2003-07-24,S18_1097,32,100.0,Trucks and Buses,3200.0,sales_data_sample.csv
+2003-09-19,S18_1097,34,100.0,Trucks and Buses,3400.0,sales_data_sample.csv
+2003-10-21,S18_1097,36,99.17,Trucks and Buses,3570.12,sales_data_sample.csv
+2003-11-06,S18_1097,48,93.34,Trucks and Buses,4480.32,sales_data_sample.csv
+2003-11-13,S18_1097,21,96.84,Trucks and Buses,2033.64,sales_data_sample.csv
+2003-11-25,S18_1097,21,93.34,Trucks and Buses,1960.14,sales_data_sample.csv
+2003-12-05,S18_1097,34,100.0,Trucks and Buses,3400.0,sales_data_sample.csv
+2004-01-29,S18_1097,46,100.0,Trucks and Buses,4600.0,sales_data_sample.csv
+2004-03-10,S18_1097,32,100.0,Trucks and Buses,3200.0,sales_data_sample.csv
+2004-05-04,S18_1097,29,100.0,Trucks and Buses,2900.0,sales_data_sample.csv
+2004-06-15,S18_1097,41,100.0,Trucks and Buses,4100.0,sales_data_sample.csv
+2004-07-19,S18_1097,43,96.84,Trucks and Buses,4164.12,sales_data_sample.csv
+2004-08-17,S18_1097,24,100.0,Trucks and Buses,2400.0,sales_data_sample.csv
+2004-09-08,S18_1097,41,100.0,Trucks and Buses,4100.0,sales_data_sample.csv
+2004-10-11,S18_1097,46,98.0,Trucks and Buses,4508.0,sales_data_sample.csv
+2004-10-21,S18_1097,32,100.0,Trucks and Buses,3200.0,sales_data_sample.csv
+2004-11-04,S18_1097,22,100.0,Trucks and Buses,2200.0,sales_data_sample.csv
+2004-11-18,S18_1097,29,40.25,Trucks and Buses,1167.25,sales_data_sample.csv
+2004-11-29,S18_1097,42,49.6,Trucks and Buses,2083.2000000000003,sales_data_sample.csv
+2004-12-10,S18_1097,39,98.0,Trucks and Buses,3822.0,sales_data_sample.csv
+2005-01-20,S18_1097,27,100.0,Trucks and Buses,2700.0,sales_data_sample.csv
+2005-02-17,S18_1097,48,98.0,Trucks and Buses,4704.0,sales_data_sample.csv
+2005-03-09,S18_1097,29,85.1,Trucks and Buses,2467.8999999999996,sales_data_sample.csv
+2005-05-01,S18_1097,27,100.0,Trucks and Buses,2700.0,sales_data_sample.csv
+2003-03-10,S18_1129,26,100.0,Classic Cars,2600.0,sales_data_sample.csv
+2003-05-08,S18_1129,34,100.0,Classic Cars,3400.0,sales_data_sample.csv
+2003-07-04,S18_1129,25,100.0,Classic Cars,2500.0,sales_data_sample.csv
+2003-09-11,S18_1129,23,100.0,Classic Cars,2300.0,sales_data_sample.csv
+2003-10-17,S18_1129,28,100.0,Classic Cars,2800.0,sales_data_sample.csv
+2003-11-05,S18_1129,35,100.0,Classic Cars,3500.0,sales_data_sample.csv
+2003-11-12,S18_1129,44,100.0,Classic Cars,4400.0,sales_data_sample.csv
+2003-11-20,S18_1129,22,100.0,Classic Cars,2200.0,sales_data_sample.csv
+2003-12-02,S18_1129,42,100.0,Classic Cars,4200.0,sales_data_sample.csv
+2004-01-16,S18_1129,29,100.0,Classic Cars,2900.0,sales_data_sample.csv
+2004-02-22,S18_1129,32,100.0,Classic Cars,3200.0,sales_data_sample.csv
+2004-04-13,S18_1129,41,100.0,Classic Cars,4100.0,sales_data_sample.csv
+2004-07-06,S18_1129,21,100.0,Classic Cars,2100.0,sales_data_sample.csv
+2004-08-06,S18_1129,34,100.0,Classic Cars,3400.0,sales_data_sample.csv
+2004-08-30,S18_1129,41,100.0,Classic Cars,4100.0,sales_data_sample.csv
+2003-10-05,S18_1129,37,100.0,Classic Cars,3700.0,sales_data_sample.csv
+2004-10-16,S18_1129,37,100.0,Classic Cars,3700.0,sales_data_sample.csv
+2004-11-04,S18_1129,41,100.0,Classic Cars,4100.0,sales_data_sample.csv
+2004-11-17,S18_1129,46,100.0,Classic Cars,4600.0,sales_data_sample.csv
+2004-11-24,S18_1129,40,100.0,Classic Cars,4000.0,sales_data_sample.csv
+2004-12-09,S18_1129,43,97.6,Classic Cars,4196.8,sales_data_sample.csv
+2005-01-07,S18_1129,30,87.06,Classic Cars,2611.8,sales_data_sample.csv
+2005-02-09,S18_1129,35,100.0,Classic Cars,3500.0,sales_data_sample.csv
+2005-03-04,S18_1129,36,93.77,Classic Cars,3375.72,sales_data_sample.csv
+2005-05-17,S18_1129,38,100.0,Classic Cars,3800.0,sales_data_sample.csv
+2003-01-10,S18_1342,39,100.0,Vintage Cars,3900.0,sales_data_sample.csv
+2003-03-25,S18_1342,33,99.66,Vintage Cars,3288.7799999999997,sales_data_sample.csv
+2003-05-21,S18_1342,32,100.0,Vintage Cars,3200.0,sales_data_sample.csv
+2003-07-16,S18_1342,31,100.0,Vintage Cars,3100.0,sales_data_sample.csv
+2003-09-12,S18_1342,50,100.0,Vintage Cars,5000.0,sales_data_sample.csv
+2003-10-18,S18_1342,48,91.44,Vintage Cars,4389.12,sales_data_sample.csv
+2003-11-05,S18_1342,43,100.0,Vintage Cars,4300.0,sales_data_sample.csv
+2003-11-12,S18_1342,25,87.33,Vintage Cars,2183.25,sales_data_sample.csv
+2003-11-21,S18_1342,28,100.0,Vintage Cars,2800.0,sales_data_sample.csv
+2003-12-03,S18_1342,36,100.0,Vintage Cars,3600.0,sales_data_sample.csv
+2004-01-29,S18_1342,27,89.38,Vintage Cars,2413.2599999999998,sales_data_sample.csv
+2004-03-02,S18_1342,25,100.0,Vintage Cars,2500.0,sales_data_sample.csv
+2004-04-29,S18_1342,40,100.0,Vintage Cars,4000.0,sales_data_sample.csv
+2004-06-08,S18_1342,34,95.55,Vintage Cars,3248.7,sales_data_sample.csv
+2004-08-17,S18_1342,50,100.0,Vintage Cars,5000.0,sales_data_sample.csv
+2004-09-03,S18_1342,38,100.0,Vintage Cars,3800.0,sales_data_sample.csv
+2004-10-11,S18_1342,37,95.55,Vintage Cars,3535.35,sales_data_sample.csv
+2004-10-21,S18_1342,43,89.38,Vintage Cars,3843.3399999999997,sales_data_sample.csv
+2004-11-04,S18_1342,43,86.3,Vintage Cars,3710.9,sales_data_sample.csv
+2004-11-17,S18_1342,46,95.13,Vintage Cars,4375.98,sales_data_sample.csv
+2004-11-29,S18_1342,42,36.11,Vintage Cars,1516.62,sales_data_sample.csv
+2004-12-09,S18_1342,50,50.18,Vintage Cars,2509.0,sales_data_sample.csv
+2005-01-20,S18_1342,44,100.0,Vintage Cars,4400.0,sales_data_sample.csv
+2005-02-16,S18_1342,27,93.16,Vintage Cars,2515.3199999999997,sales_data_sample.csv
+2005-03-09,S18_1342,35,100.0,Vintage Cars,3500.0,sales_data_sample.csv
+2003-01-10,S18_1367,41,50.14,Vintage Cars,2055.7400000000002,sales_data_sample.csv
+2003-03-25,S18_1367,48,49.06,Vintage Cars,2354.88,sales_data_sample.csv
+2003-05-28,S18_1367,42,54.99,Vintage Cars,2309.58,sales_data_sample.csv
+2003-07-16,S18_1367,49,43.13,Vintage Cars,2113.3700000000003,sales_data_sample.csv
+2003-09-12,S18_1367,30,58.22,Vintage Cars,1746.6,sales_data_sample.csv
+2003-10-18,S18_1367,45,51.21,Vintage Cars,2304.45,sales_data_sample.csv
+2003-11-05,S18_1367,48,44.21,Vintage Cars,2122.08,sales_data_sample.csv
+2003-11-12,S18_1367,32,54.45,Vintage Cars,1742.4,sales_data_sample.csv
+2003-11-21,S18_1367,46,53.37,Vintage Cars,2455.02,sales_data_sample.csv
+2003-12-03,S18_1367,48,63.61,Vintage Cars,3053.2799999999997,sales_data_sample.csv
+2004-01-29,S18_1367,33,43.13,Vintage Cars,1423.2900000000002,sales_data_sample.csv
+2004-03-02,S18_1367,31,48.52,Vintage Cars,1504.1200000000001,sales_data_sample.csv
+2004-04-29,S18_1367,20,58.22,Vintage Cars,1164.4,sales_data_sample.csv
+2004-06-08,S18_1367,29,51.75,Vintage Cars,1500.75,sales_data_sample.csv
+2004-08-17,S18_1367,27,57.68,Vintage Cars,1557.36,sales_data_sample.csv
+2004-09-03,S18_1367,24,56.07,Vintage Cars,1345.68,sales_data_sample.csv
+2004-10-11,S18_1367,37,48.52,Vintage Cars,1795.24,sales_data_sample.csv
+2004-10-21,S18_1367,25,44.21,Vintage Cars,1105.25,sales_data_sample.csv
+2004-11-04,S18_1367,41,57.68,Vintage Cars,2364.88,sales_data_sample.csv
+2004-11-17,S18_1367,27,89.89,Vintage Cars,2427.03,sales_data_sample.csv
+2004-11-29,S18_1367,21,58.95,Vintage Cars,1237.95,sales_data_sample.csv
+2004-12-09,S18_1367,22,72.41,Vintage Cars,1593.02,sales_data_sample.csv
+2005-01-20,S18_1367,32,98.63,Vintage Cars,3156.16,sales_data_sample.csv
+2005-02-17,S18_1367,25,52.83,Vintage Cars,1320.75,sales_data_sample.csv
+2005-03-09,S18_1367,42,100.0,Vintage Cars,4200.0,sales_data_sample.csv
+2003-03-18,S18_1589,37,100.0,Classic Cars,3700.0,sales_data_sample.csv
+2003-05-20,S18_1589,26,100.0,Classic Cars,2600.0,sales_data_sample.csv
+2003-07-10,S18_1589,44,99.55,Classic Cars,4380.2,sales_data_sample.csv
+2003-09-11,S18_1589,47,100.0,Classic Cars,4700.0,sales_data_sample.csv
+2003-10-17,S18_1589,43,100.0,Classic Cars,4300.0,sales_data_sample.csv
+2003-11-05,S18_1589,42,100.0,Classic Cars,4200.0,sales_data_sample.csv
+2003-11-12,S18_1589,42,100.0,Classic Cars,4200.0,sales_data_sample.csv
+2003-11-20,S18_1589,29,100.0,Classic Cars,2900.0,sales_data_sample.csv
+2003-12-02,S18_1589,40,100.0,Classic Cars,4000.0,sales_data_sample.csv
+2004-01-16,S18_1589,38,100.0,Classic Cars,3800.0,sales_data_sample.csv
+2004-02-26,S18_1589,38,100.0,Classic Cars,3800.0,sales_data_sample.csv
+2004-04-13,S18_1589,21,100.0,Classic Cars,2100.0,sales_data_sample.csv
+2004-07-06,S18_1589,36,100.0,Classic Cars,3600.0,sales_data_sample.csv
+2004-08-06,S18_1589,23,100.0,Classic Cars,2300.0,sales_data_sample.csv
+2004-09-01,S18_1589,20,100.0,Classic Cars,2000.0,sales_data_sample.csv
+2003-10-05,S18_1589,32,100.0,Classic Cars,3200.0,sales_data_sample.csv
+2004-10-16,S18_1589,29,100.0,Classic Cars,2900.0,sales_data_sample.csv
+2004-11-04,S18_1589,44,100.0,Classic Cars,4400.0,sales_data_sample.csv
+2004-11-17,S18_1589,44,100.0,Classic Cars,4400.0,sales_data_sample.csv
+2004-11-24,S18_1589,36,100.0,Classic Cars,3600.0,sales_data_sample.csv
+2005-01-12,S18_1589,49,56.3,Classic Cars,2758.7,sales_data_sample.csv
+2005-02-10,S18_1589,34,42.64,Classic Cars,1449.76,sales_data_sample.csv
+2005-05-17,S18_1589,37,100.0,Classic Cars,3700.0,sales_data_sample.csv
+2003-02-17,S18_1662,36,100.0,Planes,3600.0,sales_data_sample.csv
+2003-04-28,S18_1662,43,100.0,Planes,4300.0,sales_data_sample.csv
+2003-06-16,S18_1662,21,100.0,Planes,2100.0,sales_data_sample.csv
+2003-08-10,S18_1662,32,100.0,Planes,3200.0,sales_data_sample.csv
+2003-10-06,S18_1662,38,100.0,Planes,3800.0,sales_data_sample.csv
+2003-11-08,S18_1662,42,100.0,Planes,4200.0,sales_data_sample.csv
+2003-11-14,S18_1662,32,100.0,Planes,3200.0,sales_data_sample.csv
+2003-11-27,S18_1662,42,100.0,Planes,4200.0,sales_data_sample.csv
+2004-01-12,S18_1662,31,100.0,Planes,3100.0,sales_data_sample.csv
+2004-02-19,S18_1662,49,100.0,Planes,4900.0,sales_data_sample.csv
+2004-05-11,S18_1662,45,100.0,Planes,4500.0,sales_data_sample.csv
+2004-07-21,S18_1662,41,100.0,Planes,4100.0,sales_data_sample.csv
+2004-08-21,S18_1662,45,100.0,Planes,4500.0,sales_data_sample.csv
+2004-09-15,S18_1662,36,100.0,Planes,3600.0,sales_data_sample.csv
+2004-10-14,S18_1662,39,100.0,Planes,3900.0,sales_data_sample.csv
+2004-11-01,S18_1662,27,100.0,Planes,2700.0,sales_data_sample.csv
+2004-11-10,S18_1662,25,100.0,Planes,2500.0,sales_data_sample.csv
+2004-11-22,S18_1662,41,100.0,Planes,4100.0,sales_data_sample.csv
+2004-12-03,S18_1662,39,99.52,Planes,3881.2799999999997,sales_data_sample.csv
+2005-01-31,S18_1662,28,57.55,Planes,1611.3999999999999,sales_data_sample.csv
+2005-03-01,S18_1662,25,54.57,Planes,1364.25,sales_data_sample.csv
+2005-03-30,S18_1662,33,100.0,Planes,3300.0,sales_data_sample.csv
+2005-04-01,S18_1662,34,100.0,Planes,3400.0,sales_data_sample.csv
+2005-05-10,S18_1662,24,100.0,Planes,2400.0,sales_data_sample.csv
+2003-01-06,S18_1749,30,100.0,Vintage Cars,3000.0,sales_data_sample.csv
+2003-03-18,S18_1749,42,100.0,Vintage Cars,4200.0,sales_data_sample.csv
+2003-05-21,S18_1749,21,100.0,Vintage Cars,2100.0,sales_data_sample.csv
+2003-09-12,S18_1749,34,100.0,Vintage Cars,3400.0,sales_data_sample.csv
+2003-10-18,S18_1749,29,100.0,Vintage Cars,2900.0,sales_data_sample.csv
+2003-11-05,S18_1749,24,100.0,Vintage Cars,2400.0,sales_data_sample.csv
+2003-11-12,S18_1749,44,100.0,Vintage Cars,4400.0,sales_data_sample.csv
+2003-11-21,S18_1749,21,100.0,Vintage Cars,2100.0,sales_data_sample.csv
+2003-12-02,S18_1749,33,100.0,Vintage Cars,3300.0,sales_data_sample.csv
+2004-01-26,S18_1749,30,100.0,Vintage Cars,3000.0,sales_data_sample.csv
+2004-03-02,S18_1749,26,100.0,Vintage Cars,2600.0,sales_data_sample.csv
+2004-04-13,S18_1749,41,100.0,Vintage Cars,4100.0,sales_data_sample.csv
+2004-08-17,S18_1749,26,100.0,Vintage Cars,2600.0,sales_data_sample.csv
+2004-09-01,S18_1749,32,100.0,Vintage Cars,3200.0,sales_data_sample.csv
+2003-10-06,S18_1749,43,100.0,Vintage Cars,4300.0,sales_data_sample.csv
+2004-10-21,S18_1749,48,100.0,Vintage Cars,4800.0,sales_data_sample.csv
+2004-11-17,S18_1749,44,74.04,Vintage Cars,3257.76,sales_data_sample.csv
+2004-11-25,S18_1749,45,100.0,Vintage Cars,4500.0,sales_data_sample.csv
+2005-01-12,S18_1749,37,100.0,Vintage Cars,3700.0,sales_data_sample.csv
+2005-02-10,S18_1749,39,100.0,Vintage Cars,3900.0,sales_data_sample.csv
+2003-03-03,S18_1889,38,82.39,Classic Cars,3130.82,sales_data_sample.csv
+2003-05-08,S18_1889,43,72.38,Classic Cars,3112.3399999999997,sales_data_sample.csv
+2003-07-02,S18_1889,48,79.31,Classic Cars,3806.88,sales_data_sample.csv
+2003-09-05,S18_1889,26,82.39,Classic Cars,2142.14,sales_data_sample.csv
+2003-10-11,S18_1889,38,88.55,Classic Cars,3364.9,sales_data_sample.csv
+2003-11-04,S18_1889,20,63.14,Classic Cars,1262.8,sales_data_sample.csv
+2003-11-12,S18_1889,22,73.92,Classic Cars,1626.24,sales_data_sample.csv
+2003-11-20,S18_1889,45,90.86,Classic Cars,4088.7,sales_data_sample.csv
+2003-12-02,S18_1889,45,85.47,Classic Cars,3846.15,sales_data_sample.csv
+2004-01-16,S18_1889,20,66.99,Classic Cars,1339.8,sales_data_sample.csv
+2004-02-22,S18_1889,47,64.68,Classic Cars,3039.9600000000005,sales_data_sample.csv
+2004-04-12,S18_1889,46,73.92,Classic Cars,3400.32,sales_data_sample.csv
+2004-07-06,S18_1889,33,74.69,Classic Cars,2464.77,sales_data_sample.csv
+2004-08-06,S18_1889,29,90.86,Classic Cars,2634.94,sales_data_sample.csv
+2004-08-30,S18_1889,44,82.39,Classic Cars,3625.16,sales_data_sample.csv
+2003-10-04,S18_1889,41,92.4,Classic Cars,3788.4,sales_data_sample.csv
+2004-10-16,S18_1889,20,91.63,Classic Cars,1832.6,sales_data_sample.csv
+2004-11-04,S18_1889,37,78.54,Classic Cars,2905.98,sales_data_sample.csv
+2004-11-15,S18_1889,29,100.0,Classic Cars,2900.0,sales_data_sample.csv
+2004-11-24,S18_1889,55,65.45,Classic Cars,3599.75,sales_data_sample.csv
+2005-01-06,S18_1889,22,100.0,Classic Cars,2200.0,sales_data_sample.csv
+2005-02-09,S18_1889,31,67.76,Classic Cars,2100.56,sales_data_sample.csv
+2005-03-03,S18_1889,49,79.22,Classic Cars,3881.7799999999997,sales_data_sample.csv
+2005-04-14,S18_1889,61,73.92,Classic Cars,4509.12,sales_data_sample.csv
+2005-05-17,S18_1889,39,83.93,Classic Cars,3273.2700000000004,sales_data_sample.csv
+2003-03-10,S18_1984,38,100.0,Classic Cars,3800.0,sales_data_sample.csv
+2003-05-08,S18_1984,31,100.0,Classic Cars,3100.0,sales_data_sample.csv
+2003-07-04,S18_1984,36,100.0,Classic Cars,3600.0,sales_data_sample.csv
+2003-09-11,S18_1984,25,100.0,Classic Cars,2500.0,sales_data_sample.csv
+2003-10-17,S18_1984,48,100.0,Classic Cars,4800.0,sales_data_sample.csv
+2003-11-05,S18_1984,35,100.0,Classic Cars,3500.0,sales_data_sample.csv
+2003-11-12,S18_1984,21,100.0,Classic Cars,2100.0,sales_data_sample.csv
+2003-11-20,S18_1984,47,100.0,Classic Cars,4700.0,sales_data_sample.csv
+2003-12-02,S18_1984,38,100.0,Classic Cars,3800.0,sales_data_sample.csv
+2004-01-16,S18_1984,41,100.0,Classic Cars,4100.0,sales_data_sample.csv
+2004-02-26,S18_1984,24,100.0,Classic Cars,2400.0,sales_data_sample.csv
+2004-04-13,S18_1984,37,100.0,Classic Cars,3700.0,sales_data_sample.csv
+2004-07-06,S18_1984,49,100.0,Classic Cars,4900.0,sales_data_sample.csv
+2004-08-06,S18_1984,29,100.0,Classic Cars,2900.0,sales_data_sample.csv
+2004-08-30,S18_1984,24,100.0,Classic Cars,2400.0,sales_data_sample.csv
+2003-10-05,S18_1984,47,100.0,Classic Cars,4700.0,sales_data_sample.csv
+2004-10-16,S18_1984,24,100.0,Classic Cars,2400.0,sales_data_sample.csv
+2004-11-04,S18_1984,25,100.0,Classic Cars,2500.0,sales_data_sample.csv
+2004-11-17,S18_1984,30,32.47,Classic Cars,974.0999999999999,sales_data_sample.csv
+2004-11-24,S18_1984,22,100.0,Classic Cars,2200.0,sales_data_sample.csv
+2004-12-09,S18_1984,27,64.69,Classic Cars,1746.6299999999999,sales_data_sample.csv
+2005-01-10,S18_1984,34,100.0,Classic Cars,3400.0,sales_data_sample.csv
+2005-02-09,S18_1984,36,100.0,Classic Cars,3600.0,sales_data_sample.csv
+2005-03-04,S18_1984,34,43.05,Classic Cars,1463.6999999999998,sales_data_sample.csv
+2005-05-17,S18_1984,34,100.0,Classic Cars,3400.0,sales_data_sample.csv
+2003-01-31,S18_2238,24,100.0,Classic Cars,2400.0,sales_data_sample.csv
+2003-04-04,S18_2238,46,100.0,Classic Cars,4600.0,sales_data_sample.csv
+2003-06-03,S18_2238,45,100.0,Classic Cars,4500.0,sales_data_sample.csv
+2003-08-01,S18_2238,39,100.0,Classic Cars,3900.0,sales_data_sample.csv
+2003-09-21,S18_2238,43,100.0,Classic Cars,4300.0,sales_data_sample.csv
+2003-10-22,S18_2238,29,100.0,Classic Cars,2900.0,sales_data_sample.csv
+2003-11-06,S18_2238,20,100.0,Classic Cars,2000.0,sales_data_sample.csv
+2003-11-14,S18_2238,46,100.0,Classic Cars,4600.0,sales_data_sample.csv
+2003-11-25,S18_2238,27,100.0,Classic Cars,2700.0,sales_data_sample.csv
+2003-12-09,S18_2238,44,100.0,Classic Cars,4400.0,sales_data_sample.csv
+2004-02-10,S18_2238,43,100.0,Classic Cars,4300.0,sales_data_sample.csv
+2004-03-15,S18_2238,49,100.0,Classic Cars,4900.0,sales_data_sample.csv
+2004-05-05,S18_2238,40,100.0,Classic Cars,4000.0,sales_data_sample.csv
+2004-06-15,S18_2238,30,100.0,Classic Cars,3000.0,sales_data_sample.csv
+2004-07-20,S18_2238,50,100.0,Classic Cars,5000.0,sales_data_sample.csv
+2004-08-20,S18_2238,23,100.0,Classic Cars,2300.0,sales_data_sample.csv
+2004-09-08,S18_2238,26,100.0,Classic Cars,2600.0,sales_data_sample.csv
+2004-10-13,S18_2238,27,100.0,Classic Cars,2700.0,sales_data_sample.csv
+2004-10-22,S18_2238,42,100.0,Classic Cars,4200.0,sales_data_sample.csv
+2004-11-05,S18_2238,47,100.0,Classic Cars,4700.0,sales_data_sample.csv
+2004-11-20,S18_2238,49,100.0,Classic Cars,4900.0,sales_data_sample.csv
+2004-12-01,S18_2238,38,100.0,Classic Cars,3800.0,sales_data_sample.csv
+2004-12-10,S18_2238,20,100.0,Classic Cars,2000.0,sales_data_sample.csv
+2005-01-23,S18_2238,25,100.0,Classic Cars,2500.0,sales_data_sample.csv
+2005-02-17,S18_2238,25,88.0,Classic Cars,2200.0,sales_data_sample.csv
+2005-05-03,S18_2238,41,100.0,Classic Cars,4100.0,sales_data_sample.csv
+2003-01-06,S18_2248,50,67.8,Vintage Cars,3390.0,sales_data_sample.csv
+2003-03-18,S18_2248,32,50.25,Vintage Cars,1608.0,sales_data_sample.csv
+2003-05-21,S18_2248,42,53.88,Vintage Cars,2262.96,sales_data_sample.csv
+2003-09-12,S18_2248,24,62.36,Vintage Cars,1496.6399999999999,sales_data_sample.csv
+2003-10-18,S18_2248,27,69.62,Vintage Cars,1879.7400000000002,sales_data_sample.csv
+2003-11-05,S18_2248,26,57.51,Vintage Cars,1495.26,sales_data_sample.csv
+2003-11-12,S18_2248,38,61.15,Vintage Cars,2323.7,sales_data_sample.csv
+2003-11-21,S18_2248,42,59.33,Vintage Cars,2491.86,sales_data_sample.csv
+2003-12-02,S18_2248,23,71.44,Vintage Cars,1643.12,sales_data_sample.csv
+2004-01-26,S18_2248,21,62.96,Vintage Cars,1322.16,sales_data_sample.csv
+2004-03-02,S18_2248,28,50.85,Vintage Cars,1423.8,sales_data_sample.csv
+2004-04-13,S18_2248,33,72.65,Vintage Cars,2397.4500000000003,sales_data_sample.csv
+2004-08-17,S18_2248,25,62.96,Vintage Cars,1574.0,sales_data_sample.csv
+2004-09-01,S18_2248,28,61.75,Vintage Cars,1729.0,sales_data_sample.csv
+2004-10-06,S18_2248,46,49.04,Vintage Cars,2255.84,sales_data_sample.csv
+2004-10-21,S18_2248,30,61.15,Vintage Cars,1834.5,sales_data_sample.csv
+2004-11-17,S18_2248,38,84.25,Vintage Cars,3201.5,sales_data_sample.csv
+2004-11-25,S18_2248,40,56.91,Vintage Cars,2276.3999999999996,sales_data_sample.csv
+2005-01-12,S18_2248,45,100.0,Vintage Cars,4500.0,sales_data_sample.csv
+2005-02-10,S18_2248,27,49.3,Vintage Cars,1331.1,sales_data_sample.csv
+2003-01-31,S18_2319,29,100.0,Trucks and Buses,2900.0,sales_data_sample.csv
+2003-04-01,S18_2319,39,100.0,Trucks and Buses,3900.0,sales_data_sample.csv
+2003-06-03,S18_2319,45,100.0,Trucks and Buses,4500.0,sales_data_sample.csv
+2003-08-01,S18_2319,47,100.0,Trucks and Buses,4700.0,sales_data_sample.csv
+2003-09-21,S18_2319,49,100.0,Trucks and Buses,4900.0,sales_data_sample.csv
+2003-10-22,S18_2319,46,100.0,Trucks and Buses,4600.0,sales_data_sample.csv
+2003-11-06,S18_2319,48,100.0,Trucks and Buses,4800.0,sales_data_sample.csv
+2003-11-14,S18_2319,46,100.0,Trucks and Buses,4600.0,sales_data_sample.csv
+2003-11-25,S18_2319,35,100.0,Trucks and Buses,3500.0,sales_data_sample.csv
+2003-12-09,S18_2319,43,100.0,Trucks and Buses,4300.0,sales_data_sample.csv
+2004-03-11,S18_2319,26,100.0,Trucks and Buses,2600.0,sales_data_sample.csv
+2004-05-05,S18_2319,22,98.18,Trucks and Buses,2159.96,sales_data_sample.csv
+2004-06-15,S18_2319,34,99.41,Trucks and Buses,3379.94,sales_data_sample.csv
+2004-07-20,S18_2319,50,100.0,Trucks and Buses,5000.0,sales_data_sample.csv
+2004-08-19,S18_2319,48,100.0,Trucks and Buses,4800.0,sales_data_sample.csv
+2004-09-08,S18_2319,41,100.0,Trucks and Buses,4100.0,sales_data_sample.csv
+2004-10-13,S18_2319,36,100.0,Trucks and Buses,3600.0,sales_data_sample.csv
+2004-10-22,S18_2319,29,100.0,Trucks and Buses,2900.0,sales_data_sample.csv
+2004-11-05,S18_2319,33,37.48,Trucks and Buses,1236.84,sales_data_sample.csv
+2004-12-01,S18_2319,38,100.0,Trucks and Buses,3800.0,sales_data_sample.csv
+2004-12-10,S18_2319,20,36.42,Trucks and Buses,728.4000000000001,sales_data_sample.csv
+2005-01-20,S18_2319,22,100.0,Trucks and Buses,2200.0,sales_data_sample.csv
+2005-02-22,S18_2319,27,100.0,Trucks and Buses,2700.0,sales_data_sample.csv
+2005-05-03,S18_2319,56,98.18,Trucks and Buses,5498.08,sales_data_sample.csv
+2003-01-09,S18_2325,25,100.0,Vintage Cars,2500.0,sales_data_sample.csv
+2003-03-18,S18_2325,33,100.0,Vintage Cars,3300.0,sales_data_sample.csv
+2003-05-21,S18_2325,42,100.0,Vintage Cars,4200.0,sales_data_sample.csv
+2003-09-12,S18_2325,33,100.0,Vintage Cars,3300.0,sales_data_sample.csv
+2003-10-18,S18_2325,38,100.0,Vintage Cars,3800.0,sales_data_sample.csv
+2003-11-05,S18_2325,31,100.0,Vintage Cars,3100.0,sales_data_sample.csv
+2003-11-12,S18_2325,20,100.0,Vintage Cars,2000.0,sales_data_sample.csv
+2003-11-21,S18_2325,44,100.0,Vintage Cars,4400.0,sales_data_sample.csv
+2003-12-02,S18_2325,26,100.0,Vintage Cars,2600.0,sales_data_sample.csv
+2004-01-26,S18_2325,27,100.0,Vintage Cars,2700.0,sales_data_sample.csv
+2004-03-02,S18_2325,46,100.0,Vintage Cars,4600.0,sales_data_sample.csv
+2004-04-26,S18_2325,47,100.0,Vintage Cars,4700.0,sales_data_sample.csv
+2004-08-17,S18_2325,37,100.0,Vintage Cars,3700.0,sales_data_sample.csv
+2004-09-01,S18_2325,31,100.0,Vintage Cars,3100.0,sales_data_sample.csv
+2004-10-11,S18_2325,24,100.0,Vintage Cars,2400.0,sales_data_sample.csv
+2004-10-21,S18_2325,31,100.0,Vintage Cars,3100.0,sales_data_sample.csv
+2004-11-04,S18_2325,50,100.0,Vintage Cars,5000.0,sales_data_sample.csv
+2004-11-17,S18_2325,35,64.69,Vintage Cars,2264.15,sales_data_sample.csv
+2004-11-25,S18_2325,30,100.0,Vintage Cars,3000.0,sales_data_sample.csv
+2004-12-09,S18_2325,29,100.0,Vintage Cars,2900.0,sales_data_sample.csv
+2005-01-12,S18_2325,27,100.0,Vintage Cars,2700.0,sales_data_sample.csv
+2005-02-16,S18_2325,40,100.0,Vintage Cars,4000.0,sales_data_sample.csv
+2005-03-04,S18_2325,31,98.99,Vintage Cars,3068.69,sales_data_sample.csv
+2005-04-23,S18_2325,6,100.0,Vintage Cars,600.0,sales_data_sample.csv
+2003-01-29,S18_2432,22,54.09,Trucks and Buses,1189.98,sales_data_sample.csv
+2003-04-01,S18_2432,45,68.67,Trucks and Buses,3090.15,sales_data_sample.csv
+2003-05-28,S18_2432,43,65.02,Trucks and Buses,2795.8599999999997,sales_data_sample.csv
+2003-07-24,S18_2432,46,61.99,Trucks and Buses,2851.54,sales_data_sample.csv
+2003-09-21,S18_2432,39,69.28,Trucks and Buses,2701.92,sales_data_sample.csv
+2003-10-22,S18_2432,31,71.1,Trucks and Buses,2204.1,sales_data_sample.csv
+2003-11-06,S18_2432,41,69.28,Trucks and Buses,2840.48,sales_data_sample.csv
+2003-11-14,S18_2432,44,60.16,Trucks and Buses,2647.04,sales_data_sample.csv
+2003-11-25,S18_2432,45,70.49,Trucks and Buses,3172.0499999999997,sales_data_sample.csv
+2003-12-09,S18_2432,37,69.89,Trucks and Buses,2585.93,sales_data_sample.csv
+2004-02-04,S18_2432,35,61.38,Trucks and Buses,2148.3,sales_data_sample.csv
+2004-03-11,S18_2432,28,59.55,Trucks and Buses,1667.3999999999999,sales_data_sample.csv
+2004-05-05,S18_2432,30,61.99,Trucks and Buses,1859.7,sales_data_sample.csv
+2004-06-15,S18_2432,30,49.22,Trucks and Buses,1476.6,sales_data_sample.csv
+2004-07-20,S18_2432,25,69.28,Trucks and Buses,1732.0,sales_data_sample.csv
+2004-08-19,S18_2432,29,57.73,Trucks and Buses,1674.1699999999998,sales_data_sample.csv
+2004-09-08,S18_2432,26,57.73,Trucks and Buses,1500.98,sales_data_sample.csv
+2004-10-13,S18_2432,41,53.48,Trucks and Buses,2192.68,sales_data_sample.csv
+2004-10-22,S18_2432,34,52.87,Trucks and Buses,1797.58,sales_data_sample.csv
+2004-11-04,S18_2432,35,61.21,Trucks and Buses,2142.35,sales_data_sample.csv
+2004-11-29,S18_2432,50,100.0,Trucks and Buses,5000.0,sales_data_sample.csv
+2004-12-10,S18_2432,41,61.99,Trucks and Buses,2541.59,sales_data_sample.csv
+2005-01-20,S18_2432,22,96.86,Trucks and Buses,2130.92,sales_data_sample.csv
+2005-02-17,S18_2432,35,48.62,Trucks and Buses,1701.6999999999998,sales_data_sample.csv
+2005-03-09,S18_2432,44,38.5,Trucks and Buses,1694.0,sales_data_sample.csv
+2005-05-03,S18_2432,47,61.99,Trucks and Buses,2913.53,sales_data_sample.csv
+2003-02-17,S18_2581,34,90.39,Planes,3073.26,sales_data_sample.csv
+2003-04-29,S18_2581,29,71.81,Planes,2082.4900000000002,sales_data_sample.csv
+2003-06-27,S18_2581,49,69.27,Planes,3394.23,sales_data_sample.csv
+2003-08-25,S18_2581,30,85.32,Planes,2559.6,sales_data_sample.csv
+2003-10-28,S18_2581,21,70.96,Planes,1490.1599999999999,sales_data_sample.csv
+2004-01-12,S18_2581,50,76.88,Planes,3844.0,sales_data_sample.csv
+2004-02-20,S18_2581,47,100.0,Planes,4700.0,sales_data_sample.csv
+2004-04-02,S18_2581,24,76.03,Planes,1824.72,sales_data_sample.csv
+2004-05-11,S18_2581,27,98.84,Planes,2668.6800000000003,sales_data_sample.csv
+2004-06-28,S18_2581,33,86.17,Planes,2843.61,sales_data_sample.csv
+2004-07-23,S18_2581,35,90.39,Planes,3163.65,sales_data_sample.csv
+2004-08-21,S18_2581,31,71.81,Planes,2226.11,sales_data_sample.csv
+2004-09-16,S18_2581,25,82.79,Planes,2069.75,sales_data_sample.csv
+2004-10-15,S18_2581,27,82.79,Planes,2235.3300000000004,sales_data_sample.csv
+2004-11-02,S18_2581,31,100.0,Planes,3100.0,sales_data_sample.csv
+2004-11-10,S18_2581,45,100.0,Planes,4500.0,sales_data_sample.csv
+2004-11-23,S18_2581,27,100.0,Planes,2700.0,sales_data_sample.csv
+2004-12-04,S18_2581,27,100.0,Planes,2700.0,sales_data_sample.csv
+2005-02-02,S18_2581,42,69.27,Planes,2909.3399999999997,sales_data_sample.csv
+2005-03-01,S18_2581,21,74.77,Planes,1570.1699999999998,sales_data_sample.csv
+2005-03-30,S18_2581,34,76.88,Planes,2613.92,sales_data_sample.csv
+2005-05-10,S18_2581,15,98.84,Planes,1482.6000000000001,sales_data_sample.csv
+2003-02-24,S18_2625,29,70.87,Motorcycles,2055.23,sales_data_sample.csv
+2003-04-29,S18_2625,46,58.15,Motorcycles,2674.9,sales_data_sample.csv
+2003-07-01,S18_2625,30,61.78,Motorcycles,1853.4,sales_data_sample.csv
+2003-08-25,S18_2625,30,49.67,Motorcycles,1490.1000000000001,sales_data_sample.csv
+2003-10-10,S18_2625,42,51.48,Motorcycles,2162.16,sales_data_sample.csv
+2003-10-28,S18_2625,46,61.18,Motorcycles,2814.28,sales_data_sample.csv
+2003-11-11,S18_2625,25,64.2,Motorcycles,1605.0,sales_data_sample.csv
+2003-11-18,S18_2625,32,65.42,Motorcycles,2093.44,sales_data_sample.csv
+2003-12-01,S18_2625,30,64.81,Motorcycles,1944.3000000000002,sales_data_sample.csv
+2004-01-12,S18_2625,40,49.67,Motorcycles,1986.8000000000002,sales_data_sample.csv
+2004-02-20,S18_2625,28,60.57,Motorcycles,1695.96,sales_data_sample.csv
+2004-04-03,S18_2625,23,55.72,Motorcycles,1281.56,sales_data_sample.csv
+2004-05-18,S18_2625,29,61.18,Motorcycles,1774.22,sales_data_sample.csv
+2004-06-28,S18_2625,34,58.75,Motorcycles,1997.5,sales_data_sample.csv
+2004-07-23,S18_2625,37,63.6,Motorcycles,2353.2000000000003,sales_data_sample.csv
+2004-08-27,S18_2625,20,49.06,Motorcycles,981.2,sales_data_sample.csv
+2004-09-27,S18_2625,32,48.46,Motorcycles,1550.72,sales_data_sample.csv
+2004-10-15,S18_2625,34,52.09,Motorcycles,1771.0600000000002,sales_data_sample.csv
+2004-11-02,S18_2625,42,52.7,Motorcycles,2213.4,sales_data_sample.csv
+2004-11-15,S18_2625,38,100.0,Motorcycles,3800.0,sales_data_sample.csv
+2004-11-23,S18_2625,30,62.16,Motorcycles,1864.8,sales_data_sample.csv
+2005-01-05,S18_2625,23,49.67,Motorcycles,1142.41,sales_data_sample.csv
+2005-02-02,S18_2625,22,53.3,Motorcycles,1172.6,sales_data_sample.csv
+2005-03-03,S18_2625,39,100.0,Motorcycles,3900.0,sales_data_sample.csv
+2005-04-07,S18_2625,55,55.72,Motorcycles,3064.6,sales_data_sample.csv
+2003-01-09,S18_2795,26,100.0,Vintage Cars,2600.0,sales_data_sample.csv
+2003-03-18,S18_2795,31,100.0,Vintage Cars,3100.0,sales_data_sample.csv
+2003-05-21,S18_2795,34,100.0,Vintage Cars,3400.0,sales_data_sample.csv
+2003-07-16,S18_2795,41,100.0,Vintage Cars,4100.0,sales_data_sample.csv
+2003-09-12,S18_2795,23,100.0,Vintage Cars,2300.0,sales_data_sample.csv
+2003-10-18,S18_2795,48,100.0,Vintage Cars,4800.0,sales_data_sample.csv
+2003-11-05,S18_2795,22,100.0,Vintage Cars,2200.0,sales_data_sample.csv
+2003-11-12,S18_2795,21,100.0,Vintage Cars,2100.0,sales_data_sample.csv
+2003-11-21,S18_2795,22,100.0,Vintage Cars,2200.0,sales_data_sample.csv
+2003-12-03,S18_2795,40,100.0,Vintage Cars,4000.0,sales_data_sample.csv
+2004-01-26,S18_2795,50,100.0,Vintage Cars,5000.0,sales_data_sample.csv
+2004-03-02,S18_2795,29,100.0,Vintage Cars,2900.0,sales_data_sample.csv
+2004-04-29,S18_2795,43,100.0,Vintage Cars,4300.0,sales_data_sample.csv
+2004-06-04,S18_2795,24,100.0,Vintage Cars,2400.0,sales_data_sample.csv
+2004-08-17,S18_2795,22,100.0,Vintage Cars,2200.0,sales_data_sample.csv
+2004-09-03,S18_2795,43,100.0,Vintage Cars,4300.0,sales_data_sample.csv
+2004-10-11,S18_2795,20,100.0,Vintage Cars,2000.0,sales_data_sample.csv
+2004-10-21,S18_2795,25,100.0,Vintage Cars,2500.0,sales_data_sample.csv
+2004-11-04,S18_2795,36,100.0,Vintage Cars,3600.0,sales_data_sample.csv
+2004-11-17,S18_2795,24,52.67,Vintage Cars,1264.08,sales_data_sample.csv
+2004-11-29,S18_2795,21,100.0,Vintage Cars,2100.0,sales_data_sample.csv
+2004-12-09,S18_2795,30,100.0,Vintage Cars,3000.0,sales_data_sample.csv
+2005-01-12,S18_2795,32,94.79,Vintage Cars,3033.28,sales_data_sample.csv
+2005-02-16,S18_2795,21,47.18,Vintage Cars,990.78,sales_data_sample.csv
+2005-03-04,S18_2795,26,78.11,Vintage Cars,2030.86,sales_data_sample.csv
+2003-03-10,S18_2870,26,100.0,Classic Cars,2600.0,sales_data_sample.csv
+2003-05-20,S18_2870,46,100.0,Classic Cars,4600.0,sales_data_sample.csv
+2003-07-10,S18_2870,37,100.0,Classic Cars,3700.0,sales_data_sample.csv
+2003-09-11,S18_2870,27,100.0,Classic Cars,2700.0,sales_data_sample.csv
+2003-10-17,S18_2870,23,100.0,Classic Cars,2300.0,sales_data_sample.csv
+2003-11-05,S18_2870,39,100.0,Classic Cars,3900.0,sales_data_sample.csv
+2003-11-12,S18_2870,27,100.0,Classic Cars,2700.0,sales_data_sample.csv
+2003-11-20,S18_2870,38,100.0,Classic Cars,3800.0,sales_data_sample.csv
+2003-12-02,S18_2870,27,100.0,Classic Cars,2700.0,sales_data_sample.csv
+2004-01-16,S18_2870,40,100.0,Classic Cars,4000.0,sales_data_sample.csv
+2004-02-26,S18_2870,24,100.0,Classic Cars,2400.0,sales_data_sample.csv
+2004-04-13,S18_2870,44,100.0,Classic Cars,4400.0,sales_data_sample.csv
+2004-07-06,S18_2870,20,100.0,Classic Cars,2000.0,sales_data_sample.csv
+2004-08-06,S18_2870,39,100.0,Classic Cars,3900.0,sales_data_sample.csv
+2004-08-30,S18_2870,44,100.0,Classic Cars,4400.0,sales_data_sample.csv
+2003-10-05,S18_2870,22,100.0,Classic Cars,2200.0,sales_data_sample.csv
+2004-10-16,S18_2870,43,100.0,Classic Cars,4300.0,sales_data_sample.csv
+2004-11-04,S18_2870,27,100.0,Classic Cars,2700.0,sales_data_sample.csv
+2004-11-17,S18_2870,26,64.9,Classic Cars,1687.4,sales_data_sample.csv
+2004-11-24,S18_2870,25,52.32,Classic Cars,1308.0,sales_data_sample.csv
+2005-01-10,S18_2870,49,100.0,Classic Cars,4900.0,sales_data_sample.csv
+2005-02-10,S18_2870,29,100.0,Classic Cars,2900.0,sales_data_sample.csv
+2005-05-17,S18_2870,55,100.0,Classic Cars,5500.0,sales_data_sample.csv
+2003-01-29,S18_2949,27,83.07,Vintage Cars,2242.89,sales_data_sample.csv
+2003-03-24,S18_2949,23,100.0,Vintage Cars,2300.0,sales_data_sample.csv
+2003-05-28,S18_2949,31,90.17,Vintage Cars,2795.27,sales_data_sample.csv
+2003-07-16,S18_2949,46,100.0,Vintage Cars,4600.0,sales_data_sample.csv
+2003-09-19,S18_2949,47,91.18,Vintage Cars,4285.46,sales_data_sample.csv
+2003-10-20,S18_2949,31,100.0,Vintage Cars,3100.0,sales_data_sample.csv
+2003-11-06,S18_2949,46,100.0,Vintage Cars,4600.0,sales_data_sample.csv
+2003-11-13,S18_2949,37,89.15,Vintage Cars,3298.55,sales_data_sample.csv
+2003-11-21,S18_2949,28,93.21,Vintage Cars,2609.8799999999997,sales_data_sample.csv
+2003-12-05,S18_2949,37,90.17,Vintage Cars,3336.29,sales_data_sample.csv
+2004-01-29,S18_2949,49,100.0,Vintage Cars,4900.0,sales_data_sample.csv
+2004-03-10,S18_2949,24,100.0,Vintage Cars,2400.0,sales_data_sample.csv
+2004-04-29,S18_2949,30,100.0,Vintage Cars,3000.0,sales_data_sample.csv
+2004-06-14,S18_2949,50,88.14,Vintage Cars,4407.0,sales_data_sample.csv
+2004-07-19,S18_2949,31,96.24,Vintage Cars,2983.44,sales_data_sample.csv
+2004-08-17,S18_2949,46,100.0,Vintage Cars,4600.0,sales_data_sample.csv
+2004-09-08,S18_2949,47,100.0,Vintage Cars,4700.0,sales_data_sample.csv
+2004-10-11,S18_2949,46,100.0,Vintage Cars,4600.0,sales_data_sample.csv
+2004-10-21,S18_2949,37,100.0,Vintage Cars,3700.0,sales_data_sample.csv
+2004-11-04,S18_2949,33,100.0,Vintage Cars,3300.0,sales_data_sample.csv
+2004-11-18,S18_2949,31,90.17,Vintage Cars,2795.27,sales_data_sample.csv
+2004-11-29,S18_2949,48,100.0,Vintage Cars,4800.0,sales_data_sample.csv
+2004-12-10,S18_2949,41,87.13,Vintage Cars,3572.33,sales_data_sample.csv
+2005-01-20,S18_2949,42,100.0,Vintage Cars,4200.0,sales_data_sample.csv
+2005-02-17,S18_2949,41,100.0,Vintage Cars,4100.0,sales_data_sample.csv
+2005-03-09,S18_2949,32,45.25,Vintage Cars,1448.0,sales_data_sample.csv
+2003-01-29,S18_2957,35,57.46,Vintage Cars,2011.1000000000001,sales_data_sample.csv
+2003-03-25,S18_2957,28,64.33,Vintage Cars,1801.24,sales_data_sample.csv
+2003-05-28,S18_2957,46,73.7,Vintage Cars,3390.2000000000003,sales_data_sample.csv
+2003-07-16,S18_2957,20,71.2,Vintage Cars,1424.0,sales_data_sample.csv
+2003-09-19,S18_2957,30,49.97,Vintage Cars,1499.1,sales_data_sample.csv
+2003-10-20,S18_2957,48,69.96,Vintage Cars,3358.08,sales_data_sample.csv
+2003-11-05,S18_2957,28,53.72,Vintage Cars,1504.1599999999999,sales_data_sample.csv
+2003-11-13,S18_2957,39,68.08,Vintage Cars,2655.12,sales_data_sample.csv
+2003-11-21,S18_2957,24,51.84,Vintage Cars,1244.16,sales_data_sample.csv
+2003-12-05,S18_2957,28,67.46,Vintage Cars,1888.8799999999999,sales_data_sample.csv
+2004-01-29,S18_2957,31,58.71,Vintage Cars,1820.01,sales_data_sample.csv
+2004-03-10,S18_2957,45,63.71,Vintage Cars,2866.95,sales_data_sample.csv
+2004-04-29,S18_2957,24,58.09,Vintage Cars,1394.16,sales_data_sample.csv
+2004-06-14,S18_2957,49,53.72,Vintage Cars,2632.2799999999997,sales_data_sample.csv
+2004-07-16,S18_2957,32,63.08,Vintage Cars,2018.56,sales_data_sample.csv
+2004-08-17,S18_2957,43,68.71,Vintage Cars,2954.5299999999997,sales_data_sample.csv
+2004-09-08,S18_2957,37,50.59,Vintage Cars,1871.8300000000002,sales_data_sample.csv
+2004-10-11,S18_2957,24,64.96,Vintage Cars,1559.04,sales_data_sample.csv
+2004-10-21,S18_2957,35,53.72,Vintage Cars,1880.2,sales_data_sample.csv
+2004-11-04,S18_2957,41,29.87,Vintage Cars,1224.67,sales_data_sample.csv
+2004-11-17,S18_2957,26,100.0,Vintage Cars,2600.0,sales_data_sample.csv
+2004-11-29,S18_2957,34,64.96,Vintage Cars,2208.64,sales_data_sample.csv
+2004-12-10,S18_2957,49,70.58,Vintage Cars,3458.42,sales_data_sample.csv
+2005-01-20,S18_2957,28,44.21,Vintage Cars,1237.88,sales_data_sample.csv
+2005-02-17,S18_2957,40,68.08,Vintage Cars,2723.2,sales_data_sample.csv
+2005-03-10,S18_2957,37,59.96,Vintage Cars,2218.52,sales_data_sample.csv
+2003-02-17,S18_3029,41,83.44,Ships,3421.04,sales_data_sample.csv
+2003-04-28,S18_3029,21,89.46,Ships,1878.6599999999999,sales_data_sample.csv
+2003-06-16,S18_3029,40,96.34,Ships,3853.6000000000004,sales_data_sample.csv
+2003-08-10,S18_3029,46,74.84,Ships,3442.6400000000003,sales_data_sample.csv
+2003-10-06,S18_3029,44,79.14,Ships,3482.16,sales_data_sample.csv
+2003-11-08,S18_3029,41,81.72,Ships,3350.52,sales_data_sample.csv
+2003-11-14,S18_3029,32,89.46,Ships,2862.72,sales_data_sample.csv
+2003-11-26,S18_3029,46,87.74,Ships,4036.04,sales_data_sample.csv
+2004-01-09,S18_3029,28,100.0,Ships,2800.0,sales_data_sample.csv
+2004-02-19,S18_3029,49,94.62,Ships,4636.38,sales_data_sample.csv
+2004-07-21,S18_3029,34,98.06,Ships,3334.04,sales_data_sample.csv
+2004-08-20,S18_3029,21,98.06,Ships,2059.26,sales_data_sample.csv
+2004-09-15,S18_3029,21,96.34,Ships,2023.14,sales_data_sample.csv
+2004-10-14,S18_3029,31,83.44,Ships,2586.64,sales_data_sample.csv
+2004-11-01,S18_3029,21,94.62,Ships,1987.02,sales_data_sample.csv
+2004-11-10,S18_3029,25,45.86,Ships,1146.5,sales_data_sample.csv
+2004-11-22,S18_3029,28,82.58,Ships,2312.24,sales_data_sample.csv
+2004-12-02,S18_3029,43,64.97,Ships,2793.71,sales_data_sample.csv
+2005-01-31,S18_3029,22,86.74,Ships,1908.28,sales_data_sample.csv
+2005-03-01,S18_3029,37,93.01,Ships,3441.3700000000003,sales_data_sample.csv
+2005-03-30,S18_3029,28,72.26,Ships,2023.2800000000002,sales_data_sample.csv
+2005-04-01,S18_3029,30,74.84,Ships,2245.2000000000003,sales_data_sample.csv
+2003-01-29,S18_3136,25,100.0,Vintage Cars,2500.0,sales_data_sample.csv
+2003-03-25,S18_3136,43,100.0,Vintage Cars,4300.0,sales_data_sample.csv
+2003-05-28,S18_3136,30,97.39,Vintage Cars,2921.7,sales_data_sample.csv
+2003-07-16,S18_3136,20,90.06,Vintage Cars,1801.2,sales_data_sample.csv
+2003-09-19,S18_3136,26,100.0,Vintage Cars,2600.0,sales_data_sample.csv
+2003-10-20,S18_3136,40,100.0,Vintage Cars,4000.0,sales_data_sample.csv
+2003-11-05,S18_3136,31,89.01,Vintage Cars,2759.31,sales_data_sample.csv
+2003-11-13,S18_3136,22,100.0,Vintage Cars,2200.0,sales_data_sample.csv
+2003-11-21,S18_3136,23,100.0,Vintage Cars,2300.0,sales_data_sample.csv
+2003-12-05,S18_3136,30,100.0,Vintage Cars,3000.0,sales_data_sample.csv
+2004-01-29,S18_3136,49,100.0,Vintage Cars,4900.0,sales_data_sample.csv
+2004-03-10,S18_3136,31,100.0,Vintage Cars,3100.0,sales_data_sample.csv
+2004-04-29,S18_3136,29,100.0,Vintage Cars,2900.0,sales_data_sample.csv
+2004-06-14,S18_3136,37,84.82,Vintage Cars,3138.3399999999997,sales_data_sample.csv
+2004-07-19,S18_3136,38,100.0,Vintage Cars,3800.0,sales_data_sample.csv
+2004-08-17,S18_3136,29,100.0,Vintage Cars,2900.0,sales_data_sample.csv
+2004-09-08,S18_3136,23,100.0,Vintage Cars,2300.0,sales_data_sample.csv
+2004-10-11,S18_3136,26,85.87,Vintage Cars,2232.62,sales_data_sample.csv
+2004-10-21,S18_3136,38,100.0,Vintage Cars,3800.0,sales_data_sample.csv
+2004-11-04,S18_3136,48,47.04,Vintage Cars,2257.92,sales_data_sample.csv
+2004-11-17,S18_3136,40,39.8,Vintage Cars,1592.0,sales_data_sample.csv
+2004-11-29,S18_3136,45,100.0,Vintage Cars,4500.0,sales_data_sample.csv
+2004-12-10,S18_3136,44,100.0,Vintage Cars,4400.0,sales_data_sample.csv
+2005-01-20,S18_3136,21,94.22,Vintage Cars,1978.62,sales_data_sample.csv
+2005-02-17,S18_3136,35,100.0,Vintage Cars,3500.0,sales_data_sample.csv
+2005-03-10,S18_3136,29,86.92,Vintage Cars,2520.68,sales_data_sample.csv
+2003-02-11,S18_3140,22,100.0,Vintage Cars,2200.0,sales_data_sample.csv
+2003-04-16,S18_3140,26,100.0,Vintage Cars,2600.0,sales_data_sample.csv
+2003-06-06,S18_3140,41,100.0,Vintage Cars,4100.0,sales_data_sample.csv
+2003-08-08,S18_3140,47,100.0,Vintage Cars,4700.0,sales_data_sample.csv
+2003-09-28,S18_3140,31,100.0,Vintage Cars,3100.0,sales_data_sample.csv
+2003-10-21,S18_3140,43,100.0,Vintage Cars,4300.0,sales_data_sample.csv
+2003-11-07,S18_3140,23,100.0,Vintage Cars,2300.0,sales_data_sample.csv
+2003-11-14,S18_3140,28,100.0,Vintage Cars,2800.0,sales_data_sample.csv
+2003-11-26,S18_3140,49,100.0,Vintage Cars,4900.0,sales_data_sample.csv
+2004-01-02,S18_3140,24,100.0,Vintage Cars,2400.0,sales_data_sample.csv
+2004-02-18,S18_3140,33,100.0,Vintage Cars,3300.0,sales_data_sample.csv
+2004-03-20,S18_3140,22,100.0,Vintage Cars,2200.0,sales_data_sample.csv
+2004-07-21,S18_3140,40,100.0,Vintage Cars,4000.0,sales_data_sample.csv
+2004-08-20,S18_3140,43,100.0,Vintage Cars,4300.0,sales_data_sample.csv
+2004-09-09,S18_3140,24,100.0,Vintage Cars,2400.0,sales_data_sample.csv
+2004-10-14,S18_3140,32,100.0,Vintage Cars,3200.0,sales_data_sample.csv
+2004-10-22,S18_3140,20,100.0,Vintage Cars,2000.0,sales_data_sample.csv
+2004-11-05,S18_3140,24,69.12,Vintage Cars,1658.88,sales_data_sample.csv
+2004-11-20,S18_3140,48,100.0,Vintage Cars,4800.0,sales_data_sample.csv
+2004-12-02,S18_3140,44,100.0,Vintage Cars,4400.0,sales_data_sample.csv
+2005-01-26,S18_3140,28,100.0,Vintage Cars,2800.0,sales_data_sample.csv
+2005-02-22,S18_3140,24,61.52,Vintage Cars,1476.48,sales_data_sample.csv
+2005-03-23,S18_3140,33,100.0,Vintage Cars,3300.0,sales_data_sample.csv
+2003-01-31,S18_3232,23,100.0,Classic Cars,2300.0,sales_data_sample.csv
+2003-03-10,S18_3232,46,100.0,Classic Cars,4600.0,sales_data_sample.csv
+2003-04-01,S18_3232,48,100.0,Classic Cars,4800.0,sales_data_sample.csv
+2003-05-08,S18_3232,25,100.0,Classic Cars,2500.0,sales_data_sample.csv
+2003-06-03,S18_3232,22,100.0,Classic Cars,2200.0,sales_data_sample.csv
+2003-07-04,S18_3232,41,100.0,Classic Cars,4100.0,sales_data_sample.csv
+2003-08-01,S18_3232,34,100.0,Classic Cars,3400.0,sales_data_sample.csv
+2003-09-11,S18_3232,32,100.0,Classic Cars,3200.0,sales_data_sample.csv
+2003-09-21,S18_3232,21,100.0,Classic Cars,2100.0,sales_data_sample.csv
+2003-10-11,S18_3232,20,100.0,Classic Cars,2000.0,sales_data_sample.csv
+2003-10-22,S18_3232,47,100.0,Classic Cars,4700.0,sales_data_sample.csv
+2003-11-05,S18_3232,39,100.0,Classic Cars,3900.0,sales_data_sample.csv
+2003-11-06,S18_3232,29,100.0,Classic Cars,2900.0,sales_data_sample.csv
+2003-11-12,S18_3232,45,100.0,Classic Cars,4500.0,sales_data_sample.csv
+2003-11-14,S18_3232,28,100.0,Classic Cars,2800.0,sales_data_sample.csv
+2003-11-20,S18_3232,26,100.0,Classic Cars,2600.0,sales_data_sample.csv
+2003-11-25,S18_3232,50,100.0,Classic Cars,5000.0,sales_data_sample.csv
+2003-12-02,S18_3232,48,100.0,Classic Cars,4800.0,sales_data_sample.csv
+2003-12-09,S18_3232,25,100.0,Classic Cars,2500.0,sales_data_sample.csv
+2004-01-16,S18_3232,40,100.0,Classic Cars,4000.0,sales_data_sample.csv
+2004-02-22,S18_3232,43,100.0,Classic Cars,4300.0,sales_data_sample.csv
+2004-03-11,S18_3232,22,100.0,Classic Cars,2200.0,sales_data_sample.csv
+2004-04-12,S18_3232,47,100.0,Classic Cars,4700.0,sales_data_sample.csv
+2004-05-05,S18_3232,36,100.0,Classic Cars,3600.0,sales_data_sample.csv
+2004-06-15,S18_3232,27,100.0,Classic Cars,2700.0,sales_data_sample.csv
+2004-07-06,S18_3232,29,100.0,Classic Cars,2900.0,sales_data_sample.csv
+2004-07-20,S18_3232,20,100.0,Classic Cars,2000.0,sales_data_sample.csv
+2004-08-06,S18_3232,42,100.0,Classic Cars,4200.0,sales_data_sample.csv
+2004-08-19,S18_3232,25,100.0,Classic Cars,2500.0,sales_data_sample.csv
+2004-08-30,S18_3232,36,100.0,Classic Cars,3600.0,sales_data_sample.csv
+2004-09-08,S18_3232,21,100.0,Classic Cars,2100.0,sales_data_sample.csv
+2003-10-05,S18_3232,23,100.0,Classic Cars,2300.0,sales_data_sample.csv
+2004-10-13,S18_3232,37,100.0,Classic Cars,3700.0,sales_data_sample.csv
+2004-10-16,S18_3232,48,100.0,Classic Cars,4800.0,sales_data_sample.csv
+2004-10-22,S18_3232,25,100.0,Classic Cars,2500.0,sales_data_sample.csv
+2004-11-04,S18_3232,33,100.0,Classic Cars,3300.0,sales_data_sample.csv
+2004-11-05,S18_3232,27,100.0,Classic Cars,2700.0,sales_data_sample.csv
+2004-11-17,S18_3232,27,100.0,Classic Cars,2700.0,sales_data_sample.csv
+2004-11-24,S18_3232,30,100.0,Classic Cars,3000.0,sales_data_sample.csv
+2004-12-01,S18_3232,48,100.0,Classic Cars,4800.0,sales_data_sample.csv
+2004-12-10,S18_3232,32,93.49,Classic Cars,2991.68,sales_data_sample.csv
+2005-01-10,S18_3232,34,100.0,Classic Cars,3400.0,sales_data_sample.csv
+2005-01-20,S18_3232,27,56.85,Classic Cars,1534.95,sales_data_sample.csv
+2005-02-09,S18_3232,39,100.0,Classic Cars,3900.0,sales_data_sample.csv
+2005-02-22,S18_3232,47,100.0,Classic Cars,4700.0,sales_data_sample.csv
+2005-03-15,S18_3232,22,100.0,Classic Cars,2200.0,sales_data_sample.csv
+2005-04-14,S18_3232,55,100.0,Classic Cars,5500.0,sales_data_sample.csv
+2005-05-03,S18_3232,60,100.0,Classic Cars,6000.0,sales_data_sample.csv
+2005-05-17,S18_3232,35,100.0,Classic Cars,3500.0,sales_data_sample.csv
+2003-02-11,S18_3259,38,100.0,Trains,3800.0,sales_data_sample.csv
+2003-04-16,S18_3259,21,95.8,Trains,2011.8,sales_data_sample.csv
+2003-06-06,S18_3259,41,100.0,Trains,4100.0,sales_data_sample.csv
+2003-08-08,S18_3259,22,97.81,Trains,2151.82,sales_data_sample.csv
+2003-09-28,S18_3259,29,88.74,Trains,2573.46,sales_data_sample.csv
+2003-10-22,S18_3259,50,100.0,Trains,5000.0,sales_data_sample.csv
+2003-11-07,S18_3259,29,100.0,Trains,2900.0,sales_data_sample.csv
+2003-11-14,S18_3259,49,80.67,Trains,3952.83,sales_data_sample.csv
+2003-11-26,S18_3259,35,100.0,Trains,3500.0,sales_data_sample.csv
+2004-01-02,S18_3259,48,100.0,Trains,4800.0,sales_data_sample.csv
+2004-02-18,S18_3259,23,80.67,Trains,1855.41,sales_data_sample.csv
+2004-03-20,S18_3259,48,95.8,Trains,4598.4,sales_data_sample.csv
+2004-07-21,S18_3259,47,100.0,Trains,4700.0,sales_data_sample.csv
+2004-08-20,S18_3259,36,100.0,Trains,3600.0,sales_data_sample.csv
+2004-09-09,S18_3259,22,100.0,Trains,2200.0,sales_data_sample.csv
+2004-10-14,S18_3259,40,91.76,Trains,3670.4,sales_data_sample.csv
+2004-10-22,S18_3259,23,100.0,Trains,2300.0,sales_data_sample.csv
+2004-11-09,S18_3259,32,100.0,Trains,3200.0,sales_data_sample.csv
+2004-11-20,S18_3259,21,100.0,Trains,2100.0,sales_data_sample.csv
+2004-12-02,S18_3259,41,93.04,Trains,3814.6400000000003,sales_data_sample.csv
+2005-01-26,S18_3259,25,84.71,Trains,2117.75,sales_data_sample.csv
+2005-02-22,S18_3259,26,100.0,Trains,2600.0,sales_data_sample.csv
+2005-03-23,S18_3259,24,89.75,Trains,2154.0,sales_data_sample.csv
+2003-03-03,S18_3278,26,68.35,Classic Cars,1777.1,sales_data_sample.csv
+2003-05-08,S18_3278,21,73.17,Classic Cars,1536.57,sales_data_sample.csv
+2003-07-02,S18_3278,45,78.0,Classic Cars,3510.0,sales_data_sample.csv
+2003-09-05,S18_3278,36,86.04,Classic Cars,3097.44,sales_data_sample.csv
+2003-10-10,S18_3278,21,81.21,Classic Cars,1705.4099999999999,sales_data_sample.csv
+2003-11-04,S18_3278,32,70.76,Classic Cars,2264.32,sales_data_sample.csv
+2003-11-12,S18_3278,30,82.82,Classic Cars,2484.6,sales_data_sample.csv
+2003-11-20,S18_3278,36,94.88,Classic Cars,3415.68,sales_data_sample.csv
+2003-12-02,S18_3278,33,86.04,Classic Cars,2839.32,sales_data_sample.csv
+2004-01-15,S18_3278,35,78.0,Classic Cars,2730.0,sales_data_sample.csv
+2004-02-22,S18_3278,37,95.69,Classic Cars,3540.5299999999997,sales_data_sample.csv
+2004-04-09,S18_3278,41,73.17,Classic Cars,2999.9700000000003,sales_data_sample.csv
+2004-05-26,S18_3278,20,76.39,Classic Cars,1527.8,sales_data_sample.csv
+2004-07-02,S18_3278,45,86.84,Classic Cars,3907.8,sales_data_sample.csv
+2004-08-02,S18_3278,38,69.96,Classic Cars,2658.4799999999996,sales_data_sample.csv
+2004-08-30,S18_3278,43,70.76,Classic Cars,3042.6800000000003,sales_data_sample.csv
+2003-10-04,S18_3278,49,78.8,Classic Cars,3861.2,sales_data_sample.csv
+2004-10-16,S18_3278,27,80.41,Classic Cars,2171.0699999999997,sales_data_sample.csv
+2004-11-03,S18_3278,46,73.98,Classic Cars,3403.0800000000004,sales_data_sample.csv
+2004-11-15,S18_3278,38,59.1,Classic Cars,2245.8,sales_data_sample.csv
+2004-11-24,S18_3278,25,66.74,Classic Cars,1668.4999999999998,sales_data_sample.csv
+2005-01-06,S18_3278,46,60.3,Classic Cars,2773.7999999999997,sales_data_sample.csv
+2005-02-10,S18_3278,22,100.0,Classic Cars,2200.0,sales_data_sample.csv
+2005-03-04,S18_3278,40,100.0,Classic Cars,4000.0,sales_data_sample.csv
+2003-01-29,S18_3320,46,100.0,Vintage Cars,4600.0,sales_data_sample.csv
+2003-03-25,S18_3320,39,100.0,Vintage Cars,3900.0,sales_data_sample.csv
+2003-05-28,S18_3320,38,82.34,Vintage Cars,3128.92,sales_data_sample.csv
+2003-07-16,S18_3320,30,100.0,Vintage Cars,3000.0,sales_data_sample.csv
+2003-09-12,S18_3320,42,94.25,Vintage Cars,3958.5,sales_data_sample.csv
+2003-10-20,S18_3320,43,100.0,Vintage Cars,4300.0,sales_data_sample.csv
+2003-11-05,S18_3320,29,95.24,Vintage Cars,2761.96,sales_data_sample.csv
+2003-11-12,S18_3320,33,86.31,Vintage Cars,2848.23,sales_data_sample.csv
+2003-11-21,S18_3320,32,79.37,Vintage Cars,2539.84,sales_data_sample.csv
+2003-12-05,S18_3320,28,87.3,Vintage Cars,2444.4,sales_data_sample.csv
+2004-01-29,S18_3320,41,100.0,Vintage Cars,4100.0,sales_data_sample.csv
+2004-03-02,S18_3320,33,100.0,Vintage Cars,3300.0,sales_data_sample.csv
+2004-04-29,S18_3320,36,84.33,Vintage Cars,3035.88,sales_data_sample.csv
+2004-06-14,S18_3320,26,89.29,Vintage Cars,2321.54,sales_data_sample.csv
+2004-08-17,S18_3320,34,100.0,Vintage Cars,3400.0,sales_data_sample.csv
+2004-09-07,S18_3320,26,96.23,Vintage Cars,2501.98,sales_data_sample.csv
+2004-10-11,S18_3320,38,100.0,Vintage Cars,3800.0,sales_data_sample.csv
+2004-10-21,S18_3320,33,100.0,Vintage Cars,3300.0,sales_data_sample.csv
+2004-11-05,S18_3320,33,91.27,Vintage Cars,3011.91,sales_data_sample.csv
+2004-11-18,S18_3320,46,100.0,Vintage Cars,4600.0,sales_data_sample.csv
+2004-11-29,S18_3320,26,100.0,Vintage Cars,2600.0,sales_data_sample.csv
+2004-12-10,S18_3320,25,100.0,Vintage Cars,2500.0,sales_data_sample.csv
+2005-01-20,S18_3320,45,73.08,Vintage Cars,3288.6,sales_data_sample.csv
+2005-02-17,S18_3320,50,100.0,Vintage Cars,5000.0,sales_data_sample.csv
+2005-03-10,S18_3320,36,100.0,Vintage Cars,3600.0,sales_data_sample.csv
+2003-03-03,S18_3482,29,100.0,Classic Cars,2900.0,sales_data_sample.csv
+2003-05-08,S18_3482,21,100.0,Classic Cars,2100.0,sales_data_sample.csv
+2003-07-02,S18_3482,42,100.0,Classic Cars,4200.0,sales_data_sample.csv
+2003-09-05,S18_3482,37,100.0,Classic Cars,3700.0,sales_data_sample.csv
+2003-10-10,S18_3482,25,100.0,Classic Cars,2500.0,sales_data_sample.csv
+2003-11-04,S18_3482,36,100.0,Classic Cars,3600.0,sales_data_sample.csv
+2003-11-12,S18_3482,22,100.0,Classic Cars,2200.0,sales_data_sample.csv
+2003-11-20,S18_3482,23,100.0,Classic Cars,2300.0,sales_data_sample.csv
+2003-12-02,S18_3482,32,100.0,Classic Cars,3200.0,sales_data_sample.csv
+2004-01-15,S18_3482,28,100.0,Classic Cars,2800.0,sales_data_sample.csv
+2004-02-22,S18_3482,27,100.0,Classic Cars,2700.0,sales_data_sample.csv
+2004-04-09,S18_3482,49,100.0,Classic Cars,4900.0,sales_data_sample.csv
+2004-05-26,S18_3482,41,100.0,Classic Cars,4100.0,sales_data_sample.csv
+2004-07-02,S18_3482,49,100.0,Classic Cars,4900.0,sales_data_sample.csv
+2004-08-02,S18_3482,30,100.0,Classic Cars,3000.0,sales_data_sample.csv
+2004-08-30,S18_3482,40,100.0,Classic Cars,4000.0,sales_data_sample.csv
+2003-10-04,S18_3482,23,100.0,Classic Cars,2300.0,sales_data_sample.csv
+2004-10-16,S18_3482,49,100.0,Classic Cars,4900.0,sales_data_sample.csv
+2004-11-03,S18_3482,25,100.0,Classic Cars,2500.0,sales_data_sample.csv
+2004-11-16,S18_3482,37,100.0,Classic Cars,3700.0,sales_data_sample.csv
+2004-11-24,S18_3482,55,100.0,Classic Cars,5500.0,sales_data_sample.csv
+2004-12-07,S18_3482,23,100.0,Classic Cars,2300.0,sales_data_sample.csv
+2005-01-06,S18_3482,24,100.0,Classic Cars,2400.0,sales_data_sample.csv
+2005-02-10,S18_3482,43,96.49,Classic Cars,4149.07,sales_data_sample.csv
+2005-03-04,S18_3482,50,100.0,Classic Cars,5000.0,sales_data_sample.csv
+2003-03-10,S18_3685,47,100.0,Classic Cars,4700.0,sales_data_sample.csv
+2003-05-20,S18_3685,34,100.0,Classic Cars,3400.0,sales_data_sample.csv
+2003-07-10,S18_3685,31,100.0,Classic Cars,3100.0,sales_data_sample.csv
+2003-09-11,S18_3685,28,100.0,Classic Cars,2800.0,sales_data_sample.csv
+2003-10-17,S18_3685,36,100.0,Classic Cars,3600.0,sales_data_sample.csv
+2003-11-05,S18_3685,48,100.0,Classic Cars,4800.0,sales_data_sample.csv
+2003-11-12,S18_3685,39,100.0,Classic Cars,3900.0,sales_data_sample.csv
+2003-11-20,S18_3685,45,100.0,Classic Cars,4500.0,sales_data_sample.csv
+2003-12-02,S18_3685,35,100.0,Classic Cars,3500.0,sales_data_sample.csv
+2004-01-16,S18_3685,45,100.0,Classic Cars,4500.0,sales_data_sample.csv
+2004-02-26,S18_3685,46,100.0,Classic Cars,4600.0,sales_data_sample.csv
+2004-04-13,S18_3685,37,100.0,Classic Cars,3700.0,sales_data_sample.csv
+2004-07-06,S18_3685,33,100.0,Classic Cars,3300.0,sales_data_sample.csv
+2004-08-06,S18_3685,31,100.0,Classic Cars,3100.0,sales_data_sample.csv
+2004-08-30,S18_3685,27,100.0,Classic Cars,2700.0,sales_data_sample.csv
+2003-10-05,S18_3685,39,100.0,Classic Cars,3900.0,sales_data_sample.csv
+2004-10-16,S18_3685,32,100.0,Classic Cars,3200.0,sales_data_sample.csv
+2004-11-04,S18_3685,28,100.0,Classic Cars,2800.0,sales_data_sample.csv
+2004-11-17,S18_3685,26,67.91,Classic Cars,1765.6599999999999,sales_data_sample.csv
+2004-11-24,S18_3685,44,84.88,Classic Cars,3734.72,sales_data_sample.csv
+2005-01-12,S18_3685,46,100.0,Classic Cars,4600.0,sales_data_sample.csv
+2005-02-10,S18_3685,32,70.83,Classic Cars,2266.56,sales_data_sample.csv
+2005-05-17,S18_3685,43,100.0,Classic Cars,4300.0,sales_data_sample.csv
+2003-03-03,S18_3782,43,67.77,Motorcycles,2914.1099999999997,sales_data_sample.csv
+2003-05-08,S18_3782,35,49.74,Motorcycles,1740.9,sales_data_sample.csv
+2003-07-02,S18_3782,45,50.36,Motorcycles,2266.2,sales_data_sample.csv
+2003-09-03,S18_3782,47,67.14,Motorcycles,3155.58,sales_data_sample.csv
+2003-10-10,S18_3782,21,64.66,Motorcycles,1357.86,sales_data_sample.csv
+2003-11-04,S18_3782,38,68.39,Motorcycles,2598.82,sales_data_sample.csv
+2003-11-11,S18_3782,21,50.36,Motorcycles,1057.56,sales_data_sample.csv
+2003-11-20,S18_3782,43,72.74,Motorcycles,3127.8199999999997,sales_data_sample.csv
+2004-01-15,S18_3782,46,54.09,Motorcycles,2488.1400000000003,sales_data_sample.csv
+2004-02-21,S18_3782,38,58.44,Motorcycles,2220.72,sales_data_sample.csv
+2004-04-05,S18_3782,26,52.22,Motorcycles,1357.72,sales_data_sample.csv
+2004-05-26,S18_3782,31,52.84,Motorcycles,1638.0400000000002,sales_data_sample.csv
+2004-06-30,S18_3782,48,54.71,Motorcycles,2626.08,sales_data_sample.csv
+2004-08-02,S18_3782,33,50.36,Motorcycles,1661.8799999999999,sales_data_sample.csv
+2004-08-28,S18_3782,38,57.2,Motorcycles,2173.6,sales_data_sample.csv
+2004-09-30,S18_3782,39,55.95,Motorcycles,2182.05,sales_data_sample.csv
+2004-10-16,S18_3782,42,67.14,Motorcycles,2819.88,sales_data_sample.csv
+2004-11-03,S18_3782,44,59.06,Motorcycles,2598.6400000000003,sales_data_sample.csv
+2004-11-16,S18_3782,29,69.63,Motorcycles,2019.27,sales_data_sample.csv
+2004-11-24,S18_3782,26,55.95,Motorcycles,1454.7,sales_data_sample.csv
+2004-12-07,S18_3782,31,53.47,Motorcycles,1657.57,sales_data_sample.csv
+2005-01-06,S18_3782,32,89.12,Motorcycles,2851.84,sales_data_sample.csv
+2005-02-10,S18_3782,28,100.0,Motorcycles,2800.0,sales_data_sample.csv
+2005-03-04,S18_3782,36,100.0,Motorcycles,3600.0,sales_data_sample.csv
+2005-04-08,S18_3782,36,52.22,Motorcycles,1879.92,sales_data_sample.csv
+2003-02-17,S18_3856,41,100.0,Vintage Cars,4100.0,sales_data_sample.csv
+2003-04-28,S18_3856,27,99.52,Vintage Cars,2687.04,sales_data_sample.csv
+2003-06-16,S18_3856,33,100.0,Vintage Cars,3300.0,sales_data_sample.csv
+2003-08-10,S18_3856,34,100.0,Vintage Cars,3400.0,sales_data_sample.csv
+2003-10-06,S18_3856,29,100.0,Vintage Cars,2900.0,sales_data_sample.csv
+2003-11-08,S18_3856,48,100.0,Vintage Cars,4800.0,sales_data_sample.csv
+2003-11-14,S18_3856,46,100.0,Vintage Cars,4600.0,sales_data_sample.csv
+2003-11-26,S18_3856,22,100.0,Vintage Cars,2200.0,sales_data_sample.csv
+2004-01-09,S18_3856,20,100.0,Vintage Cars,2000.0,sales_data_sample.csv
+2004-02-19,S18_3856,45,85.75,Vintage Cars,3858.75,sales_data_sample.csv
+2004-05-08,S18_3856,46,100.0,Vintage Cars,4600.0,sales_data_sample.csv
+2004-07-21,S18_3856,50,85.75,Vintage Cars,4287.5,sales_data_sample.csv
+2004-08-20,S18_3856,46,100.0,Vintage Cars,4600.0,sales_data_sample.csv
+2004-09-15,S18_3856,22,84.7,Vintage Cars,1863.4,sales_data_sample.csv
+2004-10-14,S18_3856,48,86.81,Vintage Cars,4166.88,sales_data_sample.csv
+2004-11-01,S18_3856,47,86.81,Vintage Cars,4080.07,sales_data_sample.csv
+2004-11-12,S18_3856,34,100.0,Vintage Cars,3400.0,sales_data_sample.csv
+2004-11-22,S18_3856,45,100.0,Vintage Cars,4500.0,sales_data_sample.csv
+2004-12-03,S18_3856,20,100.0,Vintage Cars,2000.0,sales_data_sample.csv
+2005-01-31,S18_3856,50,60.49,Vintage Cars,3024.5,sales_data_sample.csv
+2005-03-01,S18_3856,22,57.55,Vintage Cars,1266.1,sales_data_sample.csv
+2005-03-30,S18_3856,45,100.0,Vintage Cars,4500.0,sales_data_sample.csv
+2005-04-01,S18_3856,58,100.0,Vintage Cars,5800.0,sales_data_sample.csv
+2003-01-31,S18_4027,38,100.0,Classic Cars,3800.0,sales_data_sample.csv
+2003-04-16,S18_4027,22,100.0,Classic Cars,2200.0,sales_data_sample.csv
+2003-06-03,S18_4027,25,100.0,Classic Cars,2500.0,sales_data_sample.csv
+2003-08-08,S18_4027,24,100.0,Classic Cars,2400.0,sales_data_sample.csv
+2003-09-25,S18_4027,35,100.0,Classic Cars,3500.0,sales_data_sample.csv
+2003-10-22,S18_4027,28,100.0,Classic Cars,2800.0,sales_data_sample.csv
+2003-11-06,S18_4027,36,100.0,Classic Cars,3600.0,sales_data_sample.csv
+2003-11-14,S18_4027,39,100.0,Classic Cars,3900.0,sales_data_sample.csv
+2003-11-26,S18_4027,27,100.0,Classic Cars,2700.0,sales_data_sample.csv
+2003-12-09,S18_4027,40,100.0,Classic Cars,4000.0,sales_data_sample.csv
+2004-02-12,S18_4027,50,100.0,Classic Cars,5000.0,sales_data_sample.csv
+2004-03-15,S18_4027,42,100.0,Classic Cars,4200.0,sales_data_sample.csv
+2004-05-05,S18_4027,48,100.0,Classic Cars,4800.0,sales_data_sample.csv
+2004-07-20,S18_4027,25,100.0,Classic Cars,2500.0,sales_data_sample.csv
+2004-08-20,S18_4027,31,100.0,Classic Cars,3100.0,sales_data_sample.csv
+2004-09-08,S18_4027,44,100.0,Classic Cars,4400.0,sales_data_sample.csv
+2004-10-14,S18_4027,23,100.0,Classic Cars,2300.0,sales_data_sample.csv
+2004-10-22,S18_4027,29,100.0,Classic Cars,2900.0,sales_data_sample.csv
+2004-11-05,S18_4027,49,100.0,Classic Cars,4900.0,sales_data_sample.csv
+2004-11-21,S18_4027,36,100.0,Classic Cars,3600.0,sales_data_sample.csv
+2004-12-01,S18_4027,34,100.0,Classic Cars,3400.0,sales_data_sample.csv
+2004-12-10,S18_4027,25,100.0,Classic Cars,2500.0,sales_data_sample.csv
+2005-01-26,S18_4027,48,100.0,Classic Cars,4800.0,sales_data_sample.csv
+2005-02-22,S18_4027,38,100.0,Classic Cars,3800.0,sales_data_sample.csv
+2005-03-15,S18_4027,37,100.0,Classic Cars,3700.0,sales_data_sample.csv
+2005-05-05,S18_4027,49,100.0,Classic Cars,4900.0,sales_data_sample.csv
+2003-01-06,S18_4409,22,86.51,Vintage Cars,1903.22,sales_data_sample.csv
+2003-03-18,S18_4409,28,89.27,Vintage Cars,2499.56,sales_data_sample.csv
+2003-05-21,S18_4409,36,85.59,Vintage Cars,3081.2400000000002,sales_data_sample.csv
+2003-09-11,S18_4409,34,100.0,Vintage Cars,3400.0,sales_data_sample.csv
+2003-10-18,S18_4409,39,100.0,Vintage Cars,3900.0,sales_data_sample.csv
+2003-11-05,S18_4409,21,75.46,Vintage Cars,1584.6599999999999,sales_data_sample.csv
+2003-11-12,S18_4409,36,100.0,Vintage Cars,3600.0,sales_data_sample.csv
+2003-11-21,S18_4409,24,97.55,Vintage Cars,2341.2,sales_data_sample.csv
+2003-12-02,S18_4409,29,85.59,Vintage Cars,2482.11,sales_data_sample.csv
+2004-01-22,S18_4409,38,94.79,Vintage Cars,3602.0200000000004,sales_data_sample.csv
+2004-03-02,S18_4409,34,100.0,Vintage Cars,3400.0,sales_data_sample.csv
+2004-04-13,S18_4409,42,90.19,Vintage Cars,3787.98,sales_data_sample.csv
+2004-08-17,S18_4409,35,100.0,Vintage Cars,3500.0,sales_data_sample.csv
+2004-09-01,S18_4409,35,80.99,Vintage Cars,2834.6499999999996,sales_data_sample.csv
+2003-10-06,S18_4409,38,89.27,Vintage Cars,3392.2599999999998,sales_data_sample.csv
+2004-10-16,S18_4409,41,81.91,Vintage Cars,3358.31,sales_data_sample.csv
+2004-11-17,S18_4409,50,100.0,Vintage Cars,5000.0,sales_data_sample.csv
+2004-11-25,S18_4409,21,100.0,Vintage Cars,2100.0,sales_data_sample.csv
+2005-01-12,S18_4409,43,62.72,Vintage Cars,2696.96,sales_data_sample.csv
+2005-02-16,S18_4409,32,100.0,Vintage Cars,3200.0,sales_data_sample.csv
+2003-02-11,S18_4522,41,82.5,Vintage Cars,3382.5,sales_data_sample.csv
+2003-04-16,S18_4522,23,97.42,Vintage Cars,2240.66,sales_data_sample.csv
+2003-06-06,S18_4522,43,92.16,Vintage Cars,3962.8799999999997,sales_data_sample.csv
+2003-08-08,S18_4522,24,70.22,Vintage Cars,1685.28,sales_data_sample.csv
+2003-09-28,S18_4522,22,83.38,Vintage Cars,1834.36,sales_data_sample.csv
+2003-10-21,S18_4522,26,73.73,Vintage Cars,1916.98,sales_data_sample.csv
+2003-11-07,S18_4522,35,74.6,Vintage Cars,2611.0,sales_data_sample.csv
+2003-11-14,S18_4522,47,77.24,Vintage Cars,3630.2799999999997,sales_data_sample.csv
+2003-11-26,S18_4522,50,100.0,Vintage Cars,5000.0,sales_data_sample.csv
+2004-01-02,S18_4522,45,87.77,Vintage Cars,3949.6499999999996,sales_data_sample.csv
+2004-02-18,S18_4522,39,89.53,Vintage Cars,3491.67,sales_data_sample.csv
+2004-03-20,S18_4522,23,89.53,Vintage Cars,2059.19,sales_data_sample.csv
+2004-06-17,S18_4522,20,89.53,Vintage Cars,1790.6,sales_data_sample.csv
+2004-07-21,S18_4522,33,71.09,Vintage Cars,2345.9700000000003,sales_data_sample.csv
+2004-08-20,S18_4522,34,100.0,Vintage Cars,3400.0,sales_data_sample.csv
+2004-09-09,S18_4522,49,100.0,Vintage Cars,4900.0,sales_data_sample.csv
+2004-10-14,S18_4522,39,90.4,Vintage Cars,3525.6000000000004,sales_data_sample.csv
+2004-10-29,S18_4522,36,100.0,Vintage Cars,3600.0,sales_data_sample.csv
+2004-11-09,S18_4522,50,86.01,Vintage Cars,4300.5,sales_data_sample.csv
+2004-11-21,S18_4522,29,100.0,Vintage Cars,2900.0,sales_data_sample.csv
+2004-12-02,S18_4522,30,100.0,Vintage Cars,3000.0,sales_data_sample.csv
+2005-01-26,S18_4522,41,86.89,Vintage Cars,3562.4900000000002,sales_data_sample.csv
+2005-02-22,S18_4522,28,58.58,Vintage Cars,1640.24,sales_data_sample.csv
+2005-03-23,S18_4522,45,100.0,Vintage Cars,4500.0,sales_data_sample.csv
+2003-01-29,S18_4600,36,100.0,Trucks and Buses,3600.0,sales_data_sample.csv
+2003-04-01,S18_4600,41,100.0,Trucks and Buses,4100.0,sales_data_sample.csv
+2003-05-28,S18_4600,50,100.0,Trucks and Buses,5000.0,sales_data_sample.csv
+2003-07-24,S18_4600,40,100.0,Trucks and Buses,4000.0,sales_data_sample.csv
+2003-09-19,S18_4600,49,100.0,Trucks and Buses,4900.0,sales_data_sample.csv
+2003-10-21,S18_4600,45,100.0,Trucks and Buses,4500.0,sales_data_sample.csv
+2003-11-06,S18_4600,47,100.0,Trucks and Buses,4700.0,sales_data_sample.csv
+2003-11-13,S18_4600,21,100.0,Trucks and Buses,2100.0,sales_data_sample.csv
+2003-11-25,S18_4600,32,100.0,Trucks and Buses,3200.0,sales_data_sample.csv
+2003-12-09,S18_4600,47,100.0,Trucks and Buses,4700.0,sales_data_sample.csv
+2004-02-04,S18_4600,38,100.0,Trucks and Buses,3800.0,sales_data_sample.csv
+2004-03-11,S18_4600,41,100.0,Trucks and Buses,4100.0,sales_data_sample.csv
+2004-05-04,S18_4600,21,100.0,Trucks and Buses,2100.0,sales_data_sample.csv
+2004-06-15,S18_4600,41,100.0,Trucks and Buses,4100.0,sales_data_sample.csv
+2004-07-19,S18_4600,38,100.0,Trucks and Buses,3800.0,sales_data_sample.csv
+2004-08-19,S18_4600,25,99.29,Trucks and Buses,2482.25,sales_data_sample.csv
+2004-09-08,S18_4600,48,100.0,Trucks and Buses,4800.0,sales_data_sample.csv
+2004-10-13,S18_4600,22,99.29,Trucks and Buses,2184.38,sales_data_sample.csv
+2004-10-22,S18_4600,28,100.0,Trucks and Buses,2800.0,sales_data_sample.csv
+2004-11-05,S18_4600,47,100.0,Trucks and Buses,4700.0,sales_data_sample.csv
+2004-11-29,S18_4600,45,100.0,Trucks and Buses,4500.0,sales_data_sample.csv
+2004-12-10,S18_4600,28,100.0,Trucks and Buses,2800.0,sales_data_sample.csv
+2005-01-20,S18_4600,29,57.53,Trucks and Buses,1668.3700000000001,sales_data_sample.csv
+2005-02-17,S18_4600,39,100.0,Trucks and Buses,3900.0,sales_data_sample.csv
+2005-05-01,S18_4600,46,100.0,Trucks and Buses,4600.0,sales_data_sample.csv
+2003-01-29,S18_4668,41,47.29,Vintage Cars,1938.8899999999999,sales_data_sample.csv
+2003-03-26,S18_4668,50,49.81,Vintage Cars,2490.5,sales_data_sample.csv
+2003-05-28,S18_4668,43,53.83,Vintage Cars,2314.69,sales_data_sample.csv
+2003-07-24,S18_4668,29,43.27,Vintage Cars,1254.8300000000002,sales_data_sample.csv
+2003-09-19,S18_4668,30,42.76,Vintage Cars,1282.8,sales_data_sample.csv
+2003-10-21,S18_4668,25,53.83,Vintage Cars,1345.75,sales_data_sample.csv
+2003-11-06,S18_4668,49,44.78,Vintage Cars,2194.2200000000003,sales_data_sample.csv
+2003-11-13,S18_4668,40,49.3,Vintage Cars,1972.0,sales_data_sample.csv
+2003-11-25,S18_4668,41,44.78,Vintage Cars,1835.98,sales_data_sample.csv
+2003-12-05,S18_4668,21,53.33,Vintage Cars,1119.93,sales_data_sample.csv
+2004-01-29,S18_4668,46,45.28,Vintage Cars,2082.88,sales_data_sample.csv
+2004-03-11,S18_4668,39,40.25,Vintage Cars,1569.75,sales_data_sample.csv
+2004-05-04,S18_4668,45,59.87,Vintage Cars,2694.15,sales_data_sample.csv
+2004-06-15,S18_4668,21,59.87,Vintage Cars,1257.27,sales_data_sample.csv
+2004-07-19,S18_4668,44,58.36,Vintage Cars,2567.84,sales_data_sample.csv
+2004-08-19,S18_4668,44,59.87,Vintage Cars,2634.2799999999997,sales_data_sample.csv
+2004-09-08,S18_4668,29,51.82,Vintage Cars,1502.78,sales_data_sample.csv
+2004-10-11,S18_4668,34,49.3,Vintage Cars,1676.1999999999998,sales_data_sample.csv
+2004-10-21,S18_4668,39,56.85,Vintage Cars,2217.15,sales_data_sample.csv
+2004-11-05,S18_4668,38,100.0,Vintage Cars,3800.0,sales_data_sample.csv
+2004-11-18,S18_4668,24,79.86,Vintage Cars,1916.6399999999999,sales_data_sample.csv
+2004-11-01,S18_4668,29,100.0,Vintage Cars,2900.0,sales_data_sample.csv
+2004-12-10,S18_4668,30,100.0,Vintage Cars,3000.0,sales_data_sample.csv
+2005-01-20,S18_4668,20,100.0,Vintage Cars,2000.0,sales_data_sample.csv
+2005-02-17,S18_4668,39,100.0,Vintage Cars,3900.0,sales_data_sample.csv
+2005-05-01,S18_4668,35,59.87,Vintage Cars,2095.45,sales_data_sample.csv
+2003-03-03,S18_4721,44,100.0,Classic Cars,4400.0,sales_data_sample.csv
+2003-05-08,S18_4721,28,100.0,Classic Cars,2800.0,sales_data_sample.csv
+2003-07-02,S18_4721,31,100.0,Classic Cars,3100.0,sales_data_sample.csv
+2003-09-03,S18_4721,29,100.0,Classic Cars,2900.0,sales_data_sample.csv
+2003-10-10,S18_4721,32,100.0,Classic Cars,3200.0,sales_data_sample.csv
+2003-11-04,S18_4721,33,100.0,Classic Cars,3300.0,sales_data_sample.csv
+2003-11-11,S18_4721,44,100.0,Classic Cars,4400.0,sales_data_sample.csv
+2003-11-20,S18_4721,32,100.0,Classic Cars,3200.0,sales_data_sample.csv
+2004-01-15,S18_4721,41,100.0,Classic Cars,4100.0,sales_data_sample.csv
+2004-02-22,S18_4721,35,100.0,Classic Cars,3500.0,sales_data_sample.csv
+2004-04-09,S18_4721,44,100.0,Classic Cars,4400.0,sales_data_sample.csv
+2004-05-26,S18_4721,26,100.0,Classic Cars,2600.0,sales_data_sample.csv
+2004-06-30,S18_4721,20,100.0,Classic Cars,2000.0,sales_data_sample.csv
+2004-08-02,S18_4721,48,100.0,Classic Cars,4800.0,sales_data_sample.csv
+2004-08-30,S18_4721,34,100.0,Classic Cars,3400.0,sales_data_sample.csv
+2004-09-30,S18_4721,49,100.0,Classic Cars,4900.0,sales_data_sample.csv
+2004-10-16,S18_4721,40,100.0,Classic Cars,4000.0,sales_data_sample.csv
+2004-11-03,S18_4721,45,100.0,Classic Cars,4500.0,sales_data_sample.csv
+2004-11-16,S18_4721,50,100.0,Classic Cars,5000.0,sales_data_sample.csv
+2004-11-24,S18_4721,38,100.0,Classic Cars,3800.0,sales_data_sample.csv
+2004-12-07,S18_4721,25,100.0,Classic Cars,2500.0,sales_data_sample.csv
+2005-01-06,S18_4721,28,58.18,Classic Cars,1629.04,sales_data_sample.csv
+2005-02-10,S18_4721,49,67.14,Classic Cars,3289.86,sales_data_sample.csv
+2005-03-04,S18_4721,49,100.0,Classic Cars,4900.0,sales_data_sample.csv
+2003-03-18,S18_4933,42,61.29,Classic Cars,2574.18,sales_data_sample.csv
+2003-05-21,S18_4933,23,57.73,Classic Cars,1327.79,sales_data_sample.csv
+2003-09-11,S18_4933,29,81.25,Classic Cars,2356.25,sales_data_sample.csv
+2003-10-17,S18_4933,25,80.54,Classic Cars,2013.5000000000002,sales_data_sample.csv
+2003-11-05,S18_4933,39,71.98,Classic Cars,2807.2200000000003,sales_data_sample.csv
+2003-11-12,S18_4933,44,69.84,Classic Cars,3072.96,sales_data_sample.csv
+2003-11-21,S18_4933,25,76.26,Classic Cars,1906.5000000000002,sales_data_sample.csv
+2003-12-02,S18_4933,45,76.26,Classic Cars,3431.7000000000003,sales_data_sample.csv
+2004-01-22,S18_4933,25,83.39,Classic Cars,2084.75,sales_data_sample.csv
+2004-03-02,S18_4933,37,57.73,Classic Cars,2136.0099999999998,sales_data_sample.csv
+2004-04-13,S18_4933,30,66.99,Classic Cars,2009.6999999999998,sales_data_sample.csv
+2004-07-07,S18_4933,36,75.55,Classic Cars,2719.7999999999997,sales_data_sample.csv
+2004-08-09,S18_4933,26,60.58,Classic Cars,1575.08,sales_data_sample.csv
+2004-09-01,S18_4933,23,73.41,Classic Cars,1688.4299999999998,sales_data_sample.csv
+2003-10-06,S18_4933,23,72.7,Classic Cars,1672.1000000000001,sales_data_sample.csv
+2004-10-16,S18_4933,25,66.99,Classic Cars,1674.7499999999998,sales_data_sample.csv
+2004-11-17,S18_4933,21,100.0,Classic Cars,2100.0,sales_data_sample.csv
+2004-11-25,S18_4933,26,63.43,Classic Cars,1649.18,sales_data_sample.csv
+2005-01-12,S18_4933,44,85.25,Classic Cars,3751.0,sales_data_sample.csv
+2005-02-16,S18_4933,24,100.0,Classic Cars,2400.0,sales_data_sample.csv
+2003-03-18,S24_1046,36,85.25,Classic Cars,3069.0,sales_data_sample.csv
+2003-05-21,S24_1046,22,77.9,Classic Cars,1713.8000000000002,sales_data_sample.csv
+2003-09-11,S24_1046,25,60.26,Classic Cars,1506.5,sales_data_sample.csv
+2003-10-17,S24_1046,37,72.76,Classic Cars,2692.1200000000003,sales_data_sample.csv
+2003-11-05,S24_1046,32,75.69,Classic Cars,2422.08,sales_data_sample.csv
+2003-11-12,S24_1046,47,74.22,Classic Cars,3488.34,sales_data_sample.csv
+2003-11-20,S24_1046,37,69.82,Classic Cars,2583.3399999999997,sales_data_sample.csv
+2003-12-02,S24_1046,20,62.47,Classic Cars,1249.4,sales_data_sample.csv
+2004-01-16,S24_1046,41,82.31,Classic Cars,3374.71,sales_data_sample.csv
+2004-02-26,S24_1046,21,60.26,Classic Cars,1265.46,sales_data_sample.csv
+2004-04-13,S24_1046,22,76.43,Classic Cars,1681.46,sales_data_sample.csv
+2004-07-07,S24_1046,40,80.1,Classic Cars,3204.0,sales_data_sample.csv
+2004-08-09,S24_1046,32,74.96,Classic Cars,2398.72,sales_data_sample.csv
+2004-09-01,S24_1046,36,66.14,Classic Cars,2381.04,sales_data_sample.csv
+2003-10-05,S24_1046,27,72.02,Classic Cars,1944.54,sales_data_sample.csv
+2004-10-16,S24_1046,26,87.45,Classic Cars,2273.7000000000003,sales_data_sample.csv
+2004-11-04,S24_1046,30,70.55,Classic Cars,2116.5,sales_data_sample.csv
+2004-11-17,S24_1046,23,56.84,Classic Cars,1307.3200000000002,sales_data_sample.csv
+2004-11-25,S24_1046,29,59.53,Classic Cars,1726.3700000000001,sales_data_sample.csv
+2005-01-12,S24_1046,21,60.37,Classic Cars,1267.77,sales_data_sample.csv
+2005-02-16,S24_1046,34,100.0,Classic Cars,3400.0,sales_data_sample.csv
+2003-01-31,S24_1444,35,55.49,Classic Cars,1942.15,sales_data_sample.csv
+2003-04-04,S24_1444,47,69.36,Classic Cars,3259.92,sales_data_sample.csv
+2003-06-03,S24_1444,20,60.69,Classic Cars,1213.8,sales_data_sample.csv
+2003-08-01,S24_1444,20,54.33,Classic Cars,1086.6,sales_data_sample.csv
+2003-09-25,S24_1444,25,65.31,Classic Cars,1632.75,sales_data_sample.csv
+2003-10-22,S24_1444,25,69.36,Classic Cars,1734.0,sales_data_sample.csv
+2003-11-06,S24_1444,27,68.78,Classic Cars,1857.06,sales_data_sample.csv
+2003-11-14,S24_1444,31,60.11,Classic Cars,1863.41,sales_data_sample.csv
+2003-11-25,S24_1444,44,66.47,Classic Cars,2924.68,sales_data_sample.csv
+2003-12-09,S24_1444,49,46.82,Classic Cars,2294.18,sales_data_sample.csv
+2004-02-12,S24_1444,26,56.07,Classic Cars,1457.82,sales_data_sample.csv
+2004-03-15,S24_1444,36,54.33,Classic Cars,1955.8799999999999,sales_data_sample.csv
+2004-05-05,S24_1444,44,52.6,Classic Cars,2314.4,sales_data_sample.csv
+2004-06-15,S24_1444,28,46.82,Classic Cars,1310.96,sales_data_sample.csv
+2004-07-20,S24_1444,45,64.74,Classic Cars,2913.2999999999997,sales_data_sample.csv
+2004-08-20,S24_1444,29,46.82,Classic Cars,1357.78,sales_data_sample.csv
+2004-09-08,S24_1444,40,53.75,Classic Cars,2150.0,sales_data_sample.csv
+2004-10-13,S24_1444,45,61.85,Classic Cars,2783.25,sales_data_sample.csv
+2004-10-22,S24_1444,44,53.18,Classic Cars,2339.92,sales_data_sample.csv
+2004-11-05,S24_1444,25,69.16,Classic Cars,1729.0,sales_data_sample.csv
+2004-11-20,S24_1444,45,100.0,Classic Cars,4500.0,sales_data_sample.csv
+2004-12-01,S24_1444,48,47.4,Classic Cars,2275.2,sales_data_sample.csv
+2004-12-10,S24_1444,44,60.76,Classic Cars,2673.44,sales_data_sample.csv
+2005-01-23,S24_1444,25,97.27,Classic Cars,2431.75,sales_data_sample.csv
+2005-02-22,S24_1444,22,91.76,Classic Cars,2018.72,sales_data_sample.csv
+2005-03-15,S24_1444,31,50.29,Classic Cars,1558.99,sales_data_sample.csv
+2005-05-03,S24_1444,21,52.6,Classic Cars,1104.6000000000001,sales_data_sample.csv
+2003-02-24,S24_1578,25,100.0,Motorcycles,2500.0,sales_data_sample.csv
+2003-04-29,S24_1578,35,98.05,Motorcycles,3431.75,sales_data_sample.csv
+2003-07-01,S24_1578,35,93.54,Motorcycles,3273.9,sales_data_sample.csv
+2003-08-25,S24_1578,43,95.8,Motorcycles,4119.4,sales_data_sample.csv
+2003-10-10,S24_1578,44,100.0,Motorcycles,4400.0,sales_data_sample.csv
+2003-10-28,S24_1578,50,100.0,Motorcycles,5000.0,sales_data_sample.csv
+2003-11-11,S24_1578,48,100.0,Motorcycles,4800.0,sales_data_sample.csv
+2003-11-18,S24_1578,25,100.0,Motorcycles,2500.0,sales_data_sample.csv
+2003-12-01,S24_1578,39,100.0,Motorcycles,3900.0,sales_data_sample.csv
+2004-01-15,S24_1578,25,90.16,Motorcycles,2254.0,sales_data_sample.csv
+2004-02-20,S24_1578,32,91.29,Motorcycles,2921.28,sales_data_sample.csv
+2004-04-05,S24_1578,20,100.0,Motorcycles,2000.0,sales_data_sample.csv
+2004-05-18,S24_1578,26,100.0,Motorcycles,2600.0,sales_data_sample.csv
+2004-06-28,S24_1578,42,100.0,Motorcycles,4200.0,sales_data_sample.csv
+2004-07-23,S24_1578,21,100.0,Motorcycles,2100.0,sales_data_sample.csv
+2004-08-27,S24_1578,34,100.0,Motorcycles,3400.0,sales_data_sample.csv
+2004-09-30,S24_1578,47,100.0,Motorcycles,4700.0,sales_data_sample.csv
+2004-10-15,S24_1578,21,100.0,Motorcycles,2100.0,sales_data_sample.csv
+2004-11-02,S24_1578,48,100.0,Motorcycles,4800.0,sales_data_sample.csv
+2004-11-15,S24_1578,30,87.78,Motorcycles,2633.4,sales_data_sample.csv
+2004-11-23,S24_1578,27,84.39,Motorcycles,2278.53,sales_data_sample.csv
+2005-01-05,S24_1578,50,96.92,Motorcycles,4846.0,sales_data_sample.csv
+2005-02-02,S24_1578,38,100.0,Motorcycles,3800.0,sales_data_sample.csv
+2005-03-03,S24_1578,45,100.0,Motorcycles,4500.0,sales_data_sample.csv
+2005-04-08,S24_1578,46,100.0,Motorcycles,4600.0,sales_data_sample.csv
+2003-03-18,S24_1628,29,59.37,Classic Cars,1721.73,sales_data_sample.csv
+2003-05-20,S24_1628,50,59.87,Classic Cars,2993.5,sales_data_sample.csv
+2003-07-10,S24_1628,26,49.81,Classic Cars,1295.06,sales_data_sample.csv
+2003-09-11,S24_1628,47,56.85,Classic Cars,2671.9500000000003,sales_data_sample.csv
+2003-10-17,S24_1628,23,53.33,Classic Cars,1226.59,sales_data_sample.csv
+2003-11-05,S24_1628,34,42.76,Classic Cars,1453.84,sales_data_sample.csv
+2003-11-12,S24_1628,34,53.83,Classic Cars,1830.22,sales_data_sample.csv
+2003-11-20,S24_1628,47,53.83,Classic Cars,2530.0099999999998,sales_data_sample.csv
+2003-12-02,S24_1628,45,49.81,Classic Cars,2241.4500000000003,sales_data_sample.csv
+2004-01-16,S24_1628,45,53.33,Classic Cars,2399.85,sales_data_sample.csv
+2004-02-26,S24_1628,36,43.27,Classic Cars,1557.72,sales_data_sample.csv
+2004-04-13,S24_1628,21,40.25,Classic Cars,845.25,sales_data_sample.csv
+2004-07-06,S24_1628,28,48.3,Classic Cars,1352.3999999999999,sales_data_sample.csv
+2004-08-06,S24_1628,35,45.28,Classic Cars,1584.8,sales_data_sample.csv
+2004-09-01,S24_1628,50,52.32,Classic Cars,2616.0,sales_data_sample.csv
+2003-10-05,S24_1628,22,51.32,Classic Cars,1129.04,sales_data_sample.csv
+2004-10-16,S24_1628,45,49.3,Classic Cars,2218.5,sales_data_sample.csv
+2004-11-04,S24_1628,48,42.26,Classic Cars,2028.48,sales_data_sample.csv
+2004-11-17,S24_1628,20,87.96,Classic Cars,1759.1999999999998,sales_data_sample.csv
+2004-11-24,S24_1628,27,36.21,Classic Cars,977.6700000000001,sales_data_sample.csv
+2005-01-12,S24_1628,38,38.5,Classic Cars,1463.0,sales_data_sample.csv
+2005-02-10,S24_1628,32,100.0,Classic Cars,3200.0,sales_data_sample.csv
+2003-02-17,S24_1785,28,88.63,Planes,2481.64,sales_data_sample.csv
+2003-04-29,S24_1785,39,100.0,Planes,3900.0,sales_data_sample.csv
+2003-06-27,S24_1785,41,94.1,Planes,3858.1,sales_data_sample.csv
+2003-08-25,S24_1785,40,87.54,Planes,3501.6000000000004,sales_data_sample.csv
+2003-10-28,S24_1785,49,100.0,Planes,4900.0,sales_data_sample.csv
+2004-01-12,S24_1785,27,98.48,Planes,2658.96,sales_data_sample.csv
+2004-02-20,S24_1785,34,100.0,Planes,3400.0,sales_data_sample.csv
+2004-04-02,S24_1785,23,96.29,Planes,2214.67,sales_data_sample.csv
+2004-05-11,S24_1785,31,88.63,Planes,2747.5299999999997,sales_data_sample.csv
+2004-07-23,S24_1785,25,95.2,Planes,2380.0,sales_data_sample.csv
+2004-08-21,S24_1785,22,100.0,Planes,2200.0,sales_data_sample.csv
+2004-09-16,S24_1785,32,100.0,Planes,3200.0,sales_data_sample.csv
+2004-10-15,S24_1785,31,100.0,Planes,3100.0,sales_data_sample.csv
+2004-11-01,S24_1785,25,100.0,Planes,2500.0,sales_data_sample.csv
+2004-11-12,S24_1785,47,87.54,Planes,4114.38,sales_data_sample.csv
+2004-11-23,S24_1785,21,50.65,Planes,1063.6499999999999,sales_data_sample.csv
+2004-12-04,S24_1785,28,71.73,Planes,2008.44,sales_data_sample.csv
+2005-02-02,S24_1785,46,94.1,Planes,4328.599999999999,sales_data_sample.csv
+2005-03-01,S24_1785,33,41.71,Planes,1376.43,sales_data_sample.csv
+2005-03-30,S24_1785,43,100.0,Planes,4300.0,sales_data_sample.csv
+2005-05-10,S24_1785,47,88.63,Planes,4165.61,sales_data_sample.csv
+2003-01-09,S24_1937,45,31.2,Vintage Cars,1404.0,sales_data_sample.csv
+2003-03-18,S24_1937,20,35.51,Vintage Cars,710.1999999999999,sales_data_sample.csv
+2003-05-21,S24_1937,45,37.84,Vintage Cars,1702.8000000000002,sales_data_sample.csv
+2003-09-12,S24_1937,36,33.19,Vintage Cars,1194.84,sales_data_sample.csv
+2003-10-18,S24_1937,37,27.22,Vintage Cars,1007.14,sales_data_sample.csv
+2003-11-05,S24_1937,31,31.53,Vintage Cars,977.4300000000001,sales_data_sample.csv
+2003-11-12,S24_1937,39,36.84,Vintage Cars,1436.7600000000002,sales_data_sample.csv
+2003-11-21,S24_1937,26,29.21,Vintage Cars,759.46,sales_data_sample.csv
+2003-12-03,S24_1937,32,37.17,Vintage Cars,1189.44,sales_data_sample.csv
+2004-01-26,S24_1937,20,34.19,Vintage Cars,683.8,sales_data_sample.csv
+2004-03-02,S24_1937,42,29.21,Vintage Cars,1226.82,sales_data_sample.csv
+2004-04-26,S24_1937,33,29.54,Vintage Cars,974.8199999999999,sales_data_sample.csv
+2004-08-17,S24_1937,20,28.88,Vintage Cars,577.6,sales_data_sample.csv
+2004-09-01,S24_1937,29,38.17,Vintage Cars,1106.93,sales_data_sample.csv
+2004-10-11,S24_1937,23,30.2,Vintage Cars,694.6,sales_data_sample.csv
+2004-10-21,S24_1937,39,29.54,Vintage Cars,1152.06,sales_data_sample.csv
+2004-11-04,S24_1937,20,100.0,Vintage Cars,2000.0,sales_data_sample.csv
+2004-11-17,S24_1937,45,81.91,Vintage Cars,3685.95,sales_data_sample.csv
+2004-11-25,S24_1937,20,35.18,Vintage Cars,703.6,sales_data_sample.csv
+2004-12-09,S24_1937,48,100.0,Vintage Cars,4800.0,sales_data_sample.csv
+2005-01-12,S24_1937,23,36.29,Vintage Cars,834.67,sales_data_sample.csv
+2005-02-16,S24_1937,32,70.56,Vintage Cars,2257.92,sales_data_sample.csv
+2005-03-09,S24_1937,33,100.0,Vintage Cars,3300.0,sales_data_sample.csv
+2005-04-23,S24_1937,61,29.54,Vintage Cars,1801.94,sales_data_sample.csv
+2003-02-24,S24_2000,38,83.03,Motorcycles,3155.14,sales_data_sample.csv
+2003-04-29,S24_2000,34,83.79,Motorcycles,2848.86,sales_data_sample.csv
+2003-07-01,S24_2000,43,83.03,Motorcycles,3570.29,sales_data_sample.csv
+2003-08-25,S24_2000,47,83.03,Motorcycles,3902.41,sales_data_sample.csv
+2003-10-10,S24_2000,22,67.03,Motorcycles,1474.66,sales_data_sample.csv
+2003-10-28,S24_2000,29,75.41,Motorcycles,2186.89,sales_data_sample.csv
+2003-11-11,S24_2000,28,68.55,Motorcycles,1919.3999999999999,sales_data_sample.csv
+2003-11-18,S24_2000,40,91.4,Motorcycles,3656.0,sales_data_sample.csv
+2003-12-01,S24_2000,25,73.88,Motorcycles,1847.0,sales_data_sample.csv
+2004-01-12,S24_2000,30,61.7,Motorcycles,1851.0,sales_data_sample.csv
+2004-02-20,S24_2000,38,69.31,Motorcycles,2633.78,sales_data_sample.csv
+2004-04-03,S24_2000,36,87.6,Motorcycles,3153.6,sales_data_sample.csv
+2004-05-11,S24_2000,32,87.6,Motorcycles,2803.2,sales_data_sample.csv
+2004-06-28,S24_2000,37,62.46,Motorcycles,2311.02,sales_data_sample.csv
+2004-07-23,S24_2000,30,79.98,Motorcycles,2399.4,sales_data_sample.csv
+2004-08-27,S24_2000,39,70.08,Motorcycles,2733.12,sales_data_sample.csv
+2004-09-16,S24_2000,32,65.51,Motorcycles,2096.32,sales_data_sample.csv
+2004-10-15,S24_2000,47,63.22,Motorcycles,2971.34,sales_data_sample.csv
+2004-11-02,S24_2000,26,86.83,Motorcycles,2257.58,sales_data_sample.csv
+2004-11-15,S24_2000,37,94.43,Motorcycles,3493.9100000000003,sales_data_sample.csv
+2004-11-24,S24_2000,55,79.98,Motorcycles,4398.900000000001,sales_data_sample.csv
+2005-01-06,S24_2000,21,100.0,Motorcycles,2100.0,sales_data_sample.csv
+2005-02-03,S24_2000,23,100.0,Motorcycles,2300.0,sales_data_sample.csv
+2005-03-03,S24_2000,49,81.4,Motorcycles,3988.6000000000004,sales_data_sample.csv
+2005-04-07,S24_2000,59,87.6,Motorcycles,5168.4,sales_data_sample.csv
+2005-05-10,S24_2000,32,87.6,Motorcycles,2803.2,sales_data_sample.csv
+2003-02-11,S24_2011,43,100.0,Ships,4300.0,sales_data_sample.csv
+2003-04-16,S24_2011,41,100.0,Ships,4100.0,sales_data_sample.csv
+2003-06-12,S24_2011,45,100.0,Ships,4500.0,sales_data_sample.csv
+2003-08-08,S24_2011,33,100.0,Ships,3300.0,sales_data_sample.csv
+2003-09-28,S24_2011,40,100.0,Ships,4000.0,sales_data_sample.csv
+2003-11-07,S24_2011,50,100.0,Ships,5000.0,sales_data_sample.csv
+2003-11-14,S24_2011,30,100.0,Ships,3000.0,sales_data_sample.csv
+2003-11-26,S24_2011,41,100.0,Ships,4100.0,sales_data_sample.csv
+2004-01-02,S24_2011,35,100.0,Ships,3500.0,sales_data_sample.csv
+2004-02-18,S24_2011,49,100.0,Ships,4900.0,sales_data_sample.csv
+2004-03-20,S24_2011,46,100.0,Ships,4600.0,sales_data_sample.csv
+2004-06-17,S24_2011,36,100.0,Ships,3600.0,sales_data_sample.csv
+2004-07-21,S24_2011,22,100.0,Ships,2200.0,sales_data_sample.csv
+2004-08-20,S24_2011,42,100.0,Ships,4200.0,sales_data_sample.csv
+2004-09-09,S24_2011,21,100.0,Ships,2100.0,sales_data_sample.csv
+2004-10-14,S24_2011,29,100.0,Ships,2900.0,sales_data_sample.csv
+2004-10-29,S24_2011,35,100.0,Ships,3500.0,sales_data_sample.csv
+2004-11-09,S24_2011,41,100.0,Ships,4100.0,sales_data_sample.csv
+2004-11-21,S24_2011,29,71.97,Ships,2087.13,sales_data_sample.csv
+2004-12-02,S24_2011,34,50.33,Ships,1711.22,sales_data_sample.csv
+2005-01-26,S24_2011,37,100.0,Ships,3700.0,sales_data_sample.csv
+2005-02-23,S24_2011,28,80.54,Ships,2255.1200000000003,sales_data_sample.csv
+2005-03-23,S24_2011,49,100.0,Ships,4900.0,sales_data_sample.csv
+2003-01-09,S24_2022,46,53.76,Vintage Cars,2472.96,sales_data_sample.csv
+2003-03-18,S24_2022,39,44.35,Vintage Cars,1729.65,sales_data_sample.csv
+2003-05-21,S24_2022,22,45.25,Vintage Cars,995.5,sales_data_sample.csv
+2003-09-12,S24_2022,49,49.28,Vintage Cars,2414.7200000000003,sales_data_sample.csv
+2003-10-18,S24_2022,43,36.29,Vintage Cars,1560.47,sales_data_sample.csv
+2003-11-05,S24_2022,27,41.22,Vintage Cars,1112.94,sales_data_sample.csv
+2003-11-12,S24_2022,31,36.74,Vintage Cars,1138.94,sales_data_sample.csv
+2003-11-21,S24_2022,20,50.62,Vintage Cars,1012.4,sales_data_sample.csv
+2003-12-03,S24_2022,24,38.08,Vintage Cars,913.92,sales_data_sample.csv
+2004-01-26,S24_2022,49,47.94,Vintage Cars,2349.06,sales_data_sample.csv
+2004-03-02,S24_2022,24,48.38,Vintage Cars,1161.1200000000001,sales_data_sample.csv
+2004-04-29,S24_2022,39,45.25,Vintage Cars,1764.75,sales_data_sample.csv
+2004-06-04,S24_2022,37,45.7,Vintage Cars,1690.9,sales_data_sample.csv
+2004-08-17,S24_2022,45,47.49,Vintage Cars,2137.05,sales_data_sample.csv
+2004-09-03,S24_2022,45,48.38,Vintage Cars,2177.1,sales_data_sample.csv
+2004-10-11,S24_2022,44,39.42,Vintage Cars,1734.48,sales_data_sample.csv
+2004-10-21,S24_2022,23,37.63,Vintage Cars,865.49,sales_data_sample.csv
+2004-11-04,S24_2022,30,100.0,Vintage Cars,3000.0,sales_data_sample.csv
+2004-11-17,S24_2022,26,85.52,Vintage Cars,2223.52,sales_data_sample.csv
+2004-11-25,S24_2022,43,53.76,Vintage Cars,2311.68,sales_data_sample.csv
+2004-12-09,S24_2022,26,31.86,Vintage Cars,828.36,sales_data_sample.csv
+2005-01-12,S24_2022,28,30.59,Vintage Cars,856.52,sales_data_sample.csv
+2005-02-16,S24_2022,27,68.35,Vintage Cars,1845.4499999999998,sales_data_sample.csv
+2005-03-09,S24_2022,24,100.0,Vintage Cars,2400.0,sales_data_sample.csv
+2003-01-29,S24_2300,36,100.0,Trucks and Buses,3600.0,sales_data_sample.csv
+2003-04-01,S24_2300,21,100.0,Trucks and Buses,2100.0,sales_data_sample.csv
+2003-05-28,S24_2300,27,100.0,Trucks and Buses,2700.0,sales_data_sample.csv
+2003-07-24,S24_2300,47,100.0,Trucks and Buses,4700.0,sales_data_sample.csv
+2003-09-21,S24_2300,42,100.0,Trucks and Buses,4200.0,sales_data_sample.csv
+2003-10-22,S24_2300,32,100.0,Trucks and Buses,3200.0,sales_data_sample.csv
+2003-11-06,S24_2300,28,100.0,Trucks and Buses,2800.0,sales_data_sample.csv
+2003-11-14,S24_2300,24,100.0,Trucks and Buses,2400.0,sales_data_sample.csv
+2003-11-25,S24_2300,49,100.0,Trucks and Buses,4900.0,sales_data_sample.csv
+2003-12-09,S24_2300,46,100.0,Trucks and Buses,4600.0,sales_data_sample.csv
+2004-02-04,S24_2300,28,100.0,Trucks and Buses,2800.0,sales_data_sample.csv
+2004-03-11,S24_2300,48,100.0,Trucks and Buses,4800.0,sales_data_sample.csv
+2004-05-05,S24_2300,29,100.0,Trucks and Buses,2900.0,sales_data_sample.csv
+2004-06-15,S24_2300,47,100.0,Trucks and Buses,4700.0,sales_data_sample.csv
+2004-07-20,S24_2300,43,100.0,Trucks and Buses,4300.0,sales_data_sample.csv
+2004-08-19,S24_2300,25,100.0,Trucks and Buses,2500.0,sales_data_sample.csv
+2004-09-08,S24_2300,48,100.0,Trucks and Buses,4800.0,sales_data_sample.csv
+2004-10-13,S24_2300,24,100.0,Trucks and Buses,2400.0,sales_data_sample.csv
+2004-10-22,S24_2300,42,100.0,Trucks and Buses,4200.0,sales_data_sample.csv
+2004-11-05,S24_2300,31,100.0,Trucks and Buses,3100.0,sales_data_sample.csv
+2004-11-01,S24_2300,37,100.0,Trucks and Buses,3700.0,sales_data_sample.csv
+2004-12-10,S24_2300,41,100.0,Trucks and Buses,4100.0,sales_data_sample.csv
+2005-01-23,S24_2300,20,100.0,Trucks and Buses,2000.0,sales_data_sample.csv
+2005-02-17,S24_2300,20,100.0,Trucks and Buses,2000.0,sales_data_sample.csv
+2005-05-03,S24_2300,70,100.0,Trucks and Buses,7000.0,sales_data_sample.csv
+2003-03-03,S24_2360,35,58.87,Motorcycles,2060.45,sales_data_sample.csv
+2003-05-07,S24_2360,32,76.88,Motorcycles,2460.16,sales_data_sample.csv
+2003-07-02,S24_2360,29,61.64,Motorcycles,1787.56,sales_data_sample.csv
+2003-08-25,S24_2360,27,60.95,Motorcycles,1645.65,sales_data_sample.csv
+2003-10-10,S24_2360,27,80.34,Motorcycles,2169.1800000000003,sales_data_sample.csv
+2003-11-04,S24_2360,38,74.11,Motorcycles,2816.18,sales_data_sample.csv
+2003-11-11,S24_2360,35,72.03,Motorcycles,2521.05,sales_data_sample.csv
+2003-11-19,S24_2360,42,76.19,Motorcycles,3199.98,sales_data_sample.csv
+2004-01-15,S24_2360,21,63.72,Motorcycles,1338.12,sales_data_sample.csv
+2004-02-21,S24_2360,37,80.34,Motorcycles,2972.58,sales_data_sample.csv
+2004-04-05,S24_2360,26,79.65,Motorcycles,2070.9,sales_data_sample.csv
+2004-05-26,S24_2360,47,65.8,Motorcycles,3092.6,sales_data_sample.csv
+2004-06-30,S24_2360,37,65.1,Motorcycles,2408.7,sales_data_sample.csv
+2004-08-02,S24_2360,46,75.49,Motorcycles,3472.54,sales_data_sample.csv
+2004-08-27,S24_2360,38,59.56,Motorcycles,2263.28,sales_data_sample.csv
+2004-09-30,S24_2360,33,66.49,Motorcycles,2194.1699999999996,sales_data_sample.csv
+2004-10-15,S24_2360,24,56.1,Motorcycles,1346.4,sales_data_sample.csv
+2004-11-03,S24_2360,31,81.73,Motorcycles,2533.63,sales_data_sample.csv
+2004-11-16,S24_2360,42,81.03,Motorcycles,3403.26,sales_data_sample.csv
+2004-11-24,S24_2360,32,100.0,Motorcycles,3200.0,sales_data_sample.csv
+2004-12-07,S24_2360,41,70.65,Motorcycles,2896.65,sales_data_sample.csv
+2005-01-06,S24_2360,43,61.23,Motorcycles,2632.89,sales_data_sample.csv
+2005-02-03,S24_2360,20,100.0,Motorcycles,2000.0,sales_data_sample.csv
+2005-03-04,S24_2360,35,65.13,Motorcycles,2279.5499999999997,sales_data_sample.csv
+2005-04-08,S24_2360,27,79.65,Motorcycles,2150.55,sales_data_sample.csv
+2003-03-18,S24_2766,43,78.15,Classic Cars,3360.4500000000003,sales_data_sample.csv
+2003-05-21,S24_2766,32,72.7,Classic Cars,2326.4,sales_data_sample.csv
+2003-09-11,S24_2766,21,73.6,Classic Cars,1545.6,sales_data_sample.csv
+2003-10-17,S24_2766,20,100.0,Classic Cars,2000.0,sales_data_sample.csv
+2003-11-05,S24_2766,22,74.51,Classic Cars,1639.22,sales_data_sample.csv
+2003-11-12,S24_2766,36,73.6,Classic Cars,2649.6,sales_data_sample.csv
+2003-11-20,S24_2766,46,83.6,Classic Cars,3845.6,sales_data_sample.csv
+2003-12-02,S24_2766,47,96.32,Classic Cars,4527.04,sales_data_sample.csv
+2004-01-16,S24_2766,45,88.14,Classic Cars,3966.3,sales_data_sample.csv
+2004-03-02,S24_2766,47,88.14,Classic Cars,4142.58,sales_data_sample.csv
+2004-04-13,S24_2766,47,94.5,Classic Cars,4441.5,sales_data_sample.csv
+2004-07-07,S24_2766,38,87.24,Classic Cars,3315.12,sales_data_sample.csv
+2004-08-09,S24_2766,49,79.97,Classic Cars,3918.5299999999997,sales_data_sample.csv
+2004-09-01,S24_2766,35,80.87,Classic Cars,2830.4500000000003,sales_data_sample.csv
+2003-10-06,S24_2766,49,100.0,Classic Cars,4900.0,sales_data_sample.csv
+2004-10-16,S24_2766,28,93.6,Classic Cars,2620.7999999999997,sales_data_sample.csv
+2004-11-04,S24_2766,30,72.7,Classic Cars,2181.0,sales_data_sample.csv
+2004-11-17,S24_2766,39,86.72,Classic Cars,3382.08,sales_data_sample.csv
+2004-11-29,S24_2766,25,100.0,Classic Cars,2500.0,sales_data_sample.csv
+2005-01-19,S24_2766,40,100.0,Classic Cars,4000.0,sales_data_sample.csv
+2005-02-16,S24_2766,36,37.5,Classic Cars,1350.0,sales_data_sample.csv
+2003-01-31,S24_2840,44,39.6,Classic Cars,1742.4,sales_data_sample.csv
+2003-04-01,S24_2840,24,30.06,Classic Cars,721.4399999999999,sales_data_sample.csv
+2003-06-03,S24_2840,39,38.19,Classic Cars,1489.4099999999999,sales_data_sample.csv
+2003-08-01,S24_2840,21,42.43,Classic Cars,891.03,sales_data_sample.csv
+2003-09-21,S24_2840,30,40.31,Classic Cars,1209.3000000000002,sales_data_sample.csv
+2003-10-22,S24_2840,27,31.82,Classic Cars,859.14,sales_data_sample.csv
+2003-11-06,S24_2840,37,31.12,Classic Cars,1151.44,sales_data_sample.csv
+2003-11-14,S24_2840,42,31.82,Classic Cars,1336.44,sales_data_sample.csv
+2003-11-25,S24_2840,32,28.29,Classic Cars,905.28,sales_data_sample.csv
+2003-12-09,S24_2840,42,29.7,Classic Cars,1247.3999999999999,sales_data_sample.csv
+2004-02-10,S24_2840,21,40.31,Classic Cars,846.51,sales_data_sample.csv
+2004-03-11,S24_2840,33,32.88,Classic Cars,1085.0400000000002,sales_data_sample.csv
+2004-05-05,S24_2840,49,36.07,Classic Cars,1767.43,sales_data_sample.csv
+2004-06-15,S24_2840,31,33.24,Classic Cars,1030.44,sales_data_sample.csv
+2004-07-20,S24_2840,38,41.72,Classic Cars,1585.36,sales_data_sample.csv
+2004-08-19,S24_2840,20,40.66,Classic Cars,813.1999999999999,sales_data_sample.csv
+2004-09-08,S24_2840,39,30.06,Classic Cars,1172.34,sales_data_sample.csv
+2004-10-13,S24_2840,48,31.47,Classic Cars,1510.56,sales_data_sample.csv
+2004-10-22,S24_2840,39,37.13,Classic Cars,1448.0700000000002,sales_data_sample.csv
+2004-11-05,S24_2840,30,100.0,Classic Cars,3000.0,sales_data_sample.csv
+2004-11-19,S24_2840,33,37.13,Classic Cars,1225.2900000000002,sales_data_sample.csv
+2004-12-01,S24_2840,36,37.13,Classic Cars,1336.68,sales_data_sample.csv
+2004-12-10,S24_2840,36,82.94,Classic Cars,2985.84,sales_data_sample.csv
+2005-01-23,S24_2840,45,100.0,Classic Cars,4500.0,sales_data_sample.csv
+2005-02-22,S24_2840,40,100.0,Classic Cars,4000.0,sales_data_sample.csv
+2005-03-15,S24_2840,46,38.9,Classic Cars,1789.3999999999999,sales_data_sample.csv
+2005-05-03,S24_2840,30,36.07,Classic Cars,1082.1,sales_data_sample.csv
+2003-02-17,S24_2841,49,74.68,Planes,3659.32,sales_data_sample.csv
+2003-04-28,S24_2841,41,59.6,Planes,2443.6,sales_data_sample.csv
+2003-06-16,S24_2841,35,67.14,Planes,2349.9,sales_data_sample.csv
+2003-08-10,S24_2841,27,60.97,Planes,1646.19,sales_data_sample.csv
+2003-10-06,S24_2841,23,72.62,Planes,1670.2600000000002,sales_data_sample.csv
+2003-11-08,S24_2841,34,80.84,Planes,2748.56,sales_data_sample.csv
+2003-11-14,S24_2841,22,69.2,Planes,1522.4,sales_data_sample.csv
+2003-11-27,S24_2841,48,67.82,Planes,3255.3599999999997,sales_data_sample.csv
+2004-01-09,S24_2841,43,82.21,Planes,3535.0299999999997,sales_data_sample.csv
+2004-02-19,S24_2841,32,81.53,Planes,2608.96,sales_data_sample.csv
+2004-05-08,S24_2841,20,67.82,Planes,1356.3999999999999,sales_data_sample.csv
+2004-07-21,S24_2841,40,65.08,Planes,2603.2,sales_data_sample.csv
+2004-08-21,S24_2841,30,73.99,Planes,2219.7,sales_data_sample.csv
+2004-09-15,S24_2841,21,71.25,Planes,1496.25,sales_data_sample.csv
+2004-10-14,S24_2841,25,75.36,Planes,1884.0,sales_data_sample.csv
+2004-11-01,S24_2841,34,63.71,Planes,2166.14,sales_data_sample.csv
+2004-11-12,S24_2841,48,58.92,Planes,2828.16,sales_data_sample.csv
+2004-11-23,S24_2841,55,100.0,Planes,5500.0,sales_data_sample.csv
+2004-12-03,S24_2841,25,74.68,Planes,1867.0000000000002,sales_data_sample.csv
+2005-01-31,S24_2841,38,70.44,Planes,2676.72,sales_data_sample.csv
+2005-03-01,S24_2841,39,55.96,Planes,2182.44,sales_data_sample.csv
+2005-03-30,S24_2841,28,57.55,Planes,1611.3999999999999,sales_data_sample.csv
+2005-04-01,S24_2841,24,61.66,Planes,1479.84,sales_data_sample.csv
+2003-03-18,S24_2887,46,100.0,Classic Cars,4600.0,sales_data_sample.csv
+2003-05-21,S24_2887,25,93.95,Classic Cars,2348.75,sales_data_sample.csv
+2003-09-11,S24_2887,34,100.0,Classic Cars,3400.0,sales_data_sample.csv
+2003-10-17,S24_2887,25,100.0,Classic Cars,2500.0,sales_data_sample.csv
+2003-11-05,S24_2887,23,100.0,Classic Cars,2300.0,sales_data_sample.csv
+2003-11-12,S24_2887,20,100.0,Classic Cars,2000.0,sales_data_sample.csv
+2003-11-20,S24_2887,23,100.0,Classic Cars,2300.0,sales_data_sample.csv
+2003-12-02,S24_2887,42,100.0,Classic Cars,4200.0,sales_data_sample.csv
+2004-01-22,S24_2887,27,100.0,Classic Cars,2700.0,sales_data_sample.csv
+2004-03-02,S24_2887,33,100.0,Classic Cars,3300.0,sales_data_sample.csv
+2004-04-13,S24_2887,28,98.65,Classic Cars,2762.2000000000003,sales_data_sample.csv
+2004-07-07,S24_2887,43,100.0,Classic Cars,4300.0,sales_data_sample.csv
+2004-08-09,S24_2887,48,100.0,Classic Cars,4800.0,sales_data_sample.csv
+2004-09-01,S24_2887,48,100.0,Classic Cars,4800.0,sales_data_sample.csv
+2003-10-06,S24_2887,45,100.0,Classic Cars,4500.0,sales_data_sample.csv
+2004-10-16,S24_2887,43,100.0,Classic Cars,4300.0,sales_data_sample.csv
+2004-11-17,S24_2887,44,42.26,Classic Cars,1859.4399999999998,sales_data_sample.csv
+2004-11-29,S24_2887,24,87.24,Classic Cars,2093.7599999999998,sales_data_sample.csv
+2005-01-19,S24_2887,31,100.0,Classic Cars,3100.0,sales_data_sample.csv
+2005-02-16,S24_2887,44,36.29,Classic Cars,1596.76,sales_data_sample.csv
+2003-03-10,S24_2972,29,32.1,Classic Cars,930.9000000000001,sales_data_sample.csv
+2003-05-08,S24_2972,39,30.96,Classic Cars,1207.44,sales_data_sample.csv
+2003-07-02,S24_2972,20,35.87,Classic Cars,717.4,sales_data_sample.csv
+2003-09-05,S24_2972,25,42.67,Classic Cars,1066.75,sales_data_sample.csv
+2003-10-11,S24_2972,42,37.0,Classic Cars,1554.0,sales_data_sample.csv
+2003-11-05,S24_2972,36,35.49,Classic Cars,1277.64,sales_data_sample.csv
+2003-11-12,S24_2972,37,42.67,Classic Cars,1578.79,sales_data_sample.csv
+2003-11-20,S24_2972,30,30.59,Classic Cars,917.7,sales_data_sample.csv
+2003-12-02,S24_2972,21,37.0,Classic Cars,777.0,sales_data_sample.csv
+2004-01-16,S24_2972,34,43.42,Classic Cars,1476.28,sales_data_sample.csv
+2004-02-22,S24_2972,42,36.63,Classic Cars,1538.46,sales_data_sample.csv
+2004-04-12,S24_2972,20,44.56,Classic Cars,891.2,sales_data_sample.csv
+2004-07-06,S24_2972,34,40.4,Classic Cars,1373.6,sales_data_sample.csv
+2004-08-06,S24_2972,31,38.89,Classic Cars,1205.59,sales_data_sample.csv
+2004-08-30,S24_2972,36,39.65,Classic Cars,1427.3999999999999,sales_data_sample.csv
+2003-10-05,S24_2972,48,34.36,Classic Cars,1649.28,sales_data_sample.csv
+2004-10-16,S24_2972,33,41.91,Classic Cars,1383.03,sales_data_sample.csv
+2004-11-04,S24_2972,37,33.23,Classic Cars,1229.51,sales_data_sample.csv
+2004-11-17,S24_2972,27,42.24,Classic Cars,1140.48,sales_data_sample.csv
+2004-11-24,S24_2972,39,40.4,Classic Cars,1575.6,sales_data_sample.csv
+2004-12-07,S24_2972,36,38.52,Classic Cars,1386.72,sales_data_sample.csv
+2005-01-12,S24_2972,36,100.0,Classic Cars,3600.0,sales_data_sample.csv
+2005-02-10,S24_2972,41,100.0,Classic Cars,4100.0,sales_data_sample.csv
+2005-03-04,S24_2972,37,100.0,Classic Cars,3700.0,sales_data_sample.csv
+2005-04-14,S24_2972,47,44.56,Classic Cars,2094.32,sales_data_sample.csv
+2005-05-17,S24_2972,15,42.67,Classic Cars,640.0500000000001,sales_data_sample.csv
+2003-02-11,S24_3151,44,72.58,Vintage Cars,3193.52,sales_data_sample.csv
+2003-04-28,S24_3151,35,87.62,Vintage Cars,3066.7000000000003,sales_data_sample.csv
+2003-06-12,S24_3151,41,94.71,Vintage Cars,3883.1099999999997,sales_data_sample.csv
+2003-08-08,S24_3151,49,98.25,Vintage Cars,4814.25,sales_data_sample.csv
+2003-10-02,S24_3151,31,91.17,Vintage Cars,2826.27,sales_data_sample.csv
+2003-11-07,S24_3151,45,72.58,Vintage Cars,3266.1,sales_data_sample.csv
+2003-11-14,S24_3151,33,74.35,Vintage Cars,2453.5499999999997,sales_data_sample.csv
+2003-11-26,S24_3151,47,83.2,Vintage Cars,3910.4,sales_data_sample.csv
+2004-01-02,S24_3151,20,89.4,Vintage Cars,1788.0,sales_data_sample.csv
+2004-02-19,S24_3151,47,70.81,Vintage Cars,3328.07,sales_data_sample.csv
+2004-03-29,S24_3151,40,94.71,Vintage Cars,3788.3999999999996,sales_data_sample.csv
+2004-06-17,S24_3151,22,91.17,Vintage Cars,2005.74,sales_data_sample.csv
+2004-07-21,S24_3151,27,100.0,Vintage Cars,2700.0,sales_data_sample.csv
+2004-08-20,S24_3151,34,92.94,Vintage Cars,3159.96,sales_data_sample.csv
+2004-09-10,S24_3151,46,84.97,Vintage Cars,3908.62,sales_data_sample.csv
+2004-10-14,S24_3151,31,84.08,Vintage Cars,2606.48,sales_data_sample.csv
+2004-10-29,S24_3151,24,86.74,Vintage Cars,2081.7599999999998,sales_data_sample.csv
+2004-11-09,S24_3151,41,85.85,Vintage Cars,3519.85,sales_data_sample.csv
+2004-11-23,S24_3151,55,100.0,Vintage Cars,5500.0,sales_data_sample.csv
+2004-12-02,S24_3151,30,100.0,Vintage Cars,3000.0,sales_data_sample.csv
+2005-01-31,S24_3151,33,57.32,Vintage Cars,1891.56,sales_data_sample.csv
+2005-02-23,S24_3151,43,97.87,Vintage Cars,4208.41,sales_data_sample.csv
+2005-03-23,S24_3151,27,83.2,Vintage Cars,2246.4,sales_data_sample.csv
+2003-03-18,S24_3191,27,73.62,Classic Cars,1987.7400000000002,sales_data_sample.csv
+2003-05-21,S24_3191,49,83.04,Classic Cars,4068.9600000000005,sales_data_sample.csv
+2003-09-11,S24_3191,31,73.62,Classic Cars,2282.2200000000003,sales_data_sample.csv
+2003-10-17,S24_3191,20,77.05,Classic Cars,1541.0,sales_data_sample.csv
+2003-11-05,S24_3191,24,81.33,Classic Cars,1951.92,sales_data_sample.csv
+2003-11-12,S24_3191,33,94.17,Classic Cars,3107.61,sales_data_sample.csv
+2003-11-20,S24_3191,32,72.77,Classic Cars,2328.64,sales_data_sample.csv
+2003-12-02,S24_3191,40,79.62,Classic Cars,3184.8,sales_data_sample.csv
+2004-01-16,S24_3191,27,79.62,Classic Cars,2149.7400000000002,sales_data_sample.csv
+2004-03-02,S24_3191,40,79.62,Classic Cars,3184.8,sales_data_sample.csv
+2004-04-13,S24_3191,26,81.33,Classic Cars,2114.58,sales_data_sample.csv
+2004-07-07,S24_3191,44,96.74,Classic Cars,4256.5599999999995,sales_data_sample.csv
+2004-08-09,S24_3191,33,71.06,Classic Cars,2344.98,sales_data_sample.csv
+2004-09-01,S24_3191,34,68.49,Classic Cars,2328.66,sales_data_sample.csv
+2003-10-06,S24_3191,48,74.48,Classic Cars,3575.04,sales_data_sample.csv
+2004-10-16,S24_3191,25,83.04,Classic Cars,2076.0,sales_data_sample.csv
+2004-11-04,S24_3191,39,84.75,Classic Cars,3305.25,sales_data_sample.csv
+2004-11-17,S24_3191,45,34.19,Classic Cars,1538.55,sales_data_sample.csv
+2004-11-29,S24_3191,24,100.0,Classic Cars,2400.0,sales_data_sample.csv
+2005-01-19,S24_3191,46,79.62,Classic Cars,3662.5200000000004,sales_data_sample.csv
+2005-02-16,S24_3191,44,79.06,Classic Cars,3478.6400000000003,sales_data_sample.csv
+2003-03-03,S24_3371,30,63.07,Classic Cars,1892.1,sales_data_sample.csv
+2003-05-08,S24_3371,34,50.21,Classic Cars,1707.14,sales_data_sample.csv
+2003-07-02,S24_3371,27,66.13,Classic Cars,1785.5099999999998,sales_data_sample.csv
+2003-09-05,S24_3371,30,68.58,Classic Cars,2057.4,sales_data_sample.csv
+2003-10-10,S24_3371,50,69.8,Classic Cars,3490.0,sales_data_sample.csv
+2003-11-04,S24_3371,34,50.21,Classic Cars,1707.14,sales_data_sample.csv
+2003-11-12,S24_3371,23,65.52,Classic Cars,1506.9599999999998,sales_data_sample.csv
+2003-11-20,S24_3371,48,60.01,Classic Cars,2880.48,sales_data_sample.csv
+2003-12-02,S24_3371,34,64.9,Classic Cars,2206.6000000000004,sales_data_sample.csv
+2004-01-15,S24_3371,48,48.98,Classic Cars,2351.04,sales_data_sample.csv
+2004-02-22,S24_3371,24,50.21,Classic Cars,1205.04,sales_data_sample.csv
+2004-04-09,S24_3371,47,62.45,Classic Cars,2935.15,sales_data_sample.csv
+2004-07-06,S24_3371,47,62.45,Classic Cars,2935.15,sales_data_sample.csv
+2004-08-02,S24_3371,20,61.23,Classic Cars,1224.6,sales_data_sample.csv
+2004-08-30,S24_3371,20,67.97,Classic Cars,1359.4,sales_data_sample.csv
+2003-10-04,S24_3371,31,58.78,Classic Cars,1822.18,sales_data_sample.csv
+2004-10-16,S24_3371,38,56.94,Classic Cars,2163.72,sales_data_sample.csv
+2004-11-03,S24_3371,26,61.23,Classic Cars,1591.98,sales_data_sample.csv
+2004-11-17,S24_3371,25,100.0,Classic Cars,2500.0,sales_data_sample.csv
+2004-11-24,S24_3371,48,62.45,Classic Cars,2997.6000000000004,sales_data_sample.csv
+2004-12-07,S24_3371,44,62.45,Classic Cars,2747.8,sales_data_sample.csv
+2005-01-06,S24_3371,21,100.0,Classic Cars,2100.0,sales_data_sample.csv
+2005-02-10,S24_3371,46,41.54,Classic Cars,1910.84,sales_data_sample.csv
+2005-03-04,S24_3371,46,52.84,Classic Cars,2430.6400000000003,sales_data_sample.csv
+2005-05-17,S24_3371,55,52.66,Classic Cars,2896.2999999999997,sales_data_sample.csv
+2003-02-17,S24_3420,31,52.6,Vintage Cars,1630.6000000000001,sales_data_sample.csv
+2003-04-28,S24_3420,20,72.98,Vintage Cars,1459.6000000000001,sales_data_sample.csv
+2003-06-16,S24_3420,29,59.18,Vintage Cars,1716.22,sales_data_sample.csv
+2003-08-10,S24_3420,33,77.59,Vintage Cars,2560.4700000000003,sales_data_sample.csv
+2003-10-06,S24_3420,34,55.89,Vintage Cars,1900.26,sales_data_sample.csv
+2003-11-08,S24_3420,27,73.64,Vintage Cars,1988.28,sales_data_sample.csv
+2003-11-14,S24_3420,21,69.04,Vintage Cars,1449.8400000000001,sales_data_sample.csv
+2003-11-27,S24_3420,27,71.67,Vintage Cars,1935.0900000000001,sales_data_sample.csv
+2004-01-09,S24_3420,36,77.59,Vintage Cars,2793.2400000000002,sales_data_sample.csv
+2004-02-19,S24_3420,43,70.35,Vintage Cars,3025.0499999999997,sales_data_sample.csv
+2004-05-08,S24_3420,25,69.7,Vintage Cars,1742.5,sales_data_sample.csv
+2004-07-21,S24_3420,24,72.33,Vintage Cars,1735.92,sales_data_sample.csv
+2004-08-21,S24_3420,39,71.67,Vintage Cars,2795.13,sales_data_sample.csv
+2004-09-15,S24_3420,31,53.92,Vintage Cars,1671.52,sales_data_sample.csv
+2004-10-14,S24_3420,22,71.67,Vintage Cars,1576.74,sales_data_sample.csv
+2004-11-01,S24_3420,47,76.93,Vintage Cars,3615.7100000000005,sales_data_sample.csv
+2004-11-12,S24_3420,20,72.98,Vintage Cars,1459.6000000000001,sales_data_sample.csv
+2004-11-23,S24_3420,29,99.69,Vintage Cars,2891.0099999999998,sales_data_sample.csv
+2004-12-03,S24_3420,38,68.38,Vintage Cars,2598.4399999999996,sales_data_sample.csv
+2004-12-17,S24_3420,34,100.0,Vintage Cars,3400.0,sales_data_sample.csv
+2005-01-31,S24_3420,46,66.0,Vintage Cars,3036.0,sales_data_sample.csv
+2005-03-01,S24_3420,35,63.76,Vintage Cars,2231.6,sales_data_sample.csv
+2005-03-30,S24_3420,34,71.67,Vintage Cars,2436.78,sales_data_sample.csv
+2005-04-01,S24_3420,38,57.2,Vintage Cars,2173.6,sales_data_sample.csv
+2003-03-18,S24_3432,37,100.0,Classic Cars,3700.0,sales_data_sample.csv
+2003-05-21,S24_3432,43,100.0,Classic Cars,4300.0,sales_data_sample.csv
+2003-09-11,S24_3432,27,100.0,Classic Cars,2700.0,sales_data_sample.csv
+2003-10-17,S24_3432,30,100.0,Classic Cars,3000.0,sales_data_sample.csv
+2003-11-05,S24_3432,22,98.51,Classic Cars,2167.2200000000003,sales_data_sample.csv
+2003-11-12,S24_3432,49,100.0,Classic Cars,4900.0,sales_data_sample.csv
+2003-11-20,S24_3432,46,100.0,Classic Cars,4600.0,sales_data_sample.csv
+2003-12-02,S24_3432,48,91.02,Classic Cars,4368.96,sales_data_sample.csv
+2004-01-16,S24_3432,46,87.81,Classic Cars,4039.26,sales_data_sample.csv
+2004-02-26,S24_3432,48,92.09,Classic Cars,4420.32,sales_data_sample.csv
+2004-04-13,S24_3432,27,86.73,Classic Cars,2341.71,sales_data_sample.csv
+2004-07-07,S24_3432,43,100.0,Classic Cars,4300.0,sales_data_sample.csv
+2004-08-09,S24_3432,48,100.0,Classic Cars,4800.0,sales_data_sample.csv
+2004-09-01,S24_3432,41,100.0,Classic Cars,4100.0,sales_data_sample.csv
+2003-10-05,S24_3432,22,96.37,Classic Cars,2120.1400000000003,sales_data_sample.csv
+2004-10-16,S24_3432,46,92.09,Classic Cars,4236.14,sales_data_sample.csv
+2004-11-04,S24_3432,21,89.95,Classic Cars,1888.95,sales_data_sample.csv
+2004-11-17,S24_3432,31,37.18,Classic Cars,1152.58,sales_data_sample.csv
+2004-11-29,S24_3432,26,95.88,Classic Cars,2492.88,sales_data_sample.csv
+2005-01-19,S24_3432,20,99.58,Classic Cars,1991.6,sales_data_sample.csv
+2005-02-16,S24_3432,34,100.0,Classic Cars,3400.0,sales_data_sample.csv
+2003-02-11,S24_3816,50,79.67,Vintage Cars,3983.5,sales_data_sample.csv
+2003-04-28,S24_3816,35,90.57,Vintage Cars,3169.95,sales_data_sample.csv
+2003-06-12,S24_3816,50,77.99,Vintage Cars,3899.4999999999995,sales_data_sample.csv
+2003-08-10,S24_3816,23,80.51,Vintage Cars,1851.73,sales_data_sample.csv
+2003-10-06,S24_3816,37,67.93,Vintage Cars,2513.4100000000003,sales_data_sample.csv
+2003-11-08,S24_3816,21,72.12,Vintage Cars,1514.52,sales_data_sample.csv
+2003-11-14,S24_3816,36,85.54,Vintage Cars,3079.44,sales_data_sample.csv
+2003-11-26,S24_3816,22,86.38,Vintage Cars,1900.36,sales_data_sample.csv
+2004-01-09,S24_3816,22,89.73,Vintage Cars,1974.0600000000002,sales_data_sample.csv
+2004-02-19,S24_3816,46,80.51,Vintage Cars,3703.46,sales_data_sample.csv
+2004-07-21,S24_3816,48,83.02,Vintage Cars,3984.96,sales_data_sample.csv
+2004-08-20,S24_3816,33,72.96,Vintage Cars,2407.68,sales_data_sample.csv
+2004-09-15,S24_3816,22,77.15,Vintage Cars,1697.3000000000002,sales_data_sample.csv
+2004-10-14,S24_3816,22,91.41,Vintage Cars,2011.02,sales_data_sample.csv
+2004-11-01,S24_3816,25,92.25,Vintage Cars,2306.25,sales_data_sample.csv
+2004-11-09,S24_3816,20,92.25,Vintage Cars,1845.0,sales_data_sample.csv
+2004-11-23,S24_3816,42,59.36,Vintage Cars,2493.12,sales_data_sample.csv
+2004-12-02,S24_3816,25,60.34,Vintage Cars,1508.5,sales_data_sample.csv
+2005-01-31,S24_3816,23,100.0,Vintage Cars,2300.0,sales_data_sample.csv
+2005-02-28,S24_3816,37,85.54,Vintage Cars,3164.98,sales_data_sample.csv
+2005-03-23,S24_3816,37,90.57,Vintage Cars,3351.0899999999997,sales_data_sample.csv
+2005-04-01,S24_3816,42,72.96,Vintage Cars,3064.3199999999997,sales_data_sample.csv
+2003-03-03,S24_3856,40,100.0,Classic Cars,4000.0,sales_data_sample.csv
+2003-05-08,S24_3856,43,100.0,Classic Cars,4300.0,sales_data_sample.csv
+2003-07-02,S24_3856,47,100.0,Classic Cars,4700.0,sales_data_sample.csv
+2003-09-05,S24_3856,23,100.0,Classic Cars,2300.0,sales_data_sample.csv
+2003-10-11,S24_3856,35,100.0,Classic Cars,3500.0,sales_data_sample.csv
+2003-11-04,S24_3856,34,100.0,Classic Cars,3400.0,sales_data_sample.csv
+2003-11-12,S24_3856,25,100.0,Classic Cars,2500.0,sales_data_sample.csv
+2003-11-20,S24_3856,45,100.0,Classic Cars,4500.0,sales_data_sample.csv
+2003-12-02,S24_3856,47,100.0,Classic Cars,4700.0,sales_data_sample.csv
+2004-01-16,S24_3856,49,100.0,Classic Cars,4900.0,sales_data_sample.csv
+2004-02-22,S24_3856,40,100.0,Classic Cars,4000.0,sales_data_sample.csv
+2004-04-12,S24_3856,29,100.0,Classic Cars,2900.0,sales_data_sample.csv
+2004-07-06,S24_3856,24,100.0,Classic Cars,2400.0,sales_data_sample.csv
+2004-08-06,S24_3856,25,100.0,Classic Cars,2500.0,sales_data_sample.csv
+2004-08-30,S24_3856,36,100.0,Classic Cars,3600.0,sales_data_sample.csv
+2003-10-05,S24_3856,50,100.0,Classic Cars,5000.0,sales_data_sample.csv
+2004-10-16,S24_3856,45,100.0,Classic Cars,4500.0,sales_data_sample.csv
+2004-11-04,S24_3856,26,100.0,Classic Cars,2600.0,sales_data_sample.csv
+2004-11-17,S24_3856,21,100.0,Classic Cars,2100.0,sales_data_sample.csv
+2004-11-24,S24_3856,42,100.0,Classic Cars,4200.0,sales_data_sample.csv
+2004-12-07,S24_3856,32,100.0,Classic Cars,3200.0,sales_data_sample.csv
+2005-01-06,S24_3856,31,94.58,Classic Cars,2931.98,sales_data_sample.csv
+2005-02-10,S24_3856,33,53.27,Classic Cars,1757.91,sales_data_sample.csv
+2005-03-04,S24_3856,45,100.0,Classic Cars,4500.0,sales_data_sample.csv
+2005-04-14,S24_3856,76,100.0,Classic Cars,7600.0,sales_data_sample.csv
+2005-05-17,S24_3856,70,100.0,Classic Cars,7000.0,sales_data_sample.csv
+2003-02-17,S24_3949,50,64.83,Planes,3241.5,sales_data_sample.csv
+2003-04-28,S24_3949,28,70.29,Planes,1968.1200000000001,sales_data_sample.csv
+2003-06-16,S24_3949,50,81.89,Planes,4094.5,sales_data_sample.csv
+2003-08-10,S24_3949,28,66.19,Planes,1853.32,sales_data_sample.csv
+2003-10-06,S24_3949,44,77.11,Planes,3392.84,sales_data_sample.csv
+2003-10-28,S24_3949,27,73.02,Planes,1971.54,sales_data_sample.csv
+2003-11-08,S24_3949,30,72.33,Planes,2169.9,sales_data_sample.csv
+2003-11-27,S24_3949,43,66.19,Planes,2846.17,sales_data_sample.csv
+2004-01-12,S24_3949,29,69.6,Planes,2018.3999999999999,sales_data_sample.csv
+2004-02-19,S24_3949,48,56.64,Planes,2718.7200000000003,sales_data_sample.csv
+2004-04-02,S24_3949,33,60.05,Planes,1981.6499999999999,sales_data_sample.csv
+2004-05-11,S24_3949,40,75.06,Planes,3002.4,sales_data_sample.csv
+2004-07-23,S24_3949,41,81.89,Planes,3357.4900000000002,sales_data_sample.csv
+2004-08-21,S24_3949,21,55.96,Planes,1175.16,sales_data_sample.csv
+2004-09-15,S24_3949,32,71.65,Planes,2292.8,sales_data_sample.csv
+2004-10-15,S24_3949,43,76.43,Planes,3286.4900000000002,sales_data_sample.csv
+2004-11-01,S24_3949,30,77.79,Planes,2333.7000000000003,sales_data_sample.csv
+2004-11-12,S24_3949,35,76.43,Planes,2675.05,sales_data_sample.csv
+2004-11-23,S24_3949,45,96.92,Planes,4361.4,sales_data_sample.csv
+2004-12-03,S24_3949,34,59.37,Planes,2018.58,sales_data_sample.csv
+2004-12-17,S24_3949,26,100.0,Planes,2600.0,sales_data_sample.csv
+2005-01-31,S24_3949,39,73.0,Planes,2847.0,sales_data_sample.csv
+2005-03-01,S24_3949,41,73.32,Planes,3006.12,sales_data_sample.csv
+2005-03-30,S24_3949,41,68.24,Planes,2797.8399999999997,sales_data_sample.csv
+2005-05-10,S24_3949,18,75.06,Planes,1351.08,sales_data_sample.csv
+2003-01-06,S24_3969,49,34.47,Vintage Cars,1689.03,sales_data_sample.csv
+2003-03-18,S24_3969,48,34.47,Vintage Cars,1654.56,sales_data_sample.csv
+2003-05-21,S24_3969,46,33.23,Vintage Cars,1528.58,sales_data_sample.csv
+2003-09-12,S24_3969,26,38.98,Vintage Cars,1013.4799999999999,sales_data_sample.csv
+2003-10-18,S24_3969,37,38.98,Vintage Cars,1442.26,sales_data_sample.csv
+2003-11-05,S24_3969,35,33.23,Vintage Cars,1163.05,sales_data_sample.csv
+2003-11-12,S24_3969,23,42.26,Vintage Cars,971.9799999999999,sales_data_sample.csv
+2003-11-21,S24_3969,22,41.03,Vintage Cars,902.6600000000001,sales_data_sample.csv
+2003-12-02,S24_3969,39,33.23,Vintage Cars,1295.9699999999998,sales_data_sample.csv
+2004-01-26,S24_3969,44,34.88,Vintage Cars,1534.72,sales_data_sample.csv
+2004-03-02,S24_3969,27,43.9,Vintage Cars,1185.3,sales_data_sample.csv
+2004-04-20,S24_3969,46,36.93,Vintage Cars,1698.78,sales_data_sample.csv
+2004-08-17,S24_3969,33,41.85,Vintage Cars,1381.05,sales_data_sample.csv
+2004-09-01,S24_3969,33,40.62,Vintage Cars,1340.4599999999998,sales_data_sample.csv
+2004-10-06,S24_3969,24,40.21,Vintage Cars,965.04,sales_data_sample.csv
+2004-10-21,S24_3969,31,35.29,Vintage Cars,1093.99,sales_data_sample.csv
+2004-11-17,S24_3969,41,77.24,Vintage Cars,3166.8399999999997,sales_data_sample.csv
+2004-11-29,S24_3969,22,97.44,Vintage Cars,2143.68,sales_data_sample.csv
+2005-01-19,S24_3969,46,37.34,Vintage Cars,1717.64,sales_data_sample.csv
+2005-02-16,S24_3969,43,95.03,Vintage Cars,4086.29,sales_data_sample.csv
+2005-04-22,S24_3969,15,36.93,Vintage Cars,553.95,sales_data_sample.csv
+2003-01-31,S24_4048,26,100.0,Classic Cars,2600.0,sales_data_sample.csv
+2003-04-04,S24_4048,44,100.0,Classic Cars,4400.0,sales_data_sample.csv
+2003-06-03,S24_4048,20,96.99,Classic Cars,1939.8,sales_data_sample.csv
+2003-08-01,S24_4048,40,94.62,Classic Cars,3784.8,sales_data_sample.csv
+2003-09-25,S24_4048,23,100.0,Classic Cars,2300.0,sales_data_sample.csv
+2003-10-22,S24_4048,24,99.36,Classic Cars,2384.64,sales_data_sample.csv
+2003-11-06,S24_4048,29,100.0,Classic Cars,2900.0,sales_data_sample.csv
+2003-11-14,S24_4048,49,100.0,Classic Cars,4900.0,sales_data_sample.csv
+2003-11-25,S24_4048,34,100.0,Classic Cars,3400.0,sales_data_sample.csv
+2003-12-09,S24_4048,28,100.0,Classic Cars,2800.0,sales_data_sample.csv
+2004-02-12,S24_4048,37,100.0,Classic Cars,3700.0,sales_data_sample.csv
+2004-03-15,S24_4048,45,100.0,Classic Cars,4500.0,sales_data_sample.csv
+2004-05-05,S24_4048,46,100.0,Classic Cars,4600.0,sales_data_sample.csv
+2004-07-20,S24_4048,22,100.0,Classic Cars,2200.0,sales_data_sample.csv
+2004-08-20,S24_4048,39,100.0,Classic Cars,3900.0,sales_data_sample.csv
+2004-09-08,S24_4048,27,100.0,Classic Cars,2700.0,sales_data_sample.csv
+2004-10-13,S24_4048,36,100.0,Classic Cars,3600.0,sales_data_sample.csv
+2004-10-22,S24_4048,38,100.0,Classic Cars,3800.0,sales_data_sample.csv
+2004-11-05,S24_4048,44,100.0,Classic Cars,4400.0,sales_data_sample.csv
+2004-11-20,S24_4048,31,100.0,Classic Cars,3100.0,sales_data_sample.csv
+2004-12-01,S24_4048,23,100.0,Classic Cars,2300.0,sales_data_sample.csv
+2004-12-15,S24_4048,22,100.0,Classic Cars,2200.0,sales_data_sample.csv
+2005-01-23,S24_4048,28,50.32,Classic Cars,1408.96,sales_data_sample.csv
+2005-02-22,S24_4048,21,93.91,Classic Cars,1972.11,sales_data_sample.csv
+2005-03-15,S24_4048,37,100.0,Classic Cars,3700.0,sales_data_sample.csv
+2005-05-03,S24_4048,31,100.0,Classic Cars,3100.0,sales_data_sample.csv
+2003-01-29,S24_4258,25,100.0,Vintage Cars,2500.0,sales_data_sample.csv
+2003-03-25,S24_4258,26,86.68,Vintage Cars,2253.6800000000003,sales_data_sample.csv
+2003-05-28,S24_4258,34,100.0,Vintage Cars,3400.0,sales_data_sample.csv
+2003-07-16,S24_4258,29,100.0,Vintage Cars,2900.0,sales_data_sample.csv
+2003-09-12,S24_4258,20,90.57,Vintage Cars,1811.3999999999999,sales_data_sample.csv
+2003-10-20,S24_4258,42,91.55,Vintage Cars,3845.1,sales_data_sample.csv
+2003-11-05,S24_4258,22,100.0,Vintage Cars,2200.0,sales_data_sample.csv
+2003-11-13,S24_4258,47,100.0,Vintage Cars,4700.0,sales_data_sample.csv
+2003-11-21,S24_4258,20,100.0,Vintage Cars,2000.0,sales_data_sample.csv
+2003-12-05,S24_4258,33,97.39,Vintage Cars,3213.87,sales_data_sample.csv
+2004-01-29,S24_4258,39,90.57,Vintage Cars,3532.2299999999996,sales_data_sample.csv
+2004-03-10,S24_4258,33,100.0,Vintage Cars,3300.0,sales_data_sample.csv
+2004-04-29,S24_4258,40,86.68,Vintage Cars,3467.2000000000003,sales_data_sample.csv
+2004-06-14,S24_4258,46,78.89,Vintage Cars,3628.94,sales_data_sample.csv
+2004-07-16,S24_4258,48,97.39,Vintage Cars,4674.72,sales_data_sample.csv
+2004-08-17,S24_4258,21,78.89,Vintage Cars,1656.69,sales_data_sample.csv
+2004-09-07,S24_4258,45,100.0,Vintage Cars,4500.0,sales_data_sample.csv
+2004-10-11,S24_4258,33,100.0,Vintage Cars,3300.0,sales_data_sample.csv
+2004-10-21,S24_4258,44,100.0,Vintage Cars,4400.0,sales_data_sample.csv
+2004-11-05,S24_4258,33,100.0,Vintage Cars,3300.0,sales_data_sample.csv
+2004-11-18,S24_4258,39,100.0,Vintage Cars,3900.0,sales_data_sample.csv
+2004-11-01,S24_4258,39,50.31,Vintage Cars,1962.0900000000001,sales_data_sample.csv
+2004-12-10,S24_4258,41,100.0,Vintage Cars,4100.0,sales_data_sample.csv
+2005-01-20,S24_4258,40,86.92,Vintage Cars,3476.8,sales_data_sample.csv
+2005-02-17,S24_4258,33,100.0,Vintage Cars,3300.0,sales_data_sample.csv
+2003-02-17,S24_4278,26,63.76,Planes,1657.76,sales_data_sample.csv
+2003-04-29,S24_4278,29,85.49,Planes,2479.21,sales_data_sample.csv
+2003-06-27,S24_4278,46,77.52,Planes,3565.9199999999996,sales_data_sample.csv
+2003-08-25,S24_4278,33,84.77,Planes,2797.41,sales_data_sample.csv
+2003-10-28,S24_4278,48,78.25,Planes,3756.0,sales_data_sample.csv
+2004-01-12,S24_4278,40,71.0,Planes,2840.0,sales_data_sample.csv
+2004-02-20,S24_4278,23,74.62,Planes,1716.2600000000002,sales_data_sample.csv
+2004-04-02,S24_4278,40,81.14,Planes,3245.6,sales_data_sample.csv
+2004-05-11,S24_4278,37,74.62,Planes,2760.94,sales_data_sample.csv
+2004-06-28,S24_4278,24,75.35,Planes,1808.3999999999999,sales_data_sample.csv
+2004-07-23,S24_4278,27,62.31,Planes,1682.3700000000001,sales_data_sample.csv
+2004-08-21,S24_4278,21,71.0,Planes,1491.0,sales_data_sample.csv
+2004-09-16,S24_4278,23,72.45,Planes,1666.3500000000001,sales_data_sample.csv
+2004-10-15,S24_4278,44,83.32,Planes,3666.08,sales_data_sample.csv
+2004-11-02,S24_4278,35,83.32,Planes,2916.2,sales_data_sample.csv
+2004-11-12,S24_4278,43,60.86,Planes,2616.98,sales_data_sample.csv
+2004-11-24,S24_4278,40,84.77,Planes,3390.7999999999997,sales_data_sample.csv
+2004-12-04,S24_4278,35,89.9,Planes,3146.5,sales_data_sample.csv
+2004-12-17,S24_4278,25,62.46,Planes,1561.5,sales_data_sample.csv
+2005-02-03,S24_4278,43,100.0,Planes,4300.0,sales_data_sample.csv
+2005-03-01,S24_4278,50,63.34,Planes,3167.0,sales_data_sample.csv
+2005-03-30,S24_4278,45,78.25,Planes,3521.25,sales_data_sample.csv
+2005-05-10,S24_4278,48,74.62,Planes,3581.76,sales_data_sample.csv
+2003-03-03,S24_4620,31,68.71,Classic Cars,2130.0099999999998,sales_data_sample.csv
+2003-05-08,S24_4620,29,71.14,Classic Cars,2063.06,sales_data_sample.csv
+2003-07-02,S24_4620,23,87.31,Classic Cars,2008.13,sales_data_sample.csv
+2003-09-05,S24_4620,31,64.67,Classic Cars,2004.77,sales_data_sample.csv
+2003-10-10,S24_4620,23,67.1,Classic Cars,1543.3,sales_data_sample.csv
+2003-11-04,S24_4620,24,94.58,Classic Cars,2269.92,sales_data_sample.csv
+2003-11-11,S24_4620,28,71.14,Classic Cars,1991.92,sales_data_sample.csv
+2003-11-20,S24_4620,44,66.29,Classic Cars,2916.76,sales_data_sample.csv
+2004-01-15,S24_4620,22,92.16,Classic Cars,2027.52,sales_data_sample.csv
+2004-02-22,S24_4620,46,70.33,Classic Cars,3235.18,sales_data_sample.csv
+2004-04-09,S24_4620,22,93.77,Classic Cars,2062.94,sales_data_sample.csv
+2004-05-26,S24_4620,38,87.31,Classic Cars,3317.78,sales_data_sample.csv
+2004-06-30,S24_4620,47,83.27,Classic Cars,3913.6899999999996,sales_data_sample.csv
+2004-08-02,S24_4620,48,75.18,Classic Cars,3608.6400000000003,sales_data_sample.csv
+2004-08-30,S24_4620,40,88.12,Classic Cars,3524.8,sales_data_sample.csv
+2004-09-30,S24_4620,32,80.84,Classic Cars,2586.88,sales_data_sample.csv
+2004-10-16,S24_4620,49,97.01,Classic Cars,4753.490000000001,sales_data_sample.csv
+2004-11-03,S24_4620,43,85.69,Classic Cars,3684.67,sales_data_sample.csv
+2004-11-17,S24_4620,41,100.0,Classic Cars,4100.0,sales_data_sample.csv
+2004-11-24,S24_4620,30,100.0,Classic Cars,3000.0,sales_data_sample.csv
+2004-12-07,S24_4620,28,95.39,Classic Cars,2670.92,sales_data_sample.csv
+2005-01-06,S24_4620,43,100.0,Classic Cars,4300.0,sales_data_sample.csv
+2005-02-10,S24_4620,41,100.0,Classic Cars,4100.0,sales_data_sample.csv
+2005-03-04,S24_4620,30,82.42,Classic Cars,2472.6,sales_data_sample.csv
+2003-01-29,S32_1268,31,100.0,Trucks and Buses,3100.0,sales_data_sample.csv
+2003-04-01,S32_1268,32,100.0,Trucks and Buses,3200.0,sales_data_sample.csv
+2003-05-28,S32_1268,43,96.31,Trucks and Buses,4141.33,sales_data_sample.csv
+2003-07-24,S32_1268,26,100.0,Trucks and Buses,2600.0,sales_data_sample.csv
+2003-09-21,S32_1268,27,100.0,Trucks and Buses,2700.0,sales_data_sample.csv
+2003-10-21,S32_1268,24,100.0,Trucks and Buses,2400.0,sales_data_sample.csv
+2003-11-06,S32_1268,22,100.0,Trucks and Buses,2200.0,sales_data_sample.csv
+2003-11-14,S32_1268,46,100.0,Trucks and Buses,4600.0,sales_data_sample.csv
+2003-11-25,S32_1268,37,97.27,Trucks and Buses,3598.99,sales_data_sample.csv
+2003-12-09,S32_1268,49,80.9,Trucks and Buses,3964.1000000000004,sales_data_sample.csv
+2004-02-04,S32_1268,21,100.0,Trucks and Buses,2100.0,sales_data_sample.csv
+2004-03-11,S32_1268,25,100.0,Trucks and Buses,2500.0,sales_data_sample.csv
+2004-05-04,S32_1268,37,100.0,Trucks and Buses,3700.0,sales_data_sample.csv
+2004-06-15,S32_1268,45,86.68,Trucks and Buses,3900.6000000000004,sales_data_sample.csv
+2004-07-19,S32_1268,32,85.72,Trucks and Buses,2743.04,sales_data_sample.csv
+2004-08-19,S32_1268,29,82.83,Trucks and Buses,2402.07,sales_data_sample.csv
+2004-09-08,S32_1268,26,83.79,Trucks and Buses,2178.54,sales_data_sample.csv
+2004-10-13,S32_1268,28,100.0,Trucks and Buses,2800.0,sales_data_sample.csv
+2004-10-22,S32_1268,27,87.64,Trucks and Buses,2366.28,sales_data_sample.csv
+2004-11-05,S32_1268,20,98.18,Trucks and Buses,1963.6000000000001,sales_data_sample.csv
+2004-11-19,S32_1268,44,100.0,Trucks and Buses,4400.0,sales_data_sample.csv
+2004-11-01,S32_1268,42,100.0,Trucks and Buses,4200.0,sales_data_sample.csv
+2004-12-10,S32_1268,41,100.0,Trucks and Buses,4100.0,sales_data_sample.csv
+2005-01-23,S32_1268,26,100.0,Trucks and Buses,2600.0,sales_data_sample.csv
+2005-02-17,S32_1268,26,100.0,Trucks and Buses,2600.0,sales_data_sample.csv
+2005-05-01,S32_1268,26,100.0,Trucks and Buses,2600.0,sales_data_sample.csv
+2003-02-24,S32_1374,20,92.9,Motorcycles,1858.0,sales_data_sample.csv
+2003-04-29,S32_1374,22,100.0,Motorcycles,2200.0,sales_data_sample.csv
+2003-06-27,S32_1374,23,100.0,Motorcycles,2300.0,sales_data_sample.csv
+2003-08-25,S32_1374,33,93.9,Motorcycles,3098.7000000000003,sales_data_sample.csv
+2003-10-28,S32_1374,28,100.0,Motorcycles,2800.0,sales_data_sample.csv
+2003-11-18,S32_1374,44,98.89,Motorcycles,4351.16,sales_data_sample.csv
+2004-01-12,S32_1374,46,79.91,Motorcycles,3675.8599999999997,sales_data_sample.csv
+2004-02-20,S32_1374,21,100.0,Motorcycles,2100.0,sales_data_sample.csv
+2004-04-02,S32_1374,41,100.0,Motorcycles,4100.0,sales_data_sample.csv
+2004-05-11,S32_1374,31,100.0,Motorcycles,3100.0,sales_data_sample.csv
+2004-06-28,S32_1374,31,79.91,Motorcycles,2477.21,sales_data_sample.csv
+2004-07-23,S32_1374,23,81.91,Motorcycles,1883.9299999999998,sales_data_sample.csv
+2004-08-27,S32_1374,37,98.89,Motorcycles,3658.93,sales_data_sample.csv
+2004-09-16,S32_1374,26,100.0,Motorcycles,2600.0,sales_data_sample.csv
+2004-10-15,S32_1374,24,79.91,Motorcycles,1917.84,sales_data_sample.csv
+2004-11-02,S32_1374,47,100.0,Motorcycles,4700.0,sales_data_sample.csv
+2004-11-15,S32_1374,45,63.91,Motorcycles,2875.95,sales_data_sample.csv
+2004-11-24,S32_1374,55,100.0,Motorcycles,5500.0,sales_data_sample.csv
+2004-12-04,S32_1374,46,81.17,Motorcycles,3733.82,sales_data_sample.csv
+2005-01-06,S32_1374,50,100.0,Motorcycles,5000.0,sales_data_sample.csv
+2005-02-03,S32_1374,37,100.0,Motorcycles,3700.0,sales_data_sample.csv
+2005-03-02,S32_1374,44,94.9,Motorcycles,4175.6,sales_data_sample.csv
+2005-05-10,S32_1374,45,100.0,Motorcycles,4500.0,sales_data_sample.csv
+2003-03-03,S32_2206,27,43.45,Motorcycles,1173.15,sales_data_sample.csv
+2003-05-08,S32_2206,31,44.66,Motorcycles,1384.4599999999998,sales_data_sample.csv
+2003-07-02,S32_2206,33,40.23,Motorcycles,1327.59,sales_data_sample.csv
+2003-08-25,S32_2206,31,35.8,Motorcycles,1109.8,sales_data_sample.csv
+2003-10-10,S32_2206,35,35.4,Motorcycles,1239.0,sales_data_sample.csv
+2003-11-04,S32_2206,26,39.83,Motorcycles,1035.58,sales_data_sample.csv
+2003-11-11,S32_2206,34,45.46,Motorcycles,1545.64,sales_data_sample.csv
+2003-11-19,S32_2206,46,32.99,Motorcycles,1517.5400000000002,sales_data_sample.csv
+2004-01-15,S32_2206,41,42.24,Motorcycles,1731.8400000000001,sales_data_sample.csv
+2004-02-21,S32_2206,43,39.43,Motorcycles,1695.49,sales_data_sample.csv
+2004-04-05,S32_2206,26,40.23,Motorcycles,1045.98,sales_data_sample.csv
+2004-05-26,S32_2206,36,48.28,Motorcycles,1738.08,sales_data_sample.csv
+2004-06-30,S32_2206,20,32.59,Motorcycles,651.8000000000001,sales_data_sample.csv
+2004-08-02,S32_2206,27,36.61,Motorcycles,988.47,sales_data_sample.csv
+2004-08-27,S32_2206,37,41.03,Motorcycles,1518.1100000000001,sales_data_sample.csv
+2004-09-30,S32_2206,24,42.24,Motorcycles,1013.76,sales_data_sample.csv
+2004-10-16,S32_2206,36,43.05,Motorcycles,1549.8,sales_data_sample.csv
+2004-11-03,S32_2206,29,38.22,Motorcycles,1108.3799999999999,sales_data_sample.csv
+2004-11-17,S32_2206,28,100.0,Motorcycles,2800.0,sales_data_sample.csv
+2004-11-24,S32_2206,29,100.0,Motorcycles,2900.0,sales_data_sample.csv
+2004-12-07,S32_2206,38,39.83,Motorcycles,1513.54,sales_data_sample.csv
+2005-01-06,S32_2206,48,48.28,Motorcycles,2317.44,sales_data_sample.csv
+2005-02-10,S32_2206,40,82.46,Motorcycles,3298.3999999999996,sales_data_sample.csv
+2005-03-04,S32_2206,41,44.56,Motorcycles,1826.96,sales_data_sample.csv
+2005-04-08,S32_2206,30,40.23,Motorcycles,1206.8999999999999,sales_data_sample.csv
+2003-01-31,S32_2509,35,47.62,Trucks and Buses,1666.6999999999998,sales_data_sample.csv
+2003-04-01,S32_2509,28,55.73,Trucks and Buses,1560.4399999999998,sales_data_sample.csv
+2003-06-03,S32_2509,45,51.95,Trucks and Buses,2337.75,sales_data_sample.csv
+2003-08-01,S32_2509,24,45.99,Trucks and Buses,1103.76,sales_data_sample.csv
+2003-09-21,S32_2509,41,63.85,Trucks and Buses,2617.85,sales_data_sample.csv
+2003-10-22,S32_2509,48,45.99,Trucks and Buses,2207.52,sales_data_sample.csv
+2003-11-06,S32_2509,50,63.31,Trucks and Buses,3165.5,sales_data_sample.csv
+2003-11-14,S32_2509,33,62.77,Trucks and Buses,2071.4100000000003,sales_data_sample.csv
+2003-11-25,S32_2509,32,43.29,Trucks and Buses,1385.28,sales_data_sample.csv
+2003-12-09,S32_2509,27,60.06,Trucks and Buses,1621.6200000000001,sales_data_sample.csv
+2004-02-10,S32_2509,35,55.19,Trucks and Buses,1931.6499999999999,sales_data_sample.csv
+2004-03-11,S32_2509,23,54.11,Trucks and Buses,1244.53,sales_data_sample.csv
+2004-05-05,S32_2509,35,48.7,Trucks and Buses,1704.5,sales_data_sample.csv
+2004-06-15,S32_2509,40,43.83,Trucks and Buses,1753.1999999999998,sales_data_sample.csv
+2004-07-20,S32_2509,35,47.62,Trucks and Buses,1666.6999999999998,sales_data_sample.csv
+2004-08-19,S32_2509,31,55.19,Trucks and Buses,1710.8899999999999,sales_data_sample.csv
+2004-09-08,S32_2509,50,46.53,Trucks and Buses,2326.5,sales_data_sample.csv
+2004-10-13,S32_2509,40,57.9,Trucks and Buses,2316.0,sales_data_sample.csv
+2004-10-22,S32_2509,38,45.45,Trucks and Buses,1727.1000000000001,sales_data_sample.csv
+2004-11-05,S32_2509,38,100.0,Trucks and Buses,3800.0,sales_data_sample.csv
+2004-11-19,S32_2509,40,60.6,Trucks and Buses,2424.0,sales_data_sample.csv
+2004-12-01,S32_2509,33,46.53,Trucks and Buses,1535.49,sales_data_sample.csv
+2004-12-15,S32_2509,36,100.0,Trucks and Buses,3600.0,sales_data_sample.csv
+2005-01-23,S32_2509,20,66.47,Trucks and Buses,1329.4,sales_data_sample.csv
+2005-02-22,S32_2509,32,53.18,Trucks and Buses,1701.76,sales_data_sample.csv
+2005-03-15,S32_2509,36,62.77,Trucks and Buses,2259.7200000000003,sales_data_sample.csv
+2005-05-03,S32_2509,19,48.7,Trucks and Buses,925.3000000000001,sales_data_sample.csv
+2003-01-31,S32_3207,49,65.87,Trains,3227.63,sales_data_sample.csv
+2003-04-11,S32_3207,27,63.38,Trains,1711.26,sales_data_sample.csv
+2003-06-03,S32_3207,29,70.84,Trains,2054.36,sales_data_sample.csv
+2003-08-08,S32_3207,42,74.57,Trains,3131.9399999999996,sales_data_sample.csv
+2003-09-25,S32_3207,33,50.95,Trains,1681.3500000000001,sales_data_sample.csv
+2003-10-22,S32_3207,44,53.44,Trains,2351.3599999999997,sales_data_sample.csv
+2003-11-06,S32_3207,22,64.0,Trains,1408.0,sales_data_sample.csv
+2003-11-14,S32_3207,48,50.95,Trains,2445.6000000000004,sales_data_sample.csv
+2003-11-25,S32_3207,33,54.68,Trains,1804.44,sales_data_sample.csv
+2003-12-09,S32_3207,45,56.55,Trains,2544.75,sales_data_sample.csv
+2004-02-12,S32_3207,20,52.82,Trains,1056.4,sales_data_sample.csv
+2004-03-15,S32_3207,46,60.9,Trains,2801.4,sales_data_sample.csv
+2004-05-05,S32_3207,40,49.71,Trains,1988.4,sales_data_sample.csv
+2004-07-20,S32_3207,45,64.63,Trains,2908.35,sales_data_sample.csv
+2004-08-20,S32_3207,36,59.65,Trains,2147.4,sales_data_sample.csv
+2004-09-08,S32_3207,31,67.73,Trains,2099.63,sales_data_sample.csv
+2004-10-14,S32_3207,46,50.33,Trains,2315.18,sales_data_sample.csv
+2004-10-22,S32_3207,35,66.49,Trains,2327.1499999999996,sales_data_sample.csv
+2004-11-05,S32_3207,28,100.0,Trains,2800.0,sales_data_sample.csv
+2004-11-20,S32_3207,31,84.71,Trains,2626.0099999999998,sales_data_sample.csv
+2004-12-02,S32_3207,27,100.0,Trains,2700.0,sales_data_sample.csv
+2004-12-15,S32_3207,22,100.0,Trains,2200.0,sales_data_sample.csv
+2005-01-23,S32_3207,30,99.55,Trains,2986.5,sales_data_sample.csv
+2005-02-22,S32_3207,44,36.07,Trains,1587.08,sales_data_sample.csv
+2005-03-15,S32_3207,30,60.28,Trains,1808.4,sales_data_sample.csv
+2005-05-05,S32_3207,24,49.71,Trains,1193.04,sales_data_sample.csv
+2003-01-29,S32_3522,45,75.63,Trucks and Buses,3403.35,sales_data_sample.csv
+2003-03-26,S32_3522,23,68.52,Trucks and Buses,1575.9599999999998,sales_data_sample.csv
+2003-05-28,S32_3522,26,62.7,Trucks and Buses,1630.2,sales_data_sample.csv
+2003-07-24,S32_3522,28,60.76,Trucks and Buses,1701.28,sales_data_sample.csv
+2003-09-19,S32_3522,49,58.18,Trucks and Buses,2850.82,sales_data_sample.csv
+2003-10-21,S32_3522,49,54.94,Trucks and Buses,2692.06,sales_data_sample.csv
+2003-11-06,S32_3522,29,74.98,Trucks and Buses,2174.42,sales_data_sample.csv
+2003-11-13,S32_3522,49,64.64,Trucks and Buses,3167.36,sales_data_sample.csv
+2003-11-25,S32_3522,39,54.94,Trucks and Buses,2142.66,sales_data_sample.csv
+2003-12-05,S32_3522,36,58.82,Trucks and Buses,2117.52,sales_data_sample.csv
+2004-02-04,S32_3522,39,62.05,Trucks and Buses,2419.95,sales_data_sample.csv
+2004-03-11,S32_3522,30,73.04,Trucks and Buses,2191.2000000000003,sales_data_sample.csv
+2004-05-04,S32_3522,44,69.16,Trucks and Buses,3043.04,sales_data_sample.csv
+2004-06-15,S32_3522,20,61.41,Trucks and Buses,1228.1999999999998,sales_data_sample.csv
+2004-07-19,S32_3522,21,63.35,Trucks and Buses,1330.3500000000001,sales_data_sample.csv
+2004-08-19,S32_3522,36,77.57,Trucks and Buses,2792.5199999999995,sales_data_sample.csv
+2004-09-08,S32_3522,32,71.75,Trucks and Buses,2296.0,sales_data_sample.csv
+2004-10-11,S32_3522,36,73.04,Trucks and Buses,2629.44,sales_data_sample.csv
+2004-10-22,S32_3522,34,56.24,Trucks and Buses,1912.16,sales_data_sample.csv
+2004-11-05,S32_3522,48,100.0,Trucks and Buses,4800.0,sales_data_sample.csv
+2004-11-18,S32_3522,33,73.69,Trucks and Buses,2431.77,sales_data_sample.csv
+2004-11-01,S32_3522,31,100.0,Trucks and Buses,3100.0,sales_data_sample.csv
+2004-12-10,S32_3522,36,100.0,Trucks and Buses,3600.0,sales_data_sample.csv
+2005-01-20,S32_3522,25,100.0,Trucks and Buses,2500.0,sales_data_sample.csv
+2005-02-17,S32_3522,48,100.0,Trucks and Buses,4800.0,sales_data_sample.csv
+2005-05-01,S32_3522,27,69.16,Trucks and Buses,1867.32,sales_data_sample.csv
+2003-02-17,S32_4289,33,72.92,Vintage Cars,2406.36,sales_data_sample.csv
+2003-04-29,S32_4289,29,72.23,Vintage Cars,2094.67,sales_data_sample.csv
+2003-06-27,S32_4289,49,57.1,Vintage Cars,2797.9,sales_data_sample.csv
+2003-08-13,S32_4289,20,81.86,Vintage Cars,1637.2,sales_data_sample.csv
+2003-10-28,S32_4289,31,73.61,Vintage Cars,2281.91,sales_data_sample.csv
+2004-01-12,S32_4289,39,59.16,Vintage Cars,2307.24,sales_data_sample.csv
+2004-02-20,S32_4289,20,66.04,Vintage Cars,1320.8000000000002,sales_data_sample.csv
+2004-04-02,S32_4289,34,77.73,Vintage Cars,2642.82,sales_data_sample.csv
+2004-05-11,S32_4289,50,61.22,Vintage Cars,3061.0,sales_data_sample.csv
+2004-07-23,S32_4289,28,63.97,Vintage Cars,1791.1599999999999,sales_data_sample.csv
+2004-08-21,S32_4289,50,81.86,Vintage Cars,4093.0,sales_data_sample.csv
+2004-09-16,S32_4289,28,79.8,Vintage Cars,2234.4,sales_data_sample.csv
+2004-10-15,S32_4289,46,66.04,Vintage Cars,3037.84,sales_data_sample.csv
+2004-11-01,S32_4289,24,59.16,Vintage Cars,1419.84,sales_data_sample.csv
+2004-11-12,S32_4289,24,81.17,Vintage Cars,1948.08,sales_data_sample.csv
+2004-11-24,S32_4289,39,59.16,Vintage Cars,2307.24,sales_data_sample.csv
+2004-12-04,S32_4289,40,44.51,Vintage Cars,1780.3999999999999,sales_data_sample.csv
+2004-12-17,S32_4289,49,72.33,Vintage Cars,3544.17,sales_data_sample.csv
+2005-02-03,S32_4289,44,82.26,Vintage Cars,3619.44,sales_data_sample.csv
+2005-03-03,S32_4289,35,100.0,Vintage Cars,3500.0,sales_data_sample.csv
+2005-03-30,S32_4289,22,67.41,Vintage Cars,1483.02,sales_data_sample.csv
+2005-05-10,S32_4289,26,61.22,Vintage Cars,1591.72,sales_data_sample.csv
+2003-03-03,S32_4485,31,100.0,Motorcycles,3100.0,sales_data_sample.csv
+2003-05-07,S32_4485,25,86.74,Motorcycles,2168.5,sales_data_sample.csv
+2003-07-02,S32_4485,30,89.8,Motorcycles,2694.0,sales_data_sample.csv
+2003-08-25,S32_4485,27,100.0,Motorcycles,2700.0,sales_data_sample.csv
+2003-10-10,S32_4485,23,100.0,Motorcycles,2300.0,sales_data_sample.csv
+2003-11-04,S32_4485,34,100.0,Motorcycles,3400.0,sales_data_sample.csv
+2003-11-11,S32_4485,22,100.0,Motorcycles,2200.0,sales_data_sample.csv
+2003-11-19,S32_4485,42,85.72,Motorcycles,3600.24,sales_data_sample.csv
+2004-01-15,S32_4485,37,100.0,Motorcycles,3700.0,sales_data_sample.csv
+2004-02-21,S32_4485,30,100.0,Motorcycles,3000.0,sales_data_sample.csv
+2004-04-05,S32_4485,27,100.0,Motorcycles,2700.0,sales_data_sample.csv
+2004-05-26,S32_4485,25,100.0,Motorcycles,2500.0,sales_data_sample.csv
+2004-06-30,S32_4485,34,97.97,Motorcycles,3330.98,sales_data_sample.csv
+2004-08-02,S32_4485,38,100.0,Motorcycles,3800.0,sales_data_sample.csv
+2004-08-27,S32_4485,26,100.0,Motorcycles,2600.0,sales_data_sample.csv
+2004-09-30,S32_4485,38,100.0,Motorcycles,3800.0,sales_data_sample.csv
+2004-10-15,S32_4485,50,84.7,Motorcycles,4235.0,sales_data_sample.csv
+2004-11-03,S32_4485,22,100.0,Motorcycles,2200.0,sales_data_sample.csv
+2004-11-17,S32_4485,32,100.0,Motorcycles,3200.0,sales_data_sample.csv
+2004-11-24,S32_4485,31,71.02,Motorcycles,2201.62,sales_data_sample.csv
+2004-12-07,S32_4485,40,100.0,Motorcycles,4000.0,sales_data_sample.csv
+2005-01-07,S32_4485,22,100.0,Motorcycles,2200.0,sales_data_sample.csv
+2005-02-03,S32_4485,41,100.0,Motorcycles,4100.0,sales_data_sample.csv
+2005-03-04,S32_4485,45,48.98,Motorcycles,2204.1,sales_data_sample.csv
+2005-04-08,S32_4485,45,100.0,Motorcycles,4500.0,sales_data_sample.csv
+2003-02-17,S50_1341,39,40.15,Vintage Cars,1565.85,sales_data_sample.csv
+2003-04-29,S50_1341,49,50.62,Vintage Cars,2480.3799999999997,sales_data_sample.csv
+2003-06-27,S50_1341,27,50.19,Vintage Cars,1355.1299999999999,sales_data_sample.csv
+2003-08-10,S50_1341,34,36.66,Vintage Cars,1246.4399999999998,sales_data_sample.csv
+2003-10-08,S50_1341,20,41.02,Vintage Cars,820.4000000000001,sales_data_sample.csv
+2003-10-28,S50_1341,48,51.93,Vintage Cars,2492.64,sales_data_sample.csv
+2003-12-01,S50_1341,29,38.4,Vintage Cars,1113.6,sales_data_sample.csv
+2004-01-12,S50_1341,43,41.02,Vintage Cars,1763.8600000000001,sales_data_sample.csv
+2004-02-20,S50_1341,41,46.26,Vintage Cars,1896.6599999999999,sales_data_sample.csv
+2004-04-02,S50_1341,41,35.35,Vintage Cars,1449.3500000000001,sales_data_sample.csv
+2004-05-11,S50_1341,36,51.93,Vintage Cars,1869.48,sales_data_sample.csv
+2004-07-23,S50_1341,38,45.39,Vintage Cars,1724.82,sales_data_sample.csv
+2004-08-21,S50_1341,33,51.93,Vintage Cars,1713.69,sales_data_sample.csv
+2004-09-15,S50_1341,26,48.44,Vintage Cars,1259.44,sales_data_sample.csv
+2004-10-15,S50_1341,47,43.64,Vintage Cars,2051.08,sales_data_sample.csv
+2004-11-01,S50_1341,34,47.57,Vintage Cars,1617.38,sales_data_sample.csv
+2004-11-12,S50_1341,34,51.93,Vintage Cars,1765.62,sales_data_sample.csv
+2004-11-24,S50_1341,40,50.62,Vintage Cars,2024.8,sales_data_sample.csv
+2004-12-04,S50_1341,40,82.21,Vintage Cars,3288.3999999999996,sales_data_sample.csv
+2004-12-17,S50_1341,33,82.59,Vintage Cars,2725.4700000000003,sales_data_sample.csv
+2005-02-03,S50_1341,49,65.8,Vintage Cars,3224.2,sales_data_sample.csv
+2005-03-03,S50_1341,27,100.0,Vintage Cars,2700.0,sales_data_sample.csv
+2005-03-30,S50_1341,49,36.66,Vintage Cars,1796.34,sales_data_sample.csv
+2005-05-10,S50_1341,37,51.93,Vintage Cars,1921.41,sales_data_sample.csv
+2003-01-31,S50_1392,33,100.0,Trucks and Buses,3300.0,sales_data_sample.csv
+2003-04-04,S50_1392,27,100.0,Trucks and Buses,2700.0,sales_data_sample.csv
+2003-06-03,S50_1392,46,100.0,Trucks and Buses,4600.0,sales_data_sample.csv
+2003-08-01,S50_1392,44,100.0,Trucks and Buses,4400.0,sales_data_sample.csv
+2003-09-21,S50_1392,26,100.0,Trucks and Buses,2600.0,sales_data_sample.csv
+2003-10-22,S50_1392,48,94.92,Trucks and Buses,4556.16,sales_data_sample.csv
+2003-11-06,S50_1392,23,100.0,Trucks and Buses,2300.0,sales_data_sample.csv
+2003-11-14,S50_1392,45,100.0,Trucks and Buses,4500.0,sales_data_sample.csv
+2003-11-25,S50_1392,49,100.0,Trucks and Buses,4900.0,sales_data_sample.csv
+2003-12-09,S50_1392,28,94.92,Trucks and Buses,2657.76,sales_data_sample.csv
+2004-02-12,S50_1392,37,100.0,Trucks and Buses,3700.0,sales_data_sample.csv
+2004-03-15,S50_1392,34,100.0,Trucks and Buses,3400.0,sales_data_sample.csv
+2004-05-05,S50_1392,22,100.0,Trucks and Buses,2200.0,sales_data_sample.csv
+2004-06-15,S50_1392,29,100.0,Trucks and Buses,2900.0,sales_data_sample.csv
+2004-07-20,S50_1392,34,98.39,Trucks and Buses,3345.26,sales_data_sample.csv
+2004-08-20,S50_1392,38,100.0,Trucks and Buses,3800.0,sales_data_sample.csv
+2004-09-08,S50_1392,41,100.0,Trucks and Buses,4100.0,sales_data_sample.csv
+2004-10-13,S50_1392,42,100.0,Trucks and Buses,4200.0,sales_data_sample.csv
+2004-10-22,S50_1392,28,100.0,Trucks and Buses,2800.0,sales_data_sample.csv
+2004-11-05,S50_1392,38,100.0,Trucks and Buses,3800.0,sales_data_sample.csv
+2004-11-20,S50_1392,23,100.0,Trucks and Buses,2300.0,sales_data_sample.csv
+2004-12-02,S50_1392,31,71.4,Trucks and Buses,2213.4,sales_data_sample.csv
+2004-12-15,S50_1392,46,100.0,Trucks and Buses,4600.0,sales_data_sample.csv
+2005-01-23,S50_1392,48,56.55,Trucks and Buses,2714.3999999999996,sales_data_sample.csv
+2005-02-22,S50_1392,29,100.0,Trucks and Buses,2900.0,sales_data_sample.csv
+2005-03-17,S50_1392,46,100.0,Trucks and Buses,4600.0,sales_data_sample.csv
+2005-05-03,S50_1392,26,100.0,Trucks and Buses,2600.0,sales_data_sample.csv
+2003-01-31,S50_1514,32,53.31,Trains,1705.92,sales_data_sample.csv
+2003-04-16,S50_1514,21,49.21,Trains,1033.41,sales_data_sample.csv
+2003-06-03,S50_1514,46,69.12,Trains,3179.5200000000004,sales_data_sample.csv
+2003-08-08,S50_1514,42,49.79,Trains,2091.18,sales_data_sample.csv
+2003-09-28,S50_1514,31,57.41,Trains,1779.7099999999998,sales_data_sample.csv
+2003-10-22,S50_1514,38,66.78,Trains,2537.64,sales_data_sample.csv
+2003-11-06,S50_1514,38,64.44,Trains,2448.72,sales_data_sample.csv
+2003-11-14,S50_1514,20,48.62,Trains,972.4,sales_data_sample.csv
+2003-11-26,S50_1514,46,62.09,Trains,2856.1400000000003,sales_data_sample.csv
+2004-01-02,S50_1514,30,65.61,Trains,1968.3,sales_data_sample.csv
+2004-02-12,S50_1514,30,68.54,Trains,2056.2000000000003,sales_data_sample.csv
+2004-03-15,S50_1514,43,52.14,Trains,2242.02,sales_data_sample.csv
+2004-05-05,S50_1514,49,63.85,Trains,3128.65,sales_data_sample.csv
+2004-07-20,S50_1514,43,56.82,Trains,2443.26,sales_data_sample.csv
+2004-08-20,S50_1514,37,66.78,Trains,2470.86,sales_data_sample.csv
+2004-09-08,S50_1514,35,55.07,Trains,1927.45,sales_data_sample.csv
+2004-10-14,S50_1514,34,60.34,Trains,2051.56,sales_data_sample.csv
+2004-10-22,S50_1514,38,61.51,Trains,2337.38,sales_data_sample.csv
+2004-11-05,S50_1514,44,100.0,Trains,4400.0,sales_data_sample.csv
+2004-11-21,S50_1514,21,100.0,Trains,2100.0,sales_data_sample.csv
+2004-12-02,S50_1514,44,100.0,Trains,4400.0,sales_data_sample.csv
+2004-12-15,S50_1514,25,64.93,Trains,1623.2500000000002,sales_data_sample.csv
+2005-01-26,S50_1514,24,58.58,Trains,1405.92,sales_data_sample.csv
+2005-02-22,S50_1514,38,60.06,Trains,2282.28,sales_data_sample.csv
+2005-03-17,S50_1514,45,100.0,Trains,4500.0,sales_data_sample.csv
+2005-05-05,S50_1514,51,63.85,Trains,3256.35,sales_data_sample.csv
+2003-03-03,S50_4713,34,82.99,Motorcycles,2821.66,sales_data_sample.csv
+2003-05-07,S50_4713,44,74.85,Motorcycles,3293.3999999999996,sales_data_sample.csv
+2003-07-02,S50_4713,44,96.0,Motorcycles,4224.0,sales_data_sample.csv
+2003-08-25,S50_4713,38,81.36,Motorcycles,3091.68,sales_data_sample.csv
+2003-10-10,S50_4713,31,71.6,Motorcycles,2219.6,sales_data_sample.csv
+2003-11-04,S50_4713,48,80.55,Motorcycles,3866.3999999999996,sales_data_sample.csv
+2003-11-11,S50_4713,21,93.56,Motorcycles,1964.76,sales_data_sample.csv
+2003-11-19,S50_4713,40,66.72,Motorcycles,2668.8,sales_data_sample.csv
+2004-01-15,S50_4713,40,80.55,Motorcycles,3222.0,sales_data_sample.csv
+2004-02-21,S50_4713,50,77.29,Motorcycles,3864.5000000000005,sales_data_sample.csv
+2004-04-05,S50_4713,20,68.34,Motorcycles,1366.8000000000002,sales_data_sample.csv
+2004-05-26,S50_4713,48,72.41,Motorcycles,3475.68,sales_data_sample.csv
+2004-06-30,S50_4713,47,89.5,Motorcycles,4206.5,sales_data_sample.csv
+2004-08-02,S50_4713,21,70.78,Motorcycles,1486.38,sales_data_sample.csv
+2004-08-27,S50_4713,39,78.92,Motorcycles,3077.88,sales_data_sample.csv
+2004-09-30,S50_4713,44,80.55,Motorcycles,3544.2,sales_data_sample.csv
+2004-10-15,S50_4713,28,88.68,Motorcycles,2483.04,sales_data_sample.csv
+2004-11-03,S50_4713,45,77.29,Motorcycles,3478.05,sales_data_sample.csv
+2004-11-17,S50_4713,20,100.0,Motorcycles,2000.0,sales_data_sample.csv
+2004-11-24,S50_4713,38,100.0,Motorcycles,3800.0,sales_data_sample.csv
+2004-12-09,S50_4713,26,100.0,Motorcycles,2600.0,sales_data_sample.csv
+2005-01-07,S50_4713,44,100.0,Motorcycles,4400.0,sales_data_sample.csv
+2005-02-03,S50_4713,49,100.0,Motorcycles,4900.0,sales_data_sample.csv
+2005-03-04,S50_4713,22,100.0,Motorcycles,2200.0,sales_data_sample.csv
+2005-04-08,S50_4713,31,68.34,Motorcycles,2118.54,sales_data_sample.csv
+2003-02-11,S700_1138,41,70.67,Ships,2897.4700000000003,sales_data_sample.csv
+2003-04-28,S700_1138,25,76.67,Ships,1916.75,sales_data_sample.csv
+2003-06-12,S700_1138,31,60.0,Ships,1860.0,sales_data_sample.csv
+2003-08-08,S700_1138,41,64.0,Ships,2624.0,sales_data_sample.csv
+2003-09-28,S700_1138,43,64.67,Ships,2780.81,sales_data_sample.csv
+2003-11-07,S700_1138,24,76.0,Ships,1824.0,sales_data_sample.csv
+2003-11-14,S700_1138,21,54.0,Ships,1134.0,sales_data_sample.csv
+2003-11-26,S700_1138,23,64.67,Ships,1487.41,sales_data_sample.csv
+2004-01-02,S700_1138,38,74.67,Ships,2837.46,sales_data_sample.csv
+2004-02-19,S700_1138,31,62.67,Ships,1942.77,sales_data_sample.csv
+2004-03-29,S700_1138,36,70.67,Ships,2544.12,sales_data_sample.csv
+2004-06-17,S700_1138,34,62.0,Ships,2108.0,sales_data_sample.csv
+2004-07-21,S700_1138,21,65.34,Ships,1372.14,sales_data_sample.csv
+2004-08-20,S700_1138,45,78.67,Ships,3540.15,sales_data_sample.csv
+2004-09-10,S700_1138,26,75.34,Ships,1958.8400000000001,sales_data_sample.csv
+2004-10-14,S700_1138,50,54.0,Ships,2700.0,sales_data_sample.csv
+2004-10-29,S700_1138,41,62.0,Ships,2542.0,sales_data_sample.csv
+2004-11-09,S700_1138,39,60.0,Ships,2340.0,sales_data_sample.csv
+2004-11-23,S700_1138,22,100.0,Ships,2200.0,sales_data_sample.csv
+2004-12-02,S700_1138,46,76.67,Ships,3526.82,sales_data_sample.csv
+2005-01-31,S700_1138,44,100.0,Ships,4400.0,sales_data_sample.csv
+2005-02-28,S700_1138,25,77.34,Ships,1933.5,sales_data_sample.csv
+2005-03-23,S700_1138,39,66.67,Ships,2600.13,sales_data_sample.csv
+2003-02-17,S700_1691,31,100.0,Planes,3100.0,sales_data_sample.csv
+2003-04-29,S700_1691,47,82.21,Planes,3863.87,sales_data_sample.csv
+2003-06-27,S700_1691,24,77.64,Planes,1863.3600000000001,sales_data_sample.csv
+2003-08-10,S700_1691,36,100.0,Planes,3600.0,sales_data_sample.csv
+2003-10-08,S700_1691,48,100.0,Planes,4800.0,sales_data_sample.csv
+2003-10-28,S700_1691,28,98.65,Planes,2762.2000000000003,sales_data_sample.csv
+2003-12-01,S700_1691,48,83.12,Planes,3989.76,sales_data_sample.csv
+2004-01-12,S700_1691,21,78.55,Planes,1649.55,sales_data_sample.csv
+2004-02-20,S700_1691,25,100.0,Planes,2500.0,sales_data_sample.csv
+2004-04-02,S700_1691,25,100.0,Planes,2500.0,sales_data_sample.csv
+2004-05-11,S700_1691,31,91.34,Planes,2831.54,sales_data_sample.csv
+2004-07-23,S700_1691,32,89.51,Planes,2864.32,sales_data_sample.csv
+2004-08-21,S700_1691,24,83.12,Planes,1994.88,sales_data_sample.csv
+2004-09-15,S700_1691,42,100.0,Planes,4200.0,sales_data_sample.csv
+2004-10-15,S700_1691,21,100.0,Planes,2100.0,sales_data_sample.csv
+2004-11-01,S700_1691,34,82.21,Planes,2795.14,sales_data_sample.csv
+2004-11-12,S700_1691,27,100.0,Planes,2700.0,sales_data_sample.csv
+2004-11-24,S700_1691,30,88.6,Planes,2658.0,sales_data_sample.csv
+2004-12-04,S700_1691,39,100.0,Planes,3900.0,sales_data_sample.csv
+2004-12-17,S700_1691,20,60.54,Planes,1210.8,sales_data_sample.csv
+2005-02-03,S700_1691,37,81.87,Planes,3029.19,sales_data_sample.csv
+2005-03-03,S700_1691,46,100.0,Planes,4600.0,sales_data_sample.csv
+2005-03-30,S700_1691,47,87.69,Planes,4121.43,sales_data_sample.csv
+2005-05-10,S700_1691,23,91.34,Planes,2100.82,sales_data_sample.csv
+2003-02-11,S700_1938,29,70.15,Ships,2034.3500000000001,sales_data_sample.csv
+2003-04-16,S700_1938,38,79.68,Ships,3027.84,sales_data_sample.csv
+2003-06-06,S700_1938,32,97.0,Ships,3104.0,sales_data_sample.csv
+2003-08-08,S700_1938,43,84.01,Ships,3612.4300000000003,sales_data_sample.csv
+2003-09-28,S700_1938,31,87.48,Ships,2711.88,sales_data_sample.csv
+2003-10-21,S700_1938,29,100.0,Ships,2900.0,sales_data_sample.csv
+2003-11-07,S700_1938,31,88.34,Ships,2738.54,sales_data_sample.csv
+2003-11-14,S700_1938,30,94.4,Ships,2832.0,sales_data_sample.csv
+2003-11-26,S700_1938,50,94.4,Ships,4720.0,sales_data_sample.csv
+2004-01-02,S700_1938,40,80.55,Ships,3222.0,sales_data_sample.csv
+2004-02-18,S700_1938,23,97.0,Ships,2231.0,sales_data_sample.csv
+2004-03-20,S700_1938,26,88.34,Ships,2296.84,sales_data_sample.csv
+2004-07-21,S700_1938,21,100.0,Ships,2100.0,sales_data_sample.csv
+2004-08-20,S700_1938,43,86.61,Ships,3724.23,sales_data_sample.csv
+2004-09-09,S700_1938,29,71.89,Ships,2084.81,sales_data_sample.csv
+2004-10-14,S700_1938,38,91.81,Ships,3488.78,sales_data_sample.csv
+2004-10-22,S700_1938,23,76.22,Ships,1753.06,sales_data_sample.csv
+2004-11-10,S700_1938,20,100.0,Ships,2000.0,sales_data_sample.csv
+2004-11-21,S700_1938,36,70.3,Ships,2530.7999999999997,sales_data_sample.csv
+2004-12-02,S700_1938,28,100.0,Ships,2800.0,sales_data_sample.csv
+2005-01-26,S700_1938,44,100.0,Ships,4400.0,sales_data_sample.csv
+2005-02-23,S700_1938,49,100.0,Ships,4900.0,sales_data_sample.csv
+2005-03-28,S700_1938,32,80.55,Ships,2577.6,sales_data_sample.csv
+2003-02-17,S700_2047,30,100.0,Ships,3000.0,sales_data_sample.csv
+2003-04-28,S700_2047,29,94.14,Ships,2730.06,sales_data_sample.csv
+2003-06-16,S700_2047,22,85.99,Ships,1891.78,sales_data_sample.csv
+2003-08-10,S700_2047,26,100.0,Ships,2600.0,sales_data_sample.csv
+2003-10-06,S700_2047,32,91.43,Ships,2925.76,sales_data_sample.csv
+2003-11-08,S700_2047,34,96.86,Ships,3293.24,sales_data_sample.csv
+2003-11-14,S700_2047,24,99.57,Ships,2389.68,sales_data_sample.csv
+2003-11-26,S700_2047,24,90.52,Ships,2172.48,sales_data_sample.csv
+2004-01-09,S700_2047,33,88.71,Ships,2927.43,sales_data_sample.csv
+2004-02-19,S700_2047,26,100.0,Ships,2600.0,sales_data_sample.csv
+2004-05-08,S700_2047,40,95.95,Ships,3838.0,sales_data_sample.csv
+2004-07-21,S700_2047,24,90.52,Ships,2172.48,sales_data_sample.csv
+2004-08-20,S700_2047,20,94.14,Ships,1882.8,sales_data_sample.csv
+2004-09-15,S700_2047,34,100.0,Ships,3400.0,sales_data_sample.csv
+2004-10-14,S700_2047,34,97.76,Ships,3323.84,sales_data_sample.csv
+2004-11-01,S700_2047,45,93.24,Ships,4195.8,sales_data_sample.csv
+2004-11-12,S700_2047,41,100.0,Ships,4100.0,sales_data_sample.csv
+2004-11-23,S700_2047,55,71.25,Ships,3918.75,sales_data_sample.csv
+2004-12-03,S700_2047,23,100.0,Ships,2300.0,sales_data_sample.csv
+2004-12-17,S700_2047,24,45.39,Ships,1089.3600000000001,sales_data_sample.csv
+2005-01-31,S700_2047,32,84.41,Ships,2701.12,sales_data_sample.csv
+2005-03-01,S700_2047,29,85.76,Ships,2487.04,sales_data_sample.csv
+2005-03-30,S700_2047,36,100.0,Ships,3600.0,sales_data_sample.csv
+2005-04-01,S700_2047,46,87.8,Ships,4038.7999999999997,sales_data_sample.csv
+2003-02-17,S700_2466,34,100.0,Planes,3400.0,sales_data_sample.csv
+2003-04-29,S700_2466,24,100.0,Planes,2400.0,sales_data_sample.csv
+2003-06-16,S700_2466,40,100.0,Planes,4000.0,sales_data_sample.csv
+2003-08-10,S700_2466,26,82.77,Planes,2152.02,sales_data_sample.csv
+2003-10-06,S700_2466,20,100.0,Planes,2000.0,sales_data_sample.csv
+2003-10-28,S700_2466,31,100.0,Planes,3100.0,sales_data_sample.csv
+2003-11-08,S700_2466,22,87.75,Planes,1930.5,sales_data_sample.csv
+2003-11-27,S700_2466,42,100.0,Planes,4200.0,sales_data_sample.csv
+2004-01-12,S700_2466,26,99.72,Planes,2592.72,sales_data_sample.csv
+2004-02-19,S700_2466,37,87.75,Planes,3246.75,sales_data_sample.csv
+2004-04-02,S700_2466,38,88.75,Planes,3372.5,sales_data_sample.csv
+2004-05-11,S700_2466,35,100.0,Planes,3500.0,sales_data_sample.csv
+2004-07-23,S700_2466,39,100.0,Planes,3900.0,sales_data_sample.csv
+2004-08-21,S700_2466,45,100.0,Planes,4500.0,sales_data_sample.csv
+2004-09-15,S700_2466,24,100.0,Planes,2400.0,sales_data_sample.csv
+2004-10-15,S700_2466,35,88.75,Planes,3106.25,sales_data_sample.csv
+2004-11-01,S700_2466,23,100.0,Planes,2300.0,sales_data_sample.csv
+2004-11-12,S700_2466,37,100.0,Planes,3700.0,sales_data_sample.csv
+2004-11-24,S700_2466,55,87.75,Planes,4826.25,sales_data_sample.csv
+2004-12-03,S700_2466,49,100.0,Planes,4900.0,sales_data_sample.csv
+2004-12-17,S700_2466,26,100.0,Planes,2600.0,sales_data_sample.csv
+2005-02-03,S700_2466,33,100.0,Planes,3300.0,sales_data_sample.csv
+2005-03-01,S700_2466,37,83.84,Planes,3102.08,sales_data_sample.csv
+2005-03-30,S700_2466,22,86.76,Planes,1908.72,sales_data_sample.csv
+2005-05-10,S700_2466,22,100.0,Planes,2200.0,sales_data_sample.csv
+2003-02-11,S700_2610,31,65.77,Ships,2038.87,sales_data_sample.csv
+2003-04-28,S700_2610,38,65.77,Ships,2499.2599999999998,sales_data_sample.csv
+2003-06-12,S700_2610,45,85.29,Ships,3838.05,sales_data_sample.csv
+2003-08-10,S700_2610,31,85.29,Ships,2643.9900000000002,sales_data_sample.csv
+2003-10-02,S700_2610,36,64.33,Ships,2315.88,sales_data_sample.csv
+2003-11-07,S700_2610,32,76.62,Ships,2451.84,sales_data_sample.csv
+2003-11-14,S700_2610,39,57.82,Ships,2254.98,sales_data_sample.csv
+2003-11-26,S700_2610,50,78.79,Ships,3939.5000000000005,sales_data_sample.csv
+2004-01-02,S700_2610,46,74.45,Ships,3424.7000000000003,sales_data_sample.csv
+2004-02-19,S700_2610,36,80.95,Ships,2914.2000000000003,sales_data_sample.csv
+2004-03-29,S700_2610,29,82.4,Ships,2389.6000000000004,sales_data_sample.csv
+2004-06-17,S700_2610,44,68.67,Ships,3021.48,sales_data_sample.csv
+2004-07-21,S700_2610,42,62.16,Ships,2610.72,sales_data_sample.csv
+2004-08-20,S700_2610,47,65.77,Ships,3091.1899999999996,sales_data_sample.csv
+2004-09-10,S700_2610,44,58.55,Ships,2576.2,sales_data_sample.csv
+2004-10-14,S700_2610,43,75.17,Ships,3232.31,sales_data_sample.csv
+2004-11-01,S700_2610,48,74.45,Ships,3573.6000000000004,sales_data_sample.csv
+2004-11-10,S700_2610,21,96.31,Ships,2022.51,sales_data_sample.csv
+2004-11-23,S700_2610,50,74.35,Ships,3717.4999999999995,sales_data_sample.csv
+2004-12-02,S700_2610,29,75.35,Ships,2185.1499999999996,sales_data_sample.csv
+2005-01-31,S700_2610,41,70.33,Ships,2883.5299999999997,sales_data_sample.csv
+2005-03-01,S700_2610,37,100.0,Ships,3700.0,sales_data_sample.csv
+2005-03-28,S700_2610,22,66.5,Ships,1463.0,sales_data_sample.csv
+2003-01-29,S700_2824,42,100.0,Classic Cars,4200.0,sales_data_sample.csv
+2003-04-01,S700_2824,42,100.0,Classic Cars,4200.0,sales_data_sample.csv
+2003-05-28,S700_2824,45,100.0,Classic Cars,4500.0,sales_data_sample.csv
+2003-07-24,S700_2824,36,100.0,Classic Cars,3600.0,sales_data_sample.csv
+2003-09-19,S700_2824,20,100.0,Classic Cars,2000.0,sales_data_sample.csv
+2003-10-21,S700_2824,39,81.93,Classic Cars,3195.2700000000004,sales_data_sample.csv
+2003-11-06,S700_2824,42,85.98,Classic Cars,3611.1600000000003,sales_data_sample.csv
+2003-11-13,S700_2824,23,86.99,Classic Cars,2000.77,sales_data_sample.csv
+2003-11-25,S700_2824,26,89.01,Classic Cars,2314.26,sales_data_sample.csv
+2003-12-05,S700_2824,33,100.0,Classic Cars,3300.0,sales_data_sample.csv
+2004-02-04,S700_2824,31,88.0,Classic Cars,2728.0,sales_data_sample.csv
+2004-03-11,S700_2824,50,100.0,Classic Cars,5000.0,sales_data_sample.csv
+2004-05-04,S700_2824,44,100.0,Classic Cars,4400.0,sales_data_sample.csv
+2004-06-15,S700_2824,45,80.92,Classic Cars,3641.4,sales_data_sample.csv
+2004-07-19,S700_2824,46,88.0,Classic Cars,4048.0,sales_data_sample.csv
+2004-08-19,S700_2824,27,85.98,Classic Cars,2321.46,sales_data_sample.csv
+2004-09-08,S700_2824,28,100.0,Classic Cars,2800.0,sales_data_sample.csv
+2004-10-11,S700_2824,40,100.0,Classic Cars,4000.0,sales_data_sample.csv
+2004-10-22,S700_2824,30,99.13,Classic Cars,2973.8999999999996,sales_data_sample.csv
+2004-11-05,S700_2824,34,100.0,Classic Cars,3400.0,sales_data_sample.csv
+2004-11-20,S700_2824,46,100.0,Classic Cars,4600.0,sales_data_sample.csv
+2004-11-01,S700_2824,32,82.83,Classic Cars,2650.56,sales_data_sample.csv
+2004-12-10,S700_2824,27,100.0,Classic Cars,2700.0,sales_data_sample.csv
+2005-01-23,S700_2824,34,100.0,Classic Cars,3400.0,sales_data_sample.csv
+2005-02-17,S700_2824,34,54.84,Classic Cars,1864.5600000000002,sales_data_sample.csv
+2005-05-01,S700_2824,34,100.0,Classic Cars,3400.0,sales_data_sample.csv
+2003-02-17,S700_2834,32,100.0,Planes,3200.0,sales_data_sample.csv
+2003-04-29,S700_2834,24,100.0,Planes,2400.0,sales_data_sample.csv
+2003-06-27,S700_2834,27,99.67,Planes,2691.09,sales_data_sample.csv
+2003-08-25,S700_2834,20,100.0,Planes,2000.0,sales_data_sample.csv
+2003-10-28,S700_2834,36,100.0,Planes,3600.0,sales_data_sample.csv
+2003-11-18,S700_2834,29,100.0,Planes,2900.0,sales_data_sample.csv
+2004-01-12,S700_2834,25,100.0,Planes,2500.0,sales_data_sample.csv
+2004-02-20,S700_2834,29,100.0,Planes,2900.0,sales_data_sample.csv
+2004-04-02,S700_2834,25,96.11,Planes,2402.75,sales_data_sample.csv
+2004-05-11,S700_2834,44,100.0,Planes,4400.0,sales_data_sample.csv
+2004-06-28,S700_2834,47,100.0,Planes,4700.0,sales_data_sample.csv
+2004-07-23,S700_2834,48,100.0,Planes,4800.0,sales_data_sample.csv
+2004-08-27,S700_2834,45,100.0,Planes,4500.0,sales_data_sample.csv
+2004-09-16,S700_2834,35,100.0,Planes,3500.0,sales_data_sample.csv
+2004-10-15,S700_2834,31,100.0,Planes,3100.0,sales_data_sample.csv
+2004-11-02,S700_2834,50,100.0,Planes,5000.0,sales_data_sample.csv
+2004-11-12,S700_2834,33,100.0,Planes,3300.0,sales_data_sample.csv
+2004-11-24,S700_2834,29,100.0,Planes,2900.0,sales_data_sample.csv
+2004-12-04,S700_2834,48,68.8,Planes,3302.3999999999996,sales_data_sample.csv
+2004-12-17,S700_2834,44,72.42,Planes,3186.48,sales_data_sample.csv
+2005-02-03,S700_2834,25,66.73,Planes,1668.25,sales_data_sample.csv
+2005-03-03,S700_2834,50,100.0,Planes,5000.0,sales_data_sample.csv
+2005-03-30,S700_2834,23,100.0,Planes,2300.0,sales_data_sample.csv
+2005-05-10,S700_2834,41,100.0,Planes,4100.0,sales_data_sample.csv
+2003-02-17,S700_3167,44,74.4,Planes,3273.6000000000004,sales_data_sample.csv
+2003-04-29,S700_3167,43,76.0,Planes,3268.0,sales_data_sample.csv
+2003-08-10,S700_3167,28,96.0,Planes,2688.0,sales_data_sample.csv
+2003-10-06,S700_3167,43,86.4,Planes,3715.2000000000003,sales_data_sample.csv
+2003-10-28,S700_3167,48,96.0,Planes,4608.0,sales_data_sample.csv
+2003-12-01,S700_3167,38,82.4,Planes,3131.2000000000003,sales_data_sample.csv
+2004-01-12,S700_3167,31,86.4,Planes,2678.4,sales_data_sample.csv
+2004-02-20,S700_3167,26,67.2,Planes,1747.2,sales_data_sample.csv
+2004-04-02,S700_3167,32,92.0,Planes,2944.0,sales_data_sample.csv
+2004-05-11,S700_3167,44,67.2,Planes,2956.8,sales_data_sample.csv
+2004-07-23,S700_3167,43,73.6,Planes,3164.7999999999997,sales_data_sample.csv
+2004-08-21,S700_3167,25,69.6,Planes,1739.9999999999998,sales_data_sample.csv
+2004-09-15,S700_3167,22,80.8,Planes,1777.6,sales_data_sample.csv
+2004-10-15,S700_3167,21,87.2,Planes,1831.2,sales_data_sample.csv
+2004-11-01,S700_3167,48,75.2,Planes,3609.6000000000004,sales_data_sample.csv
+2004-11-12,S700_3167,33,64.0,Planes,2112.0,sales_data_sample.csv
+2004-11-24,S700_3167,34,100.0,Planes,3400.0,sales_data_sample.csv
+2004-12-04,S700_3167,43,81.95,Planes,3523.85,sales_data_sample.csv
+2004-12-17,S700_3167,44,100.0,Planes,4400.0,sales_data_sample.csv
+2005-02-03,S700_3167,44,100.0,Planes,4400.0,sales_data_sample.csv
+2005-03-01,S700_3167,32,94.34,Planes,3018.88,sales_data_sample.csv
+2005-03-30,S700_3167,29,65.6,Planes,1902.3999999999999,sales_data_sample.csv
+2005-05-10,S700_3167,39,67.2,Planes,2620.8,sales_data_sample.csv
+2003-02-11,S700_3505,39,81.14,Ships,3164.46,sales_data_sample.csv
+2003-04-21,S700_3505,36,100.0,Ships,3600.0,sales_data_sample.csv
+2003-06-12,S700_3505,42,91.15,Ships,3828.3,sales_data_sample.csv
+2003-08-08,S700_3505,21,100.0,Ships,2100.0,sales_data_sample.csv
+2003-09-28,S700_3505,50,88.15,Ships,4407.5,sales_data_sample.csv
+2003-11-07,S700_3505,44,92.16,Ships,4055.04,sales_data_sample.csv
+2003-11-14,S700_3505,37,100.0,Ships,3700.0,sales_data_sample.csv
+2003-11-26,S700_3505,27,92.16,Ships,2488.3199999999997,sales_data_sample.csv
+2004-01-02,S700_3505,37,100.0,Ships,3700.0,sales_data_sample.csv
+2004-02-19,S700_3505,38,100.0,Ships,3800.0,sales_data_sample.csv
+2004-03-20,S700_3505,48,96.16,Ships,4615.68,sales_data_sample.csv
+2004-06-17,S700_3505,25,88.15,Ships,2203.75,sales_data_sample.csv
+2004-07-21,S700_3505,40,86.15,Ships,3446.0,sales_data_sample.csv
+2004-08-20,S700_3505,22,88.15,Ships,1939.3000000000002,sales_data_sample.csv
+2004-09-10,S700_3505,34,100.0,Ships,3400.0,sales_data_sample.csv
+2004-10-14,S700_3505,32,90.15,Ships,2884.8,sales_data_sample.csv
+2004-10-29,S700_3505,31,86.15,Ships,2670.65,sales_data_sample.csv
+2004-11-10,S700_3505,43,80.0,Ships,3440.0,sales_data_sample.csv
+2004-11-21,S700_3505,31,89.38,Ships,2770.7799999999997,sales_data_sample.csv
+2004-12-02,S700_3505,31,77.34,Ships,2397.54,sales_data_sample.csv
+2005-01-31,S700_3505,34,96.34,Ships,3275.56,sales_data_sample.csv
+2005-03-01,S700_3505,45,92.08,Ships,4143.6,sales_data_sample.csv
+2005-03-28,S700_3505,48,100.0,Ships,4800.0,sales_data_sample.csv
+2003-02-11,S700_3962,22,100.0,Ships,2200.0,sales_data_sample.csv
+2003-04-16,S700_3962,45,83.42,Ships,3753.9,sales_data_sample.csv
+2003-06-12,S700_3962,30,85.41,Ships,2562.2999999999997,sales_data_sample.csv
+2003-08-08,S700_3962,38,85.41,Ships,3245.58,sales_data_sample.csv
+2003-09-28,S700_3962,20,100.0,Ships,2000.0,sales_data_sample.csv
+2003-11-07,S700_3962,24,100.0,Ships,2400.0,sales_data_sample.csv
+2003-11-14,S700_3962,22,79.45,Ships,1747.9,sales_data_sample.csv
+2003-11-26,S700_3962,35,93.35,Ships,3267.25,sales_data_sample.csv
+2004-01-02,S700_3962,33,85.41,Ships,2818.5299999999997,sales_data_sample.csv
+2004-02-19,S700_3962,31,95.34,Ships,2955.54,sales_data_sample.csv
+2004-03-20,S700_3962,35,82.43,Ships,2885.05,sales_data_sample.csv
+2004-06-17,S700_3962,50,81.43,Ships,4071.5000000000005,sales_data_sample.csv
+2004-07-21,S700_3962,26,100.0,Ships,2600.0,sales_data_sample.csv
+2004-08-20,S700_3962,38,89.38,Ships,3396.4399999999996,sales_data_sample.csv
+2004-09-10,S700_3962,45,100.0,Ships,4500.0,sales_data_sample.csv
+2004-10-14,S700_3962,30,100.0,Ships,3000.0,sales_data_sample.csv
+2004-10-29,S700_3962,37,91.37,Ships,3380.69,sales_data_sample.csv
+2004-11-10,S700_3962,37,86.61,Ships,3204.57,sales_data_sample.csv
+2004-11-21,S700_3962,36,71.89,Ships,2588.04,sales_data_sample.csv
+2004-12-02,S700_3962,25,100.0,Ships,2500.0,sales_data_sample.csv
+2005-01-31,S700_3962,37,100.0,Ships,3700.0,sales_data_sample.csv
+2005-03-01,S700_3962,30,95.48,Ships,2864.4,sales_data_sample.csv
+2005-03-28,S700_3962,36,100.0,Ships,3600.0,sales_data_sample.csv
+2003-02-17,S700_4002,48,61.44,Planes,2949.12,sales_data_sample.csv
+2003-04-28,S700_4002,26,59.22,Planes,1539.72,sales_data_sample.csv
+2003-06-16,S700_4002,26,85.13,Planes,2213.38,sales_data_sample.csv
+2003-08-10,S700_4002,34,85.87,Planes,2919.58,sales_data_sample.csv
+2003-10-06,S700_4002,44,85.87,Planes,3778.28,sales_data_sample.csv
+2003-10-28,S700_4002,39,82.91,Planes,3233.49,sales_data_sample.csv
+2003-11-08,S700_4002,45,76.25,Planes,3431.25,sales_data_sample.csv
+2003-11-27,S700_4002,40,63.67,Planes,2546.8,sales_data_sample.csv
+2004-01-12,S700_4002,42,70.33,Planes,2953.86,sales_data_sample.csv
+2004-02-19,S700_4002,43,74.03,Planes,3183.29,sales_data_sample.csv
+2004-04-02,S700_4002,34,72.55,Planes,2466.7,sales_data_sample.csv
+2004-05-11,S700_4002,38,62.19,Planes,2363.22,sales_data_sample.csv
+2004-07-23,S700_4002,31,72.55,Planes,2249.0499999999997,sales_data_sample.csv
+2004-08-21,S700_4002,32,64.41,Planes,2061.12,sales_data_sample.csv
+2004-09-15,S700_4002,47,86.62,Planes,4071.1400000000003,sales_data_sample.csv
+2004-10-15,S700_4002,39,68.11,Planes,2656.29,sales_data_sample.csv
+2004-11-01,S700_4002,44,62.19,Planes,2736.3599999999997,sales_data_sample.csv
+2004-11-12,S700_4002,39,85.87,Planes,3348.9300000000003,sales_data_sample.csv
+2004-11-23,S700_4002,50,57.86,Planes,2893.0,sales_data_sample.csv
+2004-12-03,S700_4002,22,75.51,Planes,1661.22,sales_data_sample.csv
+2004-12-17,S700_4002,35,100.0,Planes,3500.0,sales_data_sample.csv
+2005-01-31,S700_4002,45,55.62,Planes,2502.9,sales_data_sample.csv
+2005-03-01,S700_4002,44,86.4,Planes,3801.6000000000004,sales_data_sample.csv
+2005-03-30,S700_4002,36,87.36,Planes,3144.96,sales_data_sample.csv
+2005-05-10,S700_4002,43,62.19,Planes,2674.17,sales_data_sample.csv
+2003-02-17,S72_1253,48,52.64,Planes,2526.7200000000003,sales_data_sample.csv
+2003-04-28,S72_1253,28,48.17,Planes,1348.76,sales_data_sample.csv
+2003-06-16,S72_1253,21,41.71,Planes,875.91,sales_data_sample.csv
+2003-08-10,S72_1253,37,50.65,Planes,1874.05,sales_data_sample.csv
+2003-10-06,S72_1253,34,49.16,Planes,1671.4399999999998,sales_data_sample.csv
+2003-11-08,S72_1253,45,51.15,Planes,2301.75,sales_data_sample.csv
+2003-11-14,S72_1253,28,52.14,Planes,1459.92,sales_data_sample.csv
+2003-11-26,S72_1253,29,41.71,Planes,1209.59,sales_data_sample.csv
+2004-01-09,S72_1253,48,44.69,Planes,2145.12,sales_data_sample.csv
+2004-02-19,S72_1253,31,45.69,Planes,1416.3899999999999,sales_data_sample.csv
+2004-05-08,S72_1253,32,57.61,Planes,1843.52,sales_data_sample.csv
+2004-07-21,S72_1253,32,58.6,Planes,1875.2,sales_data_sample.csv
+2004-08-20,S72_1253,43,57.61,Planes,2477.23,sales_data_sample.csv
+2004-09-15,S72_1253,21,45.19,Planes,948.99,sales_data_sample.csv
+2004-10-14,S72_1253,34,53.63,Planes,1823.42,sales_data_sample.csv
+2004-11-01,S72_1253,34,43.7,Planes,1485.8000000000002,sales_data_sample.csv
+2004-11-15,S72_1253,44,86.13,Planes,3789.72,sales_data_sample.csv
+2004-11-23,S72_1253,27,76.31,Planes,2060.37,sales_data_sample.csv
+2004-12-03,S72_1253,49,52.64,Planes,2579.36,sales_data_sample.csv
+2004-12-17,S72_1253,23,95.2,Planes,2189.6,sales_data_sample.csv
+2005-01-31,S72_1253,25,64.97,Planes,1624.25,sales_data_sample.csv
+2005-03-01,S72_1253,50,87.15,Planes,4357.5,sales_data_sample.csv
+2005-03-30,S72_1253,34,40.22,Planes,1367.48,sales_data_sample.csv
+2005-04-01,S72_1253,20,56.12,Planes,1122.3999999999999,sales_data_sample.csv
+2003-02-11,S72_3212,25,56.78,Ships,1419.5,sales_data_sample.csv
+2003-04-16,S72_3212,50,43.68,Ships,2184.0,sales_data_sample.csv
+2003-06-12,S72_3212,32,64.97,Ships,2079.04,sales_data_sample.csv
+2003-08-08,S72_3212,39,44.23,Ships,1724.9699999999998,sales_data_sample.csv
+2003-09-28,S72_3212,50,60.06,Ships,3003.0,sales_data_sample.csv
+2003-11-07,S72_3212,40,50.23,Ships,2009.1999999999998,sales_data_sample.csv
+2003-11-14,S72_3212,28,64.43,Ships,1804.0400000000002,sales_data_sample.csv
+2003-11-26,S72_3212,42,50.23,Ships,2109.66,sales_data_sample.csv
+2004-01-02,S72_3212,42,63.88,Ships,2682.96,sales_data_sample.csv
+2004-02-19,S72_3212,36,63.34,Ships,2280.2400000000002,sales_data_sample.csv
+2004-03-20,S72_3212,24,49.69,Ships,1192.56,sales_data_sample.csv
+2004-06-17,S72_3212,29,50.78,Ships,1472.6200000000001,sales_data_sample.csv
+2004-07-21,S72_3212,37,45.86,Ships,1696.82,sales_data_sample.csv
+2004-08-20,S72_3212,33,51.32,Ships,1693.56,sales_data_sample.csv
+2004-09-09,S72_3212,32,60.06,Ships,1921.92,sales_data_sample.csv
+2004-10-14,S72_3212,35,59.51,Ships,2082.85,sales_data_sample.csv
+2004-10-29,S72_3212,40,55.69,Ships,2227.6,sales_data_sample.csv
+2004-11-10,S72_3212,37,86.74,Ships,3209.3799999999997,sales_data_sample.csv
+2004-11-21,S72_3212,42,97.16,Ships,4080.72,sales_data_sample.csv
+2004-12-02,S72_3212,20,100.0,Ships,2000.0,sales_data_sample.csv
+2005-01-31,S72_3212,29,100.0,Ships,2900.0,sales_data_sample.csv
+2005-03-01,S72_3212,43,100.0,Ships,4300.0,sales_data_sample.csv
+2005-03-28,S72_3212,34,62.24,Ships,2116.16,sales_data_sample.csv
