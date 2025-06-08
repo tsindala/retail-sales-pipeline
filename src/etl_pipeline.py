@@ -3,19 +3,19 @@ import numpy as np
 import os
 import glob
 import logging
-from sqlalchemy import create_engine # <-- IMPORT THIS
+from sqlalchemy import create_engine
 
 # --- Configuration ---
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 INPUT_DATA_PATH = './data/input/'
 PROCESSED_DATA_PATH = './data/processed/'
-DB_FILE_PATH = 'sales_data.db' # <-- ADD: Path for your SQLite database file
+DB_FILE_PATH = 'sales_data.db' 
 
 os.makedirs(PROCESSED_DATA_PATH, exist_ok=True)
 
 # --- DATABASE SETUP (NEW) ---
-# Create a database engine. This will create the 'sales_data.db' file in your project folder.
+# Create a database engine. This will create the 'sales_data.db'
 db_engine = create_engine(f'sqlite:///{DB_FILE_PATH}')
 
 def find_csv_files(directory_path):
@@ -64,11 +64,11 @@ def transform_data(df):
 
     df['TotalSales'] = df['Quantity'] * df['Price']
 
-    # Keep relevant columns for the database
+    
     final_cols = ['SaleDate', 'Item', 'Quantity', 'Price', 'Category', 'TotalSales', 'source_file']
     return df[[col for col in final_cols if col in df.columns]]
 
-# --- NEW FUNCTION TO LOAD DATA TO DATABASE ---
+
 def load_to_database(df, table_name, engine):
     """Loads a DataFrame into a specified table in the database."""
     if df.empty:
@@ -76,12 +76,11 @@ def load_to_database(df, table_name, engine):
         return
     
     try:
-        # df.to_sql() is a powerful Pandas function for this
         df.to_sql(
             table_name,
             con=engine,
-            if_exists='replace', # 'replace' drops the table first, 'append' adds to it
-            index=False         # Don't write the DataFrame index as a column
+            if_exists='replace', 
+            index=False       
         )
         logging.info(f"Successfully loaded {len(df)} rows into '{table_name}' table.")
     except Exception as e:
@@ -102,7 +101,7 @@ def main():
     # --- ADD THE DATABASE LOADING STEP ---
     load_to_database(transformed_data, 'sales', db_engine)
     
-    # You can still save the CSV if you want
+    
     if not transformed_data.empty:
         output_file = os.path.join(PROCESSED_DATA_PATH, 'processed_sales_data.csv')
         transformed_data.to_csv(output_file, index=False)
